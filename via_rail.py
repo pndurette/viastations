@@ -57,7 +57,8 @@ class Station:
 
     def get_dict(self):
         return { "name": self.name, "address": self.address,
-                 "lat": self.latitude, "long" : self.longitude }
+                 "lat": self.latitude, "long" : self.longitude,
+                 "url": self.url }
 
     def __repr__(self):
         return str(self.get_dict())
