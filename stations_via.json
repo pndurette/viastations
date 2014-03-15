@@ -1,0 +1,3038 @@
+[
+    {
+        "sc": "ABBO", 
+        "pv": "BC", 
+        "sn": "ABBOTSFORD", 
+        "dEn": "ABBOTSFORD"
+    }, 
+    {
+        "sc": "AGAS", 
+        "pv": "BC", 
+        "sn": "AGASSIZ", 
+        "dEn": "AGASSIZ"
+    }, 
+    {
+        "sc": "AGCT", 
+        "pv": "ON", 
+        "sn": "AGINCOURT", 
+        "dEn": "AGINCOURT"
+    }, 
+    {
+        "sc": "AHUN", 
+        "pv": "QC", 
+        "sn": "AHUNTSIC", 
+        "dEn": "AHUNTSIC"
+    }, 
+    {
+        "sc": "AJAX", 
+        "pv": "ON", 
+        "sn": "AJAX", 
+        "dEn": "AJAX"
+    }, 
+    {
+        "sc": "ALBY", 
+        "pv": "NY", 
+        "sn": "ALBANY", 
+        "dEn": "ALBANY"
+    }, 
+    {
+        "sc": "ALDR", 
+        "pv": "ON", 
+        "sn": "ALDERSHOT", 
+        "dEn": "ALDERSHOT"
+    }, 
+    {
+        "sc": "ALEX", 
+        "pv": "ON", 
+        "sn": "ALEXANDRIA", 
+        "dEn": "ALEXANDRIA"
+    }, 
+    {
+        "sc": "ALZL", 
+        "pv": "BC", 
+        "sn": "ALEZA LAKE", 
+        "dEn": "ALEZA LAKE"
+    }, 
+    {
+        "sc": "ALWB", 
+        "pv": "ON", 
+        "sn": "ALLANWATER BRIDGE", 
+        "dEn": "ALLANWATER BRIDGE"
+    }, 
+    {
+        "sc": "AMRY", 
+        "pv": "MB", 
+        "sn": "AMERY", 
+        "dEn": "AMERY"
+    }, 
+    {
+        "sc": "AMHS", 
+        "pv": "NS", 
+        "sn": "AMHERST", 
+        "dEn": "AMHERST"
+    }, 
+    {
+        "sc": "AMQU", 
+        "pv": "QC", 
+        "sn": "AMQUI", 
+        "dEn": "AMQUI"
+    }, 
+    {
+        "sc": "AMST", 
+        "pv": "NY", 
+        "sn": "AMSTERDAM", 
+        "dEn": "AMSTERDAM"
+    }, 
+    {
+        "sc": "APPL", 
+        "pv": "ON", 
+        "sn": "APPLEBY", 
+        "dEn": "APPLEBY"
+    }, 
+    {
+        "sc": "ARMG", 
+        "pv": "ON", 
+        "sn": "ARMSTRONG", 
+        "dEn": "ARMSTRONG"
+    }, 
+    {
+        "sc": "ARNO", 
+        "pv": "MB", 
+        "sn": "ARNOT", 
+        "dEn": "ARNOT"
+    }, 
+    {
+        "sc": "ASHN", 
+        "pv": "BC", 
+        "sn": "ASHCROFT", 
+        "dEn": "ASHCROFT"
+    }, 
+    {
+        "sc": "ATIK", 
+        "pv": "MB", 
+        "sn": "ATIK", 
+        "dEn": "ATIK"
+    }, 
+    {
+        "sc": "ATKL", 
+        "pv": "MB", 
+        "sn": "ATIKAMEG LAKE", 
+        "dEn": "ATIKAMEG LAKE"
+    }, 
+    {
+        "sc": "AUDN", 
+        "pv": "ON", 
+        "sn": "AUDEN", 
+        "dEn": "AUDEN"
+    }, 
+    {
+        "sc": "AROR", 
+        "pv": "ON", 
+        "sn": "AURORA", 
+        "dEn": "AURORA"
+    }, 
+    {
+        "sc": "AZIL", 
+        "pv": "ON", 
+        "sn": "AZILDA", 
+        "dEn": "AZILDA"
+    }, 
+    {
+        "sc": "BACK", 
+        "pv": "MB", 
+        "sn": "BACK", 
+        "dEn": "BACK"
+    }, 
+    {
+        "sc": "BANF", 
+        "pv": "AB", 
+        "sn": "BANFF", 
+        "dEn": "BANFF"
+    }, 
+    {
+        "sc": "BARA", 
+        "pv": "QC", 
+        "sn": "BARACHOIS", 
+        "dEn": "BARACHOIS"
+    }, 
+    {
+        "sc": "BARS", 
+        "pv": "ON", 
+        "sn": "BARRIE SOUTH", 
+        "dEn": "BARRIE SOUTH"
+    }, 
+    {
+        "sc": "BTRS", 
+        "pv": "NB", 
+        "sn": "BATHURST", 
+        "dEn": "BATHURST"
+    }, 
+    {
+        "sc": "BLCH", 
+        "pv": "MB", 
+        "sn": "BELCHER", 
+        "dEn": "BELCHER"
+    }, 
+    {
+        "sc": "BLVL", 
+        "pv": "ON", 
+        "sn": "BELLEVILLE", 
+        "dEn": "BELLEVILLE"
+    }, 
+    {
+        "sc": "BEND", 
+        "pv": "BC", 
+        "sn": "BEND", 
+        "dEn": "BEND"
+    }, 
+    {
+        "sc": "BENN", 
+        "pv": "ON", 
+        "sn": "BENNY", 
+        "dEn": "BENNY"
+    }, 
+    {
+        "sc": "BIGG", 
+        "pv": "SK", 
+        "sn": "BIGGAR", 
+        "dEn": "BIGGAR"
+    }, 
+    {
+        "sc": "BIMA", 
+        "pv": "QC", 
+        "sn": "BIMA", 
+        "dEn": "BIMA"
+    }, 
+    {
+        "sc": "BIRD", 
+        "pv": "MB", 
+        "sn": "BIRD", 
+        "dEn": "BIRD"
+    }, 
+    {
+        "sc": "BISC", 
+        "pv": "ON", 
+        "sn": "BISCOTASING", 
+        "dEn": "BISCOTASING"
+    }, 
+    {
+        "sc": "BLOO", 
+        "pv": "ON", 
+        "sn": "BLOOR", 
+        "dEn": "BLOOR"
+    }, 
+    {
+        "sc": "BLUE", 
+        "pv": "BC", 
+        "sn": "BLUE RIVER", 
+        "dEn": "BLUE RIVER"
+    }, 
+    {
+        "sc": "BSFR", 
+        "pv": "QC", 
+        "sn": "BOIS-FRANC", 
+        "dEn": "BOIS-FRANC"
+    }, 
+    {
+        "sc": "BGQU", 
+        "pv": "QC", 
+        "sn": "BOLGER", 
+        "dEn": "BOLGER"
+    }, 
+    {
+        "sc": "BOLK", 
+        "pv": "ON", 
+        "sn": "BOLKOW", 
+        "dEn": "BOLKOW"
+    }, 
+    {
+        "sc": "BVNT", 
+        "pv": "QC", 
+        "sn": "BONAVENTURE", 
+        "dEn": "BONAVENTURE"
+    }, 
+    {
+        "sc": "BBAR", 
+        "pv": "BC", 
+        "sn": "BOSTON BAR", 
+        "dEn": "BOSTON BAR"
+    }, 
+    {
+        "sc": "BRMT", 
+        "pv": "QC", 
+        "sn": "BOURMONT", 
+        "dEn": "BOURMONT"
+    }, 
+    {
+        "sc": "BOYD", 
+        "pv": "MB", 
+        "sn": "BOYD", 
+        "dEn": "BOYD"
+    }, 
+    {
+        "sc": "BRFD", 
+        "pv": "ON", 
+        "sn": "BRADFORD", 
+        "dEn": "BRADFORD"
+    }, 
+    {
+        "sc": "BRML", 
+        "pv": "ON", 
+        "sn": "BRAMALEA", 
+        "dEn": "BRAMALEA"
+    }, 
+    {
+        "sc": "BRMP", 
+        "pv": "ON", 
+        "sn": "BRAMPTON", 
+        "dEn": "BRAMPTON"
+    }, 
+    {
+        "sc": "BRTF", 
+        "pv": "ON", 
+        "sn": "BRANTFORD", 
+        "dEn": "BRANTFORD"
+    }, 
+    {
+        "sc": "BRTL", 
+        "pv": "MB", 
+        "sn": "BRERETON LAKE", 
+        "dEn": "BRERETON LAKE"
+    }, 
+    {
+        "sc": "BRGR", 
+        "pv": "MB", 
+        "sn": "BRIDGAR", 
+        "dEn": "BRIDGAR"
+    }, 
+    {
+        "sc": "BRKV", 
+        "pv": "ON", 
+        "sn": "BROCKVILLE", 
+        "dEn": "BROCKVILLE"
+    }, 
+    {
+        "sc": "BRON", 
+        "pv": "ON", 
+        "sn": "BRONTE", 
+        "dEn": "BRONTE"
+    }, 
+    {
+        "sc": "BRQU", 
+        "pv": "QC", 
+        "sn": "BROOKS", 
+        "dEn": "BROOKS"
+    }, 
+    {
+        "sc": "BUDD", 
+        "pv": "MB", 
+        "sn": "BUDD", 
+        "dEn": "BUDD"
+    }, 
+    {
+        "sc": "BUFF", 
+        "pv": "NY", 
+        "sn": "BUFFALO (DEPEW)", 
+        "dEn": "BUFFALO (DEPEW)"
+    }, 
+    {
+        "sc": "BUFX", 
+        "pv": "NY", 
+        "sn": "BUFFALO (EXCHANGE)", 
+        "dEn": "BUFFALO (EXCHANGE)"
+    }, 
+    {
+        "sc": "BURL", 
+        "pv": "ON", 
+        "sn": "BURLINGTON", 
+        "dEn": "BURLINGTON"
+    }, 
+    {
+        "sc": "BRNL", 
+        "pv": "BC", 
+        "sn": "BURNS LAKE", 
+        "dEn": "BURNS LAKE"
+    }, 
+    {
+        "sc": "BUTT", 
+        "pv": "MB", 
+        "sn": "BUTTON", 
+        "dEn": "BUTTON"
+    }, 
+    {
+        "sc": "BYLO", 
+        "pv": "MB", 
+        "sn": "BYLOT", 
+        "dEn": "BYLOT"
+    }, 
+    {
+        "sc": "CALG", 
+        "pv": "AB", 
+        "sn": "CALGARY", 
+        "dEn": "CALGARY"
+    }, 
+    {
+        "sc": "XYYC", 
+        "pv": "AB", 
+        "sn": "CALGARY", 
+        "dEn": "CALGARY"
+    }, 
+    {
+        "sc": "CBTN", 
+        "pv": "NB", 
+        "sn": "CAMPBELLTON", 
+        "dEn": "CAMPBELLTON"
+    }, 
+    {
+        "sc": "AMKM", 
+        "pv": "ON-NY", 
+        "sn": "CANADA-US BORDER/FRONTIÈRE", 
+        "dEn": "CANADA-US BORDER/FRONTIÈRE"
+    }, 
+    {
+        "sc": "CANN", 
+        "pv": "QC", 
+        "sn": "CANN", 
+        "dEn": "CANN"
+    }, 
+    {
+        "sc": "CANO", 
+        "pv": "SK", 
+        "sn": "CANORA", 
+        "dEn": "CANORA"
+    }, 
+    {
+        "sc": "CANR", 
+        "pv": "QC", 
+        "sn": "CANORA", 
+        "dEn": "CANORA"
+    }, 
+    {
+        "sc": "CNYK", 
+        "pv": "ON", 
+        "sn": "CANYON", 
+        "dEn": "CANYON"
+    }, 
+    {
+        "sc": "CAPL", 
+        "pv": "QC", 
+        "sn": "CAPLAN", 
+        "dEn": "CAPLAN"
+    }, 
+    {
+        "sc": "CAPR", 
+        "pv": "ON", 
+        "sn": "CAPREOL", 
+        "dEn": "CAPREOL"
+    }, 
+    {
+        "sc": "CARA", 
+        "pv": "ON", 
+        "sn": "CARAMAT", 
+        "dEn": "CARAMAT"
+    }, 
+    {
+        "sc": "CARI", 
+        "pv": "QC", 
+        "sn": "CARIBOU", 
+        "dEn": "CARIBOU"
+    }, 
+    {
+        "sc": "CARL", 
+        "pv": "QC", 
+        "sn": "CARLETON", 
+        "dEn": "CARLETON"
+    }, 
+    {
+        "sc": "CART", 
+        "pv": "ON", 
+        "sn": "CARTIER", 
+        "dEn": "CARTIER"
+    }, 
+    {
+        "sc": "CASY", 
+        "pv": "QC", 
+        "sn": "CASEY", 
+        "dEn": "CASEY"
+    }, 
+    {
+        "sc": "CSLM", 
+        "pv": "ON", 
+        "sn": "CASSELMAN", 
+        "dEn": "CASSELMAN"
+    }, 
+    {
+        "sc": "CAUS", 
+        "pv": "QC", 
+        "sn": "CAUSAPSCAL", 
+        "dEn": "CAUSAPSCAL"
+    }, 
+    {
+        "sc": "CEDA", 
+        "pv": "BC", 
+        "sn": "CEDARVALE", 
+        "dEn": "CEDARVALE"
+    }, 
+    {
+        "sc": "CENT", 
+        "pv": "ON", 
+        "sn": "CENTENNIAL", 
+        "dEn": "CENTENNIAL"
+    }, 
+    {
+        "sc": "CHBD", 
+        "pv": "QC", 
+        "sn": "CHAMBORD", 
+        "dEn": "CHAMBORD"
+    }, 
+    {
+        "sc": "CHND", 
+        "pv": "QC", 
+        "sn": "CHANDLER", 
+        "dEn": "CHANDLER"
+    }, 
+    {
+        "sc": "CHAP", 
+        "pv": "ON", 
+        "sn": "CHAPLEAU", 
+        "dEn": "CHAPLEAU"
+    }, 
+    {
+        "sc": "CHRT", 
+        "pv": "QC", 
+        "sn": "CHARETTE", 
+        "dEn": "CHARETTE"
+    }, 
+    {
+        "sc": "CHLB", 
+        "pv": "MB", 
+        "sn": "CHARLEBOIS", 
+        "dEn": "CHARLEBOIS"
+    }, 
+    {
+        "sc": "CHLS", 
+        "pv": "MB", 
+        "sn": "CHARLES", 
+        "dEn": "CHARLES"
+    }, 
+    {
+        "sc": "CHLO", 
+        "pv": "NB", 
+        "sn": "CHARLO", 
+        "dEn": "CHARLO"
+    }, 
+    {
+        "sc": "CHNY", 
+        "pv": "QC", 
+        "sn": "CHARNY", 
+        "dEn": "CHARNY"
+    }, 
+    {
+        "sc": "CHAT", 
+        "pv": "ON", 
+        "sn": "CHATHAM", 
+        "dEn": "CHATHAM"
+    }, 
+    {
+        "sc": "CHEL", 
+        "pv": "ON", 
+        "sn": "CHELMSFORD", 
+        "dEn": "CHELMSFORD"
+    }, 
+    {
+        "sc": "CHER", 
+        "pv": "QC", 
+        "sn": "CHEROKEE", 
+        "dEn": "CHEROKEE"
+    }, 
+    {
+        "sc": "CHES", 
+        "pv": "MB", 
+        "sn": "CHESNAYE", 
+        "dEn": "CHESNAYE"
+    }, 
+    {
+        "sc": "CHIL", 
+        "pv": "BC", 
+        "sn": "CHILLIWACK", 
+        "dEn": "CHILLIWACK"
+    }, 
+    {
+        "sc": "CHUR", 
+        "pv": "MB", 
+        "sn": "CHURCHILL", 
+        "dEn": "CHURCHILL"
+    }, 
+    {
+        "sc": "CLAR", 
+        "pv": "ON", 
+        "sn": "CLARKSON", 
+        "dEn": "CLARKSON"
+    }, 
+    {
+        "sc": "CLWT", 
+        "pv": "BC", 
+        "sn": "CLEARWATER", 
+        "dEn": "CLEARWATER"
+    }, 
+    {
+        "sc": "CLOV", 
+        "pv": "QC", 
+        "sn": "CLOVA", 
+        "dEn": "CLOVA"
+    }, 
+    {
+        "sc": "BDNC", 
+        "pv": "QC", 
+        "sn": "CLUB BEAUDIN", 
+        "dEn": "CLUB BEAUDIN"
+    }, 
+    {
+        "sc": "BLGC", 
+        "pv": "QC", 
+        "sn": "CLUB BELANGER", 
+        "dEn": "CLUB BELANGER"
+    }, 
+    {
+        "sc": "GRGC", 
+        "pv": "QC", 
+        "sn": "CLUB GREGOIRE", 
+        "dEn": "CLUB GREGOIRE"
+    }, 
+    {
+        "sc": "NCLC", 
+        "pv": "QC", 
+        "sn": "CLUB NICOL", 
+        "dEn": "CLUB NICOL"
+    }, 
+    {
+        "sc": "RTAC", 
+        "pv": "QC", 
+        "sn": "CLUB RITA", 
+        "dEn": "CLUB RITA"
+    }, 
+    {
+        "sc": "VMLC", 
+        "pv": "QC", 
+        "sn": "CLUB VERMILLON", 
+        "dEn": "CLUB VERMILLON"
+    }, 
+    {
+        "sc": "CBRG", 
+        "pv": "ON", 
+        "sn": "COBOURG", 
+        "dEn": "COBOURG"
+    }, 
+    {
+        "sc": "COLL", 
+        "pv": "ON", 
+        "sn": "COLLINS", 
+        "dEn": "COLLINS"
+    }, 
+    {
+        "sc": "CBAT", 
+        "pv": "QC", 
+        "sn": "CONSOLIDATED BATHURST", 
+        "dEn": "CONSOLIDATED BATHURST"
+    }, 
+    {
+        "sc": "CKVL", 
+        "pv": "ON", 
+        "sn": "COOKSVILLE", 
+        "dEn": "COOKSVILLE"
+    }, 
+    {
+        "sc": "COPE", 
+        "pv": "ON", 
+        "sn": "COPELANDS LANDING", 
+        "dEn": "COPELANDS LANDING"
+    }, 
+    {
+        "sc": "COQU", 
+        "pv": "QC", 
+        "sn": "COQUAR", 
+        "dEn": "COQUAR"
+    }, 
+    {
+        "sc": "CORM", 
+        "pv": "MB", 
+        "sn": "CORMORANT", 
+        "dEn": "CORMORANT"
+    }, 
+    {
+        "sc": "CWLL", 
+        "pv": "ON", 
+        "sn": "CORNWALL", 
+        "dEn": "CORNWALL"
+    }, 
+    {
+        "sc": "COTO", 
+        "pv": "QC", 
+        "sn": "COTEAU", 
+        "dEn": "COTEAU"
+    }, 
+    {
+        "sc": "CRNP", 
+        "pv": "MB", 
+        "sn": "CRANBERRY PORTAGE", 
+        "dEn": "CRANBERRY PORTAGE"
+    }, 
+    {
+        "sc": "CRSM", 
+        "pv": "QC", 
+        "sn": "CRESSMAN", 
+        "dEn": "CRESSMAN"
+    }, 
+    {
+        "sc": "CROM", 
+        "pv": "MB", 
+        "sn": "CROMARTY", 
+        "dEn": "CROMARTY"
+    }, 
+    {
+        "sc": "CROT", 
+        "pv": "NY", 
+        "sn": "CROTON HARMON", 
+        "dEn": "CROTON HARMON"
+    }, 
+    {
+        "sc": "DALT", 
+        "pv": "ON", 
+        "sn": "DALTON", 
+        "dEn": "DALTON"
+    }, 
+    {
+        "sc": "DANF", 
+        "pv": "ON", 
+        "sn": "DANFORTH", 
+        "dEn": "DANFORTH"
+    }, 
+    {
+        "sc": "DRLL", 
+        "pv": "QC", 
+        "sn": "DA-ROU-LAC LODGE", 
+        "dEn": "DA-ROU-LAC LODGE"
+    }, 
+    {
+        "sc": "DAUP", 
+        "pv": "MB", 
+        "sn": "DAUPHIN", 
+        "dEn": "DAUPHIN"
+    }, 
+    {
+        "sc": "DERI", 
+        "pv": "MB", 
+        "sn": "DERING", 
+        "dEn": "DERING"
+    }, 
+    {
+        "sc": "DESS", 
+        "pv": "QC", 
+        "sn": "DESSANE", 
+        "dEn": "DESSANE"
+    }, 
+    {
+        "sc": "DXMT", 
+        "pv": "QC", 
+        "sn": "DEUX-MONTAGNES", 
+        "dEn": "DEUX-MONTAGNES"
+    }, 
+    {
+        "sc": "DEVN", 
+        "pv": "ON", 
+        "sn": "DEVON", 
+        "dEn": "DEVON"
+    }, 
+    {
+        "sc": "DIGG", 
+        "pv": "MB", 
+        "sn": "DIGGES", 
+        "dEn": "DIGGES"
+    }, 
+    {
+        "sc": "DIXX", 
+        "pv": "QC", 
+        "sn": "DIX", 
+        "dEn": "DIX"
+    }, 
+    {
+        "sc": "DIXE", 
+        "pv": "ON", 
+        "sn": "DIXIE", 
+        "dEn": "DIXIE"
+    }, 
+    {
+        "sc": "DOMC", 
+        "pv": "BC", 
+        "sn": "DOME CREEK", 
+        "dEn": "DOME CREEK"
+    }, 
+    {
+        "sc": "DORR", 
+        "pv": "BC", 
+        "sn": "DORREEN", 
+        "dEn": "DORREEN"
+    }, 
+    {
+        "sc": "DORV", 
+        "pv": "QC", 
+        "sn": "DORVAL", 
+        "dEn": "DORVAL"
+    }, 
+    {
+        "sc": "DRMV", 
+        "pv": "QC", 
+        "sn": "DRUMMONDVILLE", 
+        "dEn": "DRUMMONDVILLE"
+    }, 
+    {
+        "sc": "DURS", 
+        "pv": "QC", 
+        "sn": "DU RUISSEAU", 
+        "dEn": "DU RUISSEAU"
+    }, 
+    {
+        "sc": "DUNL", 
+        "pv": "MB", 
+        "sn": "DUNLOP", 
+        "dEn": "DUNLOP"
+    }, 
+    {
+        "sc": "DNST", 
+        "pv": "BC", 
+        "sn": "DUNSTER", 
+        "dEn": "DUNSTER"
+    }, 
+    {
+        "sc": "DUPL", 
+        "pv": "QC", 
+        "sn": "DUPLESSIS", 
+        "dEn": "DUPLESSIS"
+    }, 
+    {
+        "sc": "DYCE", 
+        "pv": "MB", 
+        "sn": "DYCE", 
+        "dEn": "DYCE"
+    }, 
+    {
+        "sc": "EARC", 
+        "pv": "ON", 
+        "sn": "EARCHMAN", 
+        "dEn": "EARCHMAN"
+    }, 
+    {
+        "sc": "ESGW", 
+        "pv": "ON", 
+        "sn": "EAST GWILLIMBURY", 
+        "dEn": "EAST GWILLIMBURY"
+    }, 
+    {
+        "sc": "EDMO", 
+        "pv": "AB", 
+        "sn": "EDMONTON", 
+        "dEn": "EDMONTON"
+    }, 
+    {
+        "sc": "XYEG", 
+        "pv": "AB", 
+        "sn": "EDMONTON", 
+        "dEn": "EDMONTON"
+    }, 
+    {
+        "sc": "EDSN", 
+        "pv": "AB", 
+        "sn": "EDSON", 
+        "dEn": "EDSON"
+    }, 
+    {
+        "sc": "EGLT", 
+        "pv": "ON", 
+        "sn": "EGLINTON", 
+        "dEn": "EGLINTON"
+    }, 
+    {
+        "sc": "ELMA", 
+        "pv": "MB", 
+        "sn": "ELMA", 
+        "dEn": "ELMA"
+    }, 
+    {
+        "sc": "ELSA", 
+        "pv": "ON", 
+        "sn": "ELSAS", 
+        "dEn": "ELSAS"
+    }, 
+    {
+        "sc": "ENDA", 
+        "pv": "BC", 
+        "sn": "ENDAKO", 
+        "dEn": "ENDAKO"
+    }, 
+    {
+        "sc": "ENDV", 
+        "pv": "SK", 
+        "sn": "ENDEAVOUR", 
+        "dEn": "ENDEAVOUR"
+    }, 
+    {
+        "sc": "ERIN", 
+        "pv": "ON", 
+        "sn": "ERINDALE", 
+        "dEn": "ERINDALE"
+    }, 
+    {
+        "sc": "ESHR", 
+        "pv": "ON", 
+        "sn": "ESHER", 
+        "dEn": "ESHER"
+    }, 
+    {
+        "sc": "ETON", 
+        "pv": "ON", 
+        "sn": "ETOBICOKE NORTH", 
+        "dEn": "ETOBICOKE NORTH"
+    }, 
+    {
+        "sc": "EVAN", 
+        "pv": "AB", 
+        "sn": "EVANSBURG", 
+        "dEn": "EVANSBURG"
+    }, 
+    {
+        "sc": "EXHI", 
+        "pv": "ON", 
+        "sn": "EXHIBITION", 
+        "dEn": "EXHIBITION"
+    }, 
+    {
+        "sc": "FALL", 
+        "pv": "ON", 
+        "sn": "FALLOWFIELD", 
+        "dEn": "FALLOWFIELD"
+    }, 
+    {
+        "sc": "FALR", 
+        "pv": "QC", 
+        "sn": "FALRIE", 
+        "dEn": "FALRIE"
+    }, 
+    {
+        "sc": "FARL", 
+        "pv": "ON", 
+        "sn": "FARLANE", 
+        "dEn": "FARLANE"
+    }, 
+    {
+        "sc": "FELX", 
+        "pv": "ON", 
+        "sn": "FELIX", 
+        "dEn": "FELIX"
+    }, 
+    {
+        "sc": "FERG", 
+        "pv": "QC", 
+        "sn": "FERGUSON", 
+        "dEn": "FERGUSON"
+    }, 
+    {
+        "sc": "FERL", 
+        "pv": "ON", 
+        "sn": "FERLAND", 
+        "dEn": "FERLAND"
+    }, 
+    {
+        "sc": "FING", 
+        "pv": "MB", 
+        "sn": "FINGER", 
+        "dEn": "FINGER"
+    }, 
+    {
+        "sc": "FITZ", 
+        "pv": "QC", 
+        "sn": "FITZPATRICK", 
+        "dEn": "FITZPATRICK"
+    }, 
+    {
+        "sc": "FLTL", 
+        "pv": "ON", 
+        "sn": "FLINDT LANDING", 
+        "dEn": "FLINDT LANDING"
+    }, 
+    {
+        "sc": "FOLE", 
+        "pv": "ON", 
+        "sn": "FOLEYET", 
+        "dEn": "FOLEYET"
+    }, 
+    {
+        "sc": "FORS", 
+        "pv": "QC", 
+        "sn": "FORSYTHE", 
+        "dEn": "FORSYTHE"
+    }, 
+    {
+        "sc": "FFRA", 
+        "pv": "BC", 
+        "sn": "FORT FRASER", 
+        "dEn": "FORT FRASER"
+    }, 
+    {
+        "sc": "FMCM", 
+        "pv": "AB", 
+        "sn": "FORT MCMURRAY", 
+        "dEn": "FORT MCMURRAY"
+    }, 
+    {
+        "sc": "FRNZ", 
+        "pv": "ON", 
+        "sn": "FRANZ", 
+        "dEn": "FRANZ"
+    }, 
+    {
+        "sc": "GAGN", 
+        "pv": "QC", 
+        "sn": "GAGNON", 
+        "dEn": "GAGNON"
+    }, 
+    {
+        "sc": "GANA", 
+        "pv": "ON", 
+        "sn": "GANANOQUE", 
+        "dEn": "GANANOQUE"
+    }, 
+    {
+        "sc": "GARN", 
+        "pv": "QC", 
+        "sn": "GARNEAU", 
+        "dEn": "GARNEAU"
+    }, 
+    {
+        "sc": "GASP", 
+        "pv": "QC", 
+        "sn": "GASPÉ", 
+        "dEn": "GASPÉ"
+    }, 
+    {
+        "sc": "GEOR", 
+        "pv": "ON", 
+        "sn": "GEORGETOWN", 
+        "dEn": "GEORGETOWN"
+    }, 
+    {
+        "sc": "GLBP", 
+        "pv": "MB", 
+        "sn": "GILBERT PLAINS", 
+        "dEn": "GILBERT PLAINS"
+    }, 
+    {
+        "sc": "GILL", 
+        "pv": "MB", 
+        "sn": "GILLAM", 
+        "dEn": "GILLAM"
+    }, 
+    {
+        "sc": "GIRD", 
+        "pv": "ON", 
+        "sn": "GIRDWOOD", 
+        "dEn": "GIRDWOOD"
+    }, 
+    {
+        "sc": "GSTO", 
+        "pv": "MB", 
+        "sn": "GLADSTONE", 
+        "dEn": "GLADSTONE"
+    }, 
+    {
+        "sc": "GLNC", 
+        "pv": "ON", 
+        "sn": "GLENCOE", 
+        "dEn": "GLENCOE"
+    }, 
+    {
+        "sc": "GLNA", 
+        "pv": "MB", 
+        "sn": "GLENELLA", 
+        "dEn": "GLENELLA"
+    }, 
+    {
+        "sc": "GOAT", 
+        "pv": "BC", 
+        "sn": "GOAT RIVER", 
+        "dEn": "GOAT RIVER"
+    }, 
+    {
+        "sc": "GOGA", 
+        "pv": "ON", 
+        "sn": "GOGAMA", 
+        "dEn": "GOGAMA"
+    }, 
+    {
+        "sc": "GDRV", 
+        "pv": "QC", 
+        "sn": "GRANDE RIVIERE", 
+        "dEn": "GRANDE RIVIERE"
+    }, 
+    {
+        "sc": "GMRE", 
+        "pv": "QC", 
+        "sn": "GRAND-MÈRE", 
+        "dEn": "GRAND-MÈRE"
+    }, 
+    {
+        "sc": "GDML", 
+        "pv": "QC", 
+        "sn": "GRAND-MOULIN", 
+        "dEn": "GRAND-MOULIN"
+    }, 
+    {
+        "sc": "GVIE", 
+        "pv": "MB", 
+        "sn": "GRANDVIEW", 
+        "dEn": "GRANDVIEW"
+    }, 
+    {
+        "sc": "GRNG", 
+        "pv": "QC", 
+        "sn": "GREENING", 
+        "dEn": "GREENING"
+    }, 
+    {
+        "sc": "GRIG", 
+        "pv": "ON", 
+        "sn": "GRIMSBY", 
+        "dEn": "GRIMSBY"
+    }, 
+    {
+        "sc": "GRIM", 
+        "pv": "ON", 
+        "sn": "GRIMSBY", 
+        "dEn": "GRIMSBY"
+    }, 
+    {
+        "sc": "GUEL", 
+        "pv": "ON", 
+        "sn": "GUELPH", 
+        "dEn": "GUELPH"
+    }, 
+    {
+        "sc": "GUIL", 
+        "pv": "ON", 
+        "sn": "GUILDWOOD", 
+        "dEn": "GUILDWOOD"
+    }, 
+    {
+        "sc": "HALC", 
+        "pv": "MB", 
+        "sn": "HALCROW", 
+        "dEn": "HALCROW"
+    }, 
+    {
+        "sc": "HLFX", 
+        "pv": "NS", 
+        "sn": "HALIFAX", 
+        "dEn": "HALIFAX"
+    }, 
+    {
+        "sc": "HAML", 
+        "pv": "ON", 
+        "sn": "HAMILTON", 
+        "dEn": "HAMILTON"
+    }, 
+    {
+        "sc": "HRVY", 
+        "pv": "BC", 
+        "sn": "HARVEY", 
+        "dEn": "HARVEY"
+    }, 
+    {
+        "sc": "HEBV", 
+        "pv": "QC", 
+        "sn": "HEBERTVILLE", 
+        "dEn": "HEBERTVILLE"
+    }, 
+    {
+        "sc": "HMGL", 
+        "pv": "MB", 
+        "sn": "HEMING LAKE", 
+        "dEn": "HEMING LAKE"
+    }, 
+    {
+        "sc": "HERC", 
+        "pv": "MB", 
+        "sn": "HERCHMER", 
+        "dEn": "HERCHMER"
+    }, 
+    {
+        "sc": "HERV", 
+        "pv": "QC", 
+        "sn": "HERVEY", 
+        "dEn": "HERVEY"
+    }, 
+    {
+        "sc": "HIBB", 
+        "pv": "QC", 
+        "sn": "HIBBARD", 
+        "dEn": "HIBBARD"
+    }, 
+    {
+        "sc": "HLSP", 
+        "pv": "ON", 
+        "sn": "HILLSPORT", 
+        "dEn": "HILLSPORT"
+    }, 
+    {
+        "sc": "HINT", 
+        "pv": "AB", 
+        "sn": "HINTON", 
+        "dEn": "HINTON"
+    }, 
+    {
+        "sc": "HRDL", 
+        "pv": "QC", 
+        "sn": "HIRONDELLE", 
+        "dEn": "HIRONDELLE"
+    }, 
+    {
+        "sc": "HOCK", 
+        "pv": "MB", 
+        "sn": "HOCKIN", 
+        "dEn": "HOCKIN"
+    }, 
+    {
+        "sc": "HOPE", 
+        "pv": "BC", 
+        "sn": "HOPE", 
+        "dEn": "HOPE"
+    }, 
+    {
+        "sc": "HNPN", 
+        "pv": "ON", 
+        "sn": "HORNEPAYNE", 
+        "dEn": "HORNEPAYNE"
+    }, 
+    {
+        "sc": "HOUS", 
+        "pv": "BC", 
+        "sn": "HOUSTON", 
+        "dEn": "HOUSTON"
+    }, 
+    {
+        "sc": "HBAY", 
+        "pv": "SK", 
+        "sn": "HUDSON BAY", 
+        "dEn": "HUDSON BAY"
+    }, 
+    {
+        "sc": "HUDS", 
+        "pv": "NY", 
+        "sn": "HUDSON", 
+        "dEn": "HUDSON"
+    }, 
+    {
+        "sc": "HUTT", 
+        "pv": "BC", 
+        "sn": "HUTTON", 
+        "dEn": "HUTTON"
+    }, 
+    {
+        "sc": "ISLE", 
+        "pv": "QC", 
+        "sn": "ILE-BIGRAS", 
+        "dEn": "ILE-BIGRAS"
+    }, 
+    {
+        "sc": "ILFO", 
+        "pv": "MB", 
+        "sn": "ILFORD", 
+        "dEn": "ILFORD"
+    }, 
+    {
+        "sc": "INGR", 
+        "pv": "ON", 
+        "sn": "INGERSOLL", 
+        "dEn": "INGERSOLL"
+    }, 
+    {
+        "sc": "IRQC", 
+        "pv": "QC", 
+        "sn": "IROQUOIS CLUB", 
+        "dEn": "IROQUOIS CLUB"
+    }, 
+    {
+        "sc": "JACC", 
+        "pv": "QC", 
+        "sn": "JACQUES CARTIER CLUB", 
+        "dEn": "JACQUES CARTIER CLUB"
+    }, 
+    {
+        "sc": "JACR", 
+        "pv": "NB", 
+        "sn": "JACQUET RIVER", 
+        "dEn": "JACQUET RIVER"
+    }, 
+    {
+        "sc": "JASP", 
+        "pv": "AB", 
+        "sn": "JASPER", 
+        "dEn": "JASPER"
+    }, 
+    {
+        "sc": "JOLI", 
+        "pv": "QC", 
+        "sn": "JOLIETTE", 
+        "dEn": "JOLIETTE"
+    }, 
+    {
+        "sc": "JONQ", 
+        "pv": "QC", 
+        "sn": "JONQUIERE", 
+        "dEn": "JONQUIERE"
+    }, 
+    {
+        "sc": "KAMN", 
+        "pv": "BC", 
+        "sn": "KAMLOOPS NORTH", 
+        "dEn": "KAMLOOPS NORTH"
+    }, 
+    {
+        "sc": "KAMS", 
+        "pv": "SK", 
+        "sn": "KAMSACK", 
+        "dEn": "KAMSACK"
+    }, 
+    {
+        "sc": "KPTC", 
+        "pv": "QC", 
+        "sn": "KAPITACHUAN", 
+        "dEn": "KAPITACHUAN"
+    }, 
+    {
+        "sc": "KATZ", 
+        "pv": "BC", 
+        "sn": "KATZ", 
+        "dEn": "KATZ"
+    }, 
+    {
+        "sc": "KLTT", 
+        "pv": "MB", 
+        "sn": "KELLETT", 
+        "dEn": "KELLETT"
+    }, 
+    {
+        "sc": "KNDY", 
+        "pv": "ON", 
+        "sn": "KENNEDY", 
+        "dEn": "KENNEDY"
+    }, 
+    {
+        "sc": "KETR", 
+        "pv": "MB", 
+        "sn": "KETTLE RAPIDS", 
+        "dEn": "KETTLE RAPIDS"
+    }, 
+    {
+        "sc": "KING", 
+        "pv": "ON", 
+        "sn": "KING CITY", 
+        "dEn": "KING CITY"
+    }, 
+    {
+        "sc": "KGON", 
+        "pv": "ON", 
+        "sn": "KINGSTON", 
+        "dEn": "KINGSTON"
+    }, 
+    {
+        "sc": "KINO", 
+        "pv": "ON", 
+        "sn": "KINOGAMA", 
+        "dEn": "KINOGAMA"
+    }, 
+    {
+        "sc": "KPLG", 
+        "pv": "ON", 
+        "sn": "KIPLING", 
+        "dEn": "KIPLING"
+    }, 
+    {
+        "sc": "KISK", 
+        "pv": "QC", 
+        "sn": "KISKISINK", 
+        "dEn": "KISKISINK"
+    }, 
+    {
+        "sc": "KITC", 
+        "pv": "ON", 
+        "sn": "KITCHENER", 
+        "dEn": "KITCHENER"
+    }, 
+    {
+        "sc": "KITW", 
+        "pv": "BC", 
+        "sn": "KITWANGA", 
+        "dEn": "KITWANGA"
+    }, 
+    {
+        "sc": "KOND", 
+        "pv": "QC", 
+        "sn": "KONDIARONK", 
+        "dEn": "KONDIARONK"
+    }, 
+    {
+        "sc": "KORM", 
+        "pv": "QC", 
+        "sn": "KORMAK", 
+        "dEn": "KORMAK"
+    }, 
+    {
+        "sc": "KWIN", 
+        "pv": "BC", 
+        "sn": "KWINITSA", 
+        "dEn": "KWINITSA"
+    }, 
+    {
+        "sc": "LASS", 
+        "pv": "QC", 
+        "sn": "L`ASSOMPTION", 
+        "dEn": "L`ASSOMPTION"
+    }, 
+    {
+        "sc": "LPRS", 
+        "pv": "MB", 
+        "sn": "LA PEROUSE", 
+        "dEn": "LA PEROUSE"
+    }, 
+    {
+        "sc": "LPOC", 
+        "pv": "QC", 
+        "sn": "LA POCATIERE", 
+        "dEn": "LA POCATIERE"
+    }, 
+    {
+        "sc": "LTUQ", 
+        "pv": "QC", 
+        "sn": "LA TUQUE", 
+        "dEn": "LA TUQUE"
+    }, 
+    {
+        "sc": "LBOU", 
+        "pv": "QC", 
+        "sn": "LAC BOUCHETTE", 
+        "dEn": "LAC BOUCHETTE"
+    }, 
+    {
+        "sc": "LDAR", 
+        "pv": "QC", 
+        "sn": "LAC DAREY", 
+        "dEn": "LAC DAREY"
+    }, 
+    {
+        "sc": "LDES", 
+        "pv": "QC", 
+        "sn": "LAC DES ROCHES", 
+        "dEn": "LAC DES ROCHES"
+    }, 
+    {
+        "sc": "LEDW", 
+        "pv": "QC", 
+        "sn": "LAC ÉDOUARD", 
+        "dEn": "LAC ÉDOUARD"
+    }, 
+    {
+        "sc": "LMAL", 
+        "pv": "QC", 
+        "sn": "LAC MALOUIN", 
+        "dEn": "LAC MALOUIN"
+    }, 
+    {
+        "sc": "LAFO", 
+        "pv": "ON", 
+        "sn": "LAFOREST", 
+        "dEn": "LAFOREST"
+    }, 
+    {
+        "sc": "LLOU", 
+        "pv": "AB", 
+        "sn": "LAKE LOUISE", 
+        "dEn": "LAKE LOUISE"
+    }, 
+    {
+        "sc": "LAMP", 
+        "pv": "MB", 
+        "sn": "LAMPREY", 
+        "dEn": "LAMPREY"
+    }, 
+    {
+        "sc": "LNGN", 
+        "pv": "QC", 
+        "sn": "LANGLADE", 
+        "dEn": "LANGLADE"
+    }, 
+    {
+        "sc": "LANG", 
+        "pv": "ON", 
+        "sn": "LANGSTAFF", 
+        "dEn": "LANGSTAFF"
+    }, 
+    {
+        "sc": "LARC", 
+        "pv": "ON", 
+        "sn": "LARCHWOOD", 
+        "dEn": "LARCHWOOD"
+    }, 
+    {
+        "sc": "LRIE", 
+        "pv": "MB", 
+        "sn": "LAURIER", 
+        "dEn": "LAURIER"
+    }, 
+    {
+        "sc": "LAWL", 
+        "pv": "MB", 
+        "sn": "LAWLEDGE", 
+        "dEn": "LAWLEDGE"
+    }, 
+    {
+        "sc": "LGAR", 
+        "pv": "QC", 
+        "sn": "LE GARDEUR", 
+        "dEn": "LE GARDEUR"
+    }, 
+    {
+        "sc": "LEVA", 
+        "pv": "ON", 
+        "sn": "LEVACK", 
+        "dEn": "LEVACK"
+    }, 
+    {
+        "sc": "LEVN", 
+        "pv": "MB", 
+        "sn": "LEVEN", 
+        "dEn": "LEVEN"
+    }, 
+    {
+        "sc": "LNVL", 
+        "pv": "ON", 
+        "sn": "LINCOLNVILLE", 
+        "dEn": "LINCOLNVILLE"
+    }, 
+    {
+        "sc": "LSGR", 
+        "pv": "ON", 
+        "sn": "LISGAR", 
+        "dEn": "LISGAR"
+    }, 
+    {
+        "sc": "LIZO", 
+        "pv": "QC", 
+        "sn": "LIZOTTE CLUB", 
+        "dEn": "LIZOTTE CLUB"
+    }, 
+    {
+        "sc": "LOCH", 
+        "pv": "ON", 
+        "sn": "LOCHALSH", 
+        "dEn": "LOCHALSH"
+    }, 
+    {
+        "sc": "LNDN", 
+        "pv": "ON", 
+        "sn": "LONDON", 
+        "dEn": "LONDON"
+    }, 
+    {
+        "sc": "LBRC", 
+        "pv": "ON", 
+        "sn": "LONG BRANCH", 
+        "dEn": "LONG BRANCH"
+    }, 
+    {
+        "sc": "LLAC", 
+        "pv": "ON", 
+        "sn": "LONGLAC", 
+        "dEn": "LONGLAC"
+    }, 
+    {
+        "sc": "LWTH", 
+        "pv": "BC", 
+        "sn": "LONGWORTH", 
+        "dEn": "LONGWORTH"
+    }, 
+    {
+        "sc": "LOOS", 
+        "pv": "BC", 
+        "sn": "LOOS", 
+        "dEn": "LOOS"
+    }, 
+    {
+        "sc": "LUKE", 
+        "pv": "MB", 
+        "sn": "LUKE", 
+        "dEn": "LUKE"
+    }, 
+    {
+        "sc": "LYDD", 
+        "pv": "MB", 
+        "sn": "LYDDAL", 
+        "dEn": "LYDDAL"
+    }, 
+    {
+        "sc": "MLCH", 
+        "pv": "ON", 
+        "sn": "MALACHI", 
+        "dEn": "MALACHI"
+    }, 
+    {
+        "sc": "MALT", 
+        "pv": "ON", 
+        "sn": "MALTON", 
+        "dEn": "MALTON"
+    }, 
+    {
+        "sc": "MWWC", 
+        "pv": "QC", 
+        "sn": "MANIWAWA CLUB", 
+        "dEn": "MANIWAWA CLUB"
+    }, 
+    {
+        "sc": "MJBG", 
+        "pv": "QC", 
+        "sn": "MANJOBAGUES", 
+        "dEn": "MANJOBAGUES"
+    }, 
+    {
+        "sc": "MPLE", 
+        "pv": "ON", 
+        "sn": "MAPLE", 
+        "dEn": "MAPLE"
+    }, 
+    {
+        "sc": "MHAM", 
+        "pv": "ON", 
+        "sn": "MARKHAM", 
+        "dEn": "MARKHAM"
+    }, 
+    {
+        "sc": "MTPD", 
+        "pv": "QC", 
+        "sn": "MATAPEDIA", 
+        "dEn": "MATAPEDIA"
+    }, 
+    {
+        "sc": "MCBR", 
+        "pv": "BC", 
+        "sn": "MCBRIDE", 
+        "dEn": "MCBRIDE"
+    }, 
+    {
+        "sc": "MCCA", 
+        "pv": "QC", 
+        "sn": "MCCARTHY", 
+        "dEn": "MCCARTHY"
+    }, 
+    {
+        "sc": "MCCR", 
+        "pv": "MB", 
+        "sn": "MCCREARY", 
+        "dEn": "MCCREARY"
+    }, 
+    {
+        "sc": "MCGR", 
+        "pv": "BC", 
+        "sn": "MCGREGOR", 
+        "dEn": "MCGREGOR"
+    }, 
+    {
+        "sc": "MCKC", 
+        "pv": "ON", 
+        "sn": "MCKEE`S CAMP", 
+        "dEn": "MCKEE`S CAMP"
+    }, 
+    {
+        "sc": "MCLI", 
+        "pv": "MB", 
+        "sn": "MCLINTOCK", 
+        "dEn": "MCLINTOCK"
+    }, 
+    {
+        "sc": "MCMA", 
+        "pv": "QC", 
+        "sn": "MCMASTERVILLE", 
+        "dEn": "MCMASTERVILLE"
+    }, 
+    {
+        "sc": "MCTC", 
+        "pv": "QC", 
+        "sn": "MCTAVIS CLUB", 
+        "dEn": "MCTAVIS CLUB"
+    }, 
+    {
+        "sc": "MDVL", 
+        "pv": "ON", 
+        "sn": "MEADOWVALE", 
+        "dEn": "MEADOWVALE"
+    }, 
+    {
+        "sc": "MEGI", 
+        "pv": "QC", 
+        "sn": "MEGISCANE", 
+        "dEn": "MEGISCANE"
+    }, 
+    {
+        "sc": "MELV", 
+        "pv": "SK", 
+        "sn": "MELVILLE", 
+        "dEn": "MELVILLE"
+    }, 
+    {
+        "sc": "MTGM", 
+        "pv": "ON", 
+        "sn": "METAGAMA", 
+        "dEn": "METAGAMA"
+    }, 
+    {
+        "sc": "MIKA", 
+        "pv": "SK", 
+        "sn": "MIKADO", 
+        "dEn": "MIKADO"
+    }, 
+    {
+        "sc": "MLKN", 
+        "pv": "ON", 
+        "sn": "MILLIKEN", 
+        "dEn": "MILLIKEN"
+    }, 
+    {
+        "sc": "MLTN", 
+        "pv": "ON", 
+        "sn": "MILTON", 
+        "dEn": "MILTON"
+    }, 
+    {
+        "sc": "MIMI", 
+        "pv": "ON", 
+        "sn": "MIMICO", 
+        "dEn": "MIMICO"
+    }, 
+    {
+        "sc": "MNKI", 
+        "pv": "ON", 
+        "sn": "MINAKI", 
+        "dEn": "MINAKI"
+    }, 
+    {
+        "sc": "MIQK", 
+        "pv": "QC", 
+        "sn": "MIQUICK", 
+        "dEn": "MIQUICK"
+    }, 
+    {
+        "sc": "MIRA", 
+        "pv": "NB", 
+        "sn": "MIRAMICHI", 
+        "dEn": "MIRAMICHI"
+    }, 
+    {
+        "sc": "MSBI", 
+        "pv": "ON", 
+        "sn": "MISSANABIE", 
+        "dEn": "MISSANABIE"
+    }, 
+    {
+        "sc": "MSNH", 
+        "pv": "BC", 
+        "sn": "MISSION HARBOUR", 
+        "dEn": "MISSION HARBOUR"
+    }, 
+    {
+        "sc": "MCTN", 
+        "pv": "NB", 
+        "sn": "MONCTON", 
+        "dEn": "MONCTON"
+    }, 
+    {
+        "sc": "MNET", 
+        "pv": "QC", 
+        "sn": "MONET", 
+        "dEn": "MONET"
+    }, 
+    {
+        "sc": "MJLI", 
+        "pv": "QC", 
+        "sn": "MONT-JOLI", 
+        "dEn": "MONT-JOLI"
+    }, 
+    {
+        "sc": "MMGY", 
+        "pv": "QC", 
+        "sn": "MONTMAGNY", 
+        "dEn": "MONTMAGNY"
+    }, 
+    {
+        "sc": "MTPL", 
+        "pv": "QC", 
+        "sn": "MONTPELLIER", 
+        "dEn": "MONTPELLIER"
+    }, 
+    {
+        "sc": "XYUL", 
+        "pv": "QC", 
+        "sn": "MONTRÉAL TRUDEAU AIRPORT", 
+        "dEn": "MONTRÉAL TRUDEAU AIRPORT"
+    }, 
+    {
+        "sc": "MTRL", 
+        "pv": "QC", 
+        "sn": "MONTRÉAL", 
+        "dEn": "MONTRÉAL"
+    }, 
+    {
+        "sc": "MTRY", 
+        "pv": "QC", 
+        "sn": "MONT-ROYAL", 
+        "dEn": "MONT-ROYAL"
+    }, 
+    {
+        "sc": "MTSH", 
+        "pv": "QC", 
+        "sn": "MONT-SAINT-HILAIRE", 
+        "dEn": "MONT-SAINT-HILAIRE"
+    }, 
+    {
+        "sc": "MTJY", 
+        "pv": "ON", 
+        "sn": "MOUNT JOY", 
+        "dEn": "MOUNT JOY"
+    }, 
+    {
+        "sc": "MUDR", 
+        "pv": "ON", 
+        "sn": "MUD RIVER", 
+        "dEn": "MUD RIVER"
+    }, 
+    {
+        "sc": "MUNK", 
+        "pv": "MB", 
+        "sn": "MUNK", 
+        "dEn": "MUNK"
+    }, 
+    {
+        "sc": "MUSK", 
+        "pv": "ON", 
+        "sn": "MUSK", 
+        "dEn": "MUSK"
+    }, 
+    {
+        "sc": "NAKI", 
+        "pv": "ON", 
+        "sn": "NAKINA", 
+        "dEn": "NAKINA"
+    }, 
+    {
+        "sc": "NAPN", 
+        "pv": "ON", 
+        "sn": "NAPANEE", 
+        "dEn": "NAPANEE"
+    }, 
+    {
+        "sc": "NEME", 
+        "pv": "ON", 
+        "sn": "NEMEGOS", 
+        "dEn": "NEMEGOS"
+    }, 
+    {
+        "sc": "NCAR", 
+        "pv": "QC", 
+        "sn": "NEW CARLISLE", 
+        "dEn": "NEW CARLISLE"
+    }, 
+    {
+        "sc": "NHAZ", 
+        "pv": "BC", 
+        "sn": "NEW HAZELTON", 
+        "dEn": "NEW HAZELTON"
+    }, 
+    {
+        "sc": "NRCH", 
+        "pv": "QC", 
+        "sn": "NEW RICHMOND", 
+        "dEn": "NEW RICHMOND"
+    }, 
+    {
+        "sc": "NEWY", 
+        "pv": "NY", 
+        "sn": "NEW YORK", 
+        "dEn": "NEW YORK"
+    }, 
+    {
+        "sc": "NMKT", 
+        "pv": "ON", 
+        "sn": "NEWMARKET", 
+        "dEn": "NEWMARKET"
+    }, 
+    {
+        "sc": "NIAF", 
+        "pv": "ON", 
+        "sn": "NIAGARA FALLS HWY 420", 
+        "dEn": "NIAGARA FALLS HWY 420"
+    }, 
+    {
+        "sc": "NFNY", 
+        "pv": "NY", 
+        "sn": "NIAGARA FALLS", 
+        "dEn": "NIAGARA FALLS"
+    }, 
+    {
+        "sc": "NIAG", 
+        "pv": "ON", 
+        "sn": "NIAGARA FALLS", 
+        "dEn": "NIAGARA FALLS"
+    }, 
+    {
+        "sc": "NICH", 
+        "pv": "ON", 
+        "sn": "NICHOLSON", 
+        "dEn": "NICHOLSON"
+    }, 
+    {
+        "sc": "NONS", 
+        "pv": "MB", 
+        "sn": "NONSUCH", 
+        "dEn": "NONSUCH"
+    }, 
+    {
+        "sc": "NBND", 
+        "pv": "BC", 
+        "sn": "NORTH BEND", 
+        "dEn": "NORTH BEND"
+    }, 
+    {
+        "sc": "NOUV", 
+        "pv": "QC", 
+        "sn": "NOUVELLE", 
+        "dEn": "NOUVELLE"
+    }, 
+    {
+        "sc": "OAKV", 
+        "pv": "ON", 
+        "sn": "OAKVILLE", 
+        "dEn": "OAKVILLE"
+    }, 
+    {
+        "sc": "OBAX", 
+        "pv": "ON", 
+        "sn": "OBA", 
+        "dEn": "OBA"
+    }, 
+    {
+        "sc": "OBRI", 
+        "pv": "ON", 
+        "sn": "O'BRIEN", 
+        "dEn": "O'BRIEN"
+    }, 
+    {
+        "sc": "OCHR", 
+        "pv": "MB", 
+        "sn": "OCHRE RIVER", 
+        "dEn": "OCHRE RIVER"
+    }, 
+    {
+        "sc": "ODAY", 
+        "pv": "MB", 
+        "sn": "ODAY", 
+        "dEn": "ODAY"
+    }, 
+    {
+        "sc": "ODHI", 
+        "pv": "MB", 
+        "sn": "ODHILL", 
+        "dEn": "ODHILL"
+    }, 
+    {
+        "sc": "OLDC", 
+        "pv": "ON", 
+        "sn": "OLD CUMMER", 
+        "dEn": "OLD CUMMER"
+    }, 
+    {
+        "sc": "OPHR", 
+        "pv": "MB", 
+        "sn": "OPHIR", 
+        "dEn": "OPHIR"
+    }, 
+    {
+        "sc": "OPTL", 
+        "pv": "MB", 
+        "sn": "OPTIC LAKE", 
+        "dEn": "OPTIC LAKE"
+    }, 
+    {
+        "sc": "ORIO", 
+        "pv": "ON", 
+        "sn": "ORIOLE", 
+        "dEn": "ORIOLE"
+    }, 
+    {
+        "sc": "OROK", 
+        "pv": "MB", 
+        "sn": "OROK", 
+        "dEn": "OROK"
+    }, 
+    {
+        "sc": "OSHA", 
+        "pv": "ON", 
+        "sn": "OSHAWA", 
+        "dEn": "OSHAWA"
+    }, 
+    {
+        "sc": "OSKL", 
+        "pv": "QC", 
+        "sn": "OSKELANEO LODGE", 
+        "dEn": "OSKELANEO LODGE"
+    }, 
+    {
+        "sc": "OSKR", 
+        "pv": "QC", 
+        "sn": "OSKELANEO RIVER", 
+        "dEn": "OSKELANEO RIVER"
+    }, 
+    {
+        "sc": "OTTW", 
+        "pv": "ON", 
+        "sn": "OTTAWA", 
+        "dEn": "OTTAWA"
+    }, 
+    {
+        "sc": "OTTM", 
+        "pv": "ON", 
+        "sn": "OTTERMERE", 
+        "dEn": "OTTERMERE"
+    }, 
+    {
+        "sc": "PACI", 
+        "pv": "BC", 
+        "sn": "PACIFIC", 
+        "dEn": "PACIFIC"
+    }, 
+    {
+        "sc": "PARE", 
+        "pv": "QC", 
+        "sn": "PARENT", 
+        "dEn": "PARENT"
+    }, 
+    {
+        "sc": "SPAR", 
+        "pv": "ON", 
+        "sn": "PARRY SOUND SOUTH", 
+        "dEn": "PARRY SOUND SOUTH"
+    }, 
+    {
+        "sc": "PARS", 
+        "pv": "ON", 
+        "sn": "PARRY SOUND", 
+        "dEn": "PARRY SOUND"
+    }, 
+    {
+        "sc": "PATE", 
+        "pv": "MB", 
+        "sn": "PATERSON", 
+        "dEn": "PATERSON"
+    }, 
+    {
+        "sc": "PAWI", 
+        "pv": "MB", 
+        "sn": "PAWISTIK", 
+        "dEn": "PAWISTIK"
+    }, 
+    {
+        "sc": "PRLL", 
+        "pv": "QC", 
+        "sn": "PEARL LAKE", 
+        "dEn": "PEARL LAKE"
+    }, 
+    {
+        "sc": "PENN", 
+        "pv": "BC", 
+        "sn": "PENNY", 
+        "dEn": "PENNY"
+    }, 
+    {
+        "sc": "PERC", 
+        "pv": "QC", 
+        "sn": "PERCÉ", 
+        "dEn": "PERCÉ"
+    }, 
+    {
+        "sc": "PROC", 
+        "pv": "NB", 
+        "sn": "PETIT ROCHER", 
+        "dEn": "PETIT ROCHER"
+    }, 
+    {
+        "sc": "PICK", 
+        "pv": "ON", 
+        "sn": "PICKERING", 
+        "dEn": "PICKERING"
+    }, 
+    {
+        "sc": "PIKW", 
+        "pv": "MB", 
+        "sn": "PIKWITONEI", 
+        "dEn": "PIKWITONEI"
+    }, 
+    {
+        "sc": "PIPN", 
+        "pv": "MB", 
+        "sn": "PIPUN", 
+        "dEn": "PIPUN"
+    }, 
+    {
+        "sc": "PITS", 
+        "pv": "MB", 
+        "sn": "PIT SIDING", 
+        "dEn": "PIT SIDING"
+    }, 
+    {
+        "sc": "PLUM", 
+        "pv": "MB", 
+        "sn": "PLUMAS", 
+        "dEn": "PLUMAS"
+    }, 
+    {
+        "sc": "POGA", 
+        "pv": "ON", 
+        "sn": "POGAMASING", 
+        "dEn": "POGAMASING"
+    }, 
+    {
+        "sc": "PATX", 
+        "pv": "QC", 
+        "sn": "POINTE-AUX-TREMBLES", 
+        "dEn": "POINTE-AUX-TREMBLES"
+    }, 
+    {
+        "sc": "PBDT", 
+        "pv": "QC", 
+        "sn": "PONT BEAUDET", 
+        "dEn": "PONT BEAUDET"
+    }, 
+    {
+        "sc": "PNTN", 
+        "pv": "MB", 
+        "sn": "PONTON", 
+        "dEn": "PONTON"
+    }, 
+    {
+        "sc": "PCRE", 
+        "pv": "ON", 
+        "sn": "PORT CREDIT", 
+        "dEn": "PORT CREDIT"
+    }, 
+    {
+        "sc": "PDAN", 
+        "pv": "QC", 
+        "sn": "PORT DANIEL", 
+        "dEn": "PORT DANIEL"
+    }, 
+    {
+        "sc": "PHOP", 
+        "pv": "ON", 
+        "sn": "PORT HOPE", 
+        "dEn": "PORT HOPE"
+    }, 
+    {
+        "sc": "PLPX", 
+        "pv": "MB", 
+        "sn": "PORTAGE LA PRAIRIE", 
+        "dEn": "PORTAGE LA PRAIRIE"
+    }, 
+    {
+        "sc": "POUG", 
+        "pv": "NY", 
+        "sn": "POUGHKEEPSIE", 
+        "dEn": "POUGHKEEPSIE"
+    }, 
+    {
+        "sc": "PRSS", 
+        "pv": "QC", 
+        "sn": "PRESS", 
+        "dEn": "PRESS"
+    }, 
+    {
+        "sc": "PGEO", 
+        "pv": "BC", 
+        "sn": "PRINCE GEORGE", 
+        "dEn": "PRINCE GEORGE"
+    }, 
+    {
+        "sc": "PRUP", 
+        "pv": "BC", 
+        "sn": "PRINCE RUPERT", 
+        "dEn": "PRINCE RUPERT"
+    }, 
+    {
+        "sc": "XYPR", 
+        "pv": "BC", 
+        "sn": "PRINCE RUPERT", 
+        "dEn": "PRINCE RUPERT"
+    }, 
+    {
+        "sc": "PROS", 
+        "pv": "MB", 
+        "sn": "PROSPECTOR", 
+        "dEn": "PROSPECTOR"
+    }, 
+    {
+        "sc": "QBEC", 
+        "pv": "QC", 
+        "sn": "QUÉBEC", 
+        "dEn": "QUÉBEC"
+    }, 
+    {
+        "sc": "RAMS", 
+        "pv": "ON", 
+        "sn": "RAMSEY", 
+        "dEn": "RAMSEY"
+    }, 
+    {
+        "sc": "RAPB", 
+        "pv": "QC", 
+        "sn": "RAPIDE BLANC", 
+        "dEn": "RAPIDE BLANC"
+    }, 
+    {
+        "sc": "RAWE", 
+        "pv": "MB", 
+        "sn": "RAWEBB", 
+        "dEn": "RAWEBB"
+    }, 
+    {
+        "sc": "RDEE", 
+        "pv": "AB", 
+        "sn": "RED DEER", 
+        "dEn": "RED DEER"
+    }, 
+    {
+        "sc": "RLRX", 
+        "pv": "ON", 
+        "sn": "RED LAKE ROAD", 
+        "dEn": "RED LAKE ROAD"
+    }, 
+    {
+        "sc": "RDDT", 
+        "pv": "ON", 
+        "sn": "REDDITT", 
+        "dEn": "REDDITT"
+    }, 
+    {
+        "sc": "RSRV", 
+        "pv": "SK", 
+        "sn": "RESERVE", 
+        "dEn": "RESERVE"
+    }, 
+    {
+        "sc": "RHIN", 
+        "pv": "NY", 
+        "sn": "RHINECLIFF", 
+        "dEn": "RHINECLIFF"
+    }, 
+    {
+        "sc": "RCLK", 
+        "pv": "ON", 
+        "sn": "RICE LAKE", 
+        "dEn": "RICE LAKE"
+    }, 
+    {
+        "sc": "RCHN", 
+        "pv": "ON", 
+        "sn": "RICHAN", 
+        "dEn": "RICHAN"
+    }, 
+    {
+        "sc": "RCHL", 
+        "pv": "ON", 
+        "sn": "RICHMOND HILL", 
+        "dEn": "RICHMOND HILL"
+    }, 
+    {
+        "sc": "RMSK", 
+        "pv": "QC", 
+        "sn": "RIMOUSKI", 
+        "dEn": "RIMOUSKI"
+    }, 
+    {
+        "sc": "RVRS", 
+        "pv": "MB", 
+        "sn": "RIVERS", 
+        "dEn": "RIVERS"
+    }, 
+    {
+        "sc": "RAPX", 
+        "pv": "QC", 
+        "sn": "RIVIERE-A-PIERRE", 
+        "dEn": "RIVIERE-A-PIERRE"
+    }, 
+    {
+        "sc": "RDLX", 
+        "pv": "QC", 
+        "sn": "RIVIÈRE-DU-LOUP", 
+        "dEn": "RIVIÈRE-DU-LOUP"
+    }, 
+    {
+        "sc": "RBRT", 
+        "pv": "ON", 
+        "sn": "ROBERTS", 
+        "dEn": "ROBERTS"
+    }, 
+    {
+        "sc": "RBLN", 
+        "pv": "MB", 
+        "sn": "ROBLIN", 
+        "dEn": "ROBLIN"
+    }, 
+    {
+        "sc": "ROCH", 
+        "pv": "NY", 
+        "sn": "ROCHESTER", 
+        "dEn": "ROCHESTER"
+    }, 
+    {
+        "sc": "RGRV", 
+        "pv": "NB", 
+        "sn": "ROGERSVILLE", 
+        "dEn": "ROGERSVILLE"
+    }, 
+    {
+        "sc": "ROME", 
+        "pv": "NY", 
+        "sn": "ROME", 
+        "dEn": "ROME"
+    }, 
+    {
+        "sc": "RTLK", 
+        "pv": "MB", 
+        "sn": "ROOT LAKE", 
+        "dEn": "ROOT LAKE"
+    }, 
+    {
+        "sc": "ROUG", 
+        "pv": "ON", 
+        "sn": "ROUGE HILL", 
+        "dEn": "ROUGE HILL"
+    }, 
+    {
+        "sc": "ROUS", 
+        "pv": "QC", 
+        "sn": "ROUSSEAU", 
+        "dEn": "ROUSSEAU"
+    }, 
+    {
+        "sc": "ROXB", 
+        "pv": "QC", 
+        "sn": "ROXBORO-PIERREFONDS", 
+        "dEn": "ROXBORO-PIERREFONDS"
+    }, 
+    {
+        "sc": "RUDD", 
+        "pv": "MB", 
+        "sn": "RUDDOCK", 
+        "dEn": "RUDDOCK"
+    }, 
+    {
+        "sc": "RUEL", 
+        "pv": "ON", 
+        "sn": "RUEL", 
+        "dEn": "RUEL"
+    }, 
+    {
+        "sc": "RUTH", 
+        "pv": "ON", 
+        "sn": "RURTHERFORD", 
+        "dEn": "RURTHERFORD"
+    }, 
+    {
+        "sc": "SACK", 
+        "pv": "NB", 
+        "sn": "SACKVILLE", 
+        "dEn": "SACKVILLE"
+    }, 
+    {
+        "sc": "STBR", 
+        "pv": "QC", 
+        "sn": "SAINT-BRUNO", 
+        "dEn": "SAINT-BRUNO"
+    }, 
+    {
+        "sc": "STDT", 
+        "pv": "QC", 
+        "sn": "SAINTE-DOROTHÉE", 
+        "dEn": "SAINTE-DOROTHÉE"
+    }, 
+    {
+        "sc": "SFOY", 
+        "pv": "QC", 
+        "sn": "SAINTE-FOY", 
+        "dEn": "SAINTE-FOY"
+    }, 
+    {
+        "sc": "STHB", 
+        "pv": "QC", 
+        "sn": "SAINT-HUBERT", 
+        "dEn": "SAINT-HUBERT"
+    }, 
+    {
+        "sc": "SHYA", 
+        "pv": "QC", 
+        "sn": "SAINT-HYACINTHE", 
+        "dEn": "SAINT-HYACINTHE"
+    }, 
+    {
+        "sc": "SLAM", 
+        "pv": "QC", 
+        "sn": "SAINT-LAMBERT", 
+        "dEn": "SAINT-LAMBERT"
+    }, 
+    {
+        "sc": "SANF", 
+        "pv": "QC", 
+        "sn": "SANFORD", 
+        "dEn": "SANFORD"
+    }, 
+    {
+        "sc": "SANM", 
+        "pv": "QC", 
+        "sn": "SANMAUR", 
+        "dEn": "SANMAUR"
+    }, 
+    {
+        "sc": "SARN", 
+        "pv": "ON", 
+        "sn": "SARNIA", 
+        "dEn": "SARNIA"
+    }, 
+    {
+        "sc": "SASK", 
+        "pv": "SK", 
+        "sn": "SASKATOON", 
+        "dEn": "SASKATOON"
+    }, 
+    {
+        "sc": "SAVL", 
+        "pv": "ON", 
+        "sn": "SAVANT LAKE", 
+        "dEn": "SAVANT LAKE"
+    }, 
+    {
+        "sc": "SAYA", 
+        "pv": "QC", 
+        "sn": "SAYABEC", 
+        "dEn": "SAYABEC"
+    }, 
+    {
+        "sc": "SCAR", 
+        "pv": "ON", 
+        "sn": "SCARBOROUGH", 
+        "dEn": "SCARBOROUGH"
+    }, 
+    {
+        "sc": "SCHE", 
+        "pv": "NY", 
+        "sn": "SCHENECTADY", 
+        "dEn": "SCHENECTADY"
+    }, 
+    {
+        "sc": "SENN", 
+        "pv": "QC", 
+        "sn": "SENNETERRE", 
+        "dEn": "SENNETERRE"
+    }, 
+    {
+        "sc": "SHWN", 
+        "pv": "QC", 
+        "sn": "SHAWINIGAN", 
+        "dEn": "SHAWINIGAN"
+    }, 
+    {
+        "sc": "SHEA", 
+        "pv": "ON", 
+        "sn": "SHEAHAN", 
+        "dEn": "SHEAHAN"
+    }, 
+    {
+        "sc": "SHRD", 
+        "pv": "MB", 
+        "sn": "SHERRIDON", 
+        "dEn": "SHERRIDON"
+    }, 
+    {
+        "sc": "SIGN", 
+        "pv": "QC", 
+        "sn": "SIGNAI", 
+        "dEn": "SIGNAI"
+    }, 
+    {
+        "sc": "SILC", 
+        "pv": "MB", 
+        "sn": "SILCOX", 
+        "dEn": "SILCOX"
+    }, 
+    {
+        "sc": "SIMO", 
+        "pv": "MB", 
+        "sn": "SIMONHOUSE", 
+        "dEn": "SIMONHOUSE"
+    }, 
+    {
+        "sc": "SINM", 
+        "pv": "BC", 
+        "sn": "SINCLAIR MILLS", 
+        "dEn": "SINCLAIR MILLS"
+    }, 
+    {
+        "sc": "SLKT", 
+        "pv": "ON", 
+        "sn": "SIOUX LOOKOUT", 
+        "dEn": "SIOUX LOOKOUT"
+    }, 
+    {
+        "sc": "SIPI", 
+        "pv": "MB", 
+        "sn": "SIPIWESK", 
+        "dEn": "SIPIWESK"
+    }, 
+    {
+        "sc": "SSCC", 
+        "pv": "QC", 
+        "sn": "SISCO CLUB", 
+        "dEn": "SISCO CLUB"
+    }, 
+    {
+        "sc": "SMTR", 
+        "pv": "BC", 
+        "sn": "SMITHERS", 
+        "dEn": "SMITHERS"
+    }, 
+    {
+        "sc": "XYYD", 
+        "pv": "BC", 
+        "sn": "SMITHERS", 
+        "dEn": "SMITHERS"
+    }, 
+    {
+        "sc": "SMTF", 
+        "pv": "ON", 
+        "sn": "SMITHS FALLS", 
+        "dEn": "SMITHS FALLS"
+    }, 
+    {
+        "sc": "SPRJ", 
+        "pv": "NS", 
+        "sn": "SPRINGHILL JCT", 
+        "dEn": "SPRINGHILL JCT"
+    }, 
+    {
+        "sc": "SCAG", 
+        "pv": "ON", 
+        "sn": "ST. CATHARINES FAIRVIEW MALL", 
+        "dEn": "ST. CATHARINES FAIRVIEW MALL"
+    }, 
+    {
+        "sc": "SCAT", 
+        "pv": "ON", 
+        "sn": "ST. CATHARINES", 
+        "dEn": "ST. CATHARINES"
+    }, 
+    {
+        "sc": "SMYS", 
+        "pv": "ON", 
+        "sn": "ST.MARYS", 
+        "dEn": "ST.MARYS"
+    }, 
+    {
+        "sc": "STAD", 
+        "pv": "QC", 
+        "sn": "STADACONA", 
+        "dEn": "STADACONA"
+    }, 
+    {
+        "sc": "SBLG", 
+        "pv": "QC", 
+        "sn": "ST-BASILE-LE-GRAND", 
+        "dEn": "ST-BASILE-LE-GRAND"
+    }, 
+    {
+        "sc": "SHPN", 
+        "pv": "QC", 
+        "sn": "ST-HILAIRE DE PORTNEUF", 
+        "dEn": "ST-HILAIRE DE PORTNEUF"
+    }, 
+    {
+        "sc": "SJUS", 
+        "pv": "QC", 
+        "sn": "ST-JUSTIN", 
+        "dEn": "ST-JUSTIN"
+    }, 
+    {
+        "sc": "SMRB", 
+        "pv": "QC", 
+        "sn": "ST-MAURICE RIVIERE BOOM", 
+        "dEn": "ST-MAURICE RIVIERE BOOM"
+    }, 
+    {
+        "sc": "STOC", 
+        "pv": "ON", 
+        "sn": "STONEY CREEK", 
+        "dEn": "STONEY CREEK"
+    }, 
+    {
+        "sc": "STFV", 
+        "pv": "ON", 
+        "sn": "STOUFFVILLE", 
+        "dEn": "STOUFFVILLE"
+    }, 
+    {
+        "sc": "SPAU", 
+        "pv": "QC", 
+        "sn": "ST-PAULIN", 
+        "dEn": "ST-PAULIN"
+    }, 
+    {
+        "sc": "STRN", 
+        "pv": "QC", 
+        "sn": "STRACHAN", 
+        "dEn": "STRACHAN"
+    }, 
+    {
+        "sc": "STRL", 
+        "pv": "ON", 
+        "sn": "STRALAK", 
+        "dEn": "STRALAK"
+    }, 
+    {
+        "sc": "STRF", 
+        "pv": "ON", 
+        "sn": "STRATFORD", 
+        "dEn": "STRATFORD"
+    }, 
+    {
+        "sc": "STRR", 
+        "pv": "ON", 
+        "sn": "STRATHROY", 
+        "dEn": "STRATHROY"
+    }, 
+    {
+        "sc": "STVL", 
+        "pv": "ON", 
+        "sn": "STREETSVILLE", 
+        "dEn": "STREETSVILLE"
+    }, 
+    {
+        "sc": "STIT", 
+        "pv": "QC", 
+        "sn": "ST-TITE", 
+        "dEn": "ST-TITE"
+    }, 
+    {
+        "sc": "STGS", 
+        "pv": "SK", 
+        "sn": "STURGIS", 
+        "dEn": "STURGIS"
+    }, 
+    {
+        "sc": "SUDJ", 
+        "pv": "ON", 
+        "sn": "SUDBURY JCT", 
+        "dEn": "SUDBURY JCT"
+    }, 
+    {
+        "sc": "SUDB", 
+        "pv": "ON", 
+        "sn": "SUDBURY", 
+        "dEn": "SUDBURY"
+    }, 
+    {
+        "sc": "SULT", 
+        "pv": "ON", 
+        "sn": "SULTAN", 
+        "dEn": "SULTAN"
+    }, 
+    {
+        "sc": "SMMC", 
+        "pv": "QC", 
+        "sn": "SUMMIT CLUB", 
+        "dEn": "SUMMIT CLUB"
+    }, 
+    {
+        "sc": "SMQU", 
+        "pv": "QC", 
+        "sn": "SUMMIT", 
+        "dEn": "SUMMIT"
+    }, 
+    {
+        "sc": "SNYB", 
+        "pv": "QC", 
+        "sn": "SUNNYBROOKE", 
+        "dEn": "SUNNYBROOKE"
+    }, 
+    {
+        "sc": "SYRA", 
+        "pv": "NY", 
+        "sn": "SYRACUSE", 
+        "dEn": "SYRACUSE"
+    }, 
+    {
+        "sc": "TELK", 
+        "pv": "BC", 
+        "sn": "TELKWA", 
+        "dEn": "TELKWA"
+    }, 
+    {
+        "sc": "TRRC", 
+        "pv": "BC", 
+        "sn": "TERRACE", 
+        "dEn": "TERRACE"
+    }, 
+    {
+        "sc": "XYXT", 
+        "pv": "BC", 
+        "sn": "TERRACE-KITIMAT", 
+        "dEn": "TERRACE-KITIMAT"
+    }, 
+    {
+        "sc": "TPAS", 
+        "pv": "MB", 
+        "sn": "THE PAS", 
+        "dEn": "THE PAS"
+    }, 
+    {
+        "sc": "THIB", 
+        "pv": "MB", 
+        "sn": "THIBAUDEAU", 
+        "dEn": "THIBAUDEAU"
+    }, 
+    {
+        "sc": "THKP", 
+        "pv": "MB", 
+        "sn": "THICKET PORTAGE", 
+        "dEn": "THICKET PORTAGE"
+    }, 
+    {
+        "sc": "THOM", 
+        "pv": "MB", 
+        "sn": "THOMPSON", 
+        "dEn": "THOMPSON"
+    }, 
+    {
+        "sc": "TIDL", 
+        "pv": "MB", 
+        "sn": "TIDAL", 
+        "dEn": "TIDAL"
+    }, 
+    {
+        "sc": "TIMB", 
+        "pv": "QC", 
+        "sn": "TIMBRELL", 
+        "dEn": "TIMBRELL"
+    }, 
+    {
+        "sc": "TOGO", 
+        "pv": "SK", 
+        "sn": "TOGO", 
+        "dEn": "TOGO"
+    }, 
+    {
+        "sc": "XYTZ", 
+        "pv": "ON", 
+        "sn": "TORONTO BILLY BISHOP", 
+        "dEn": "TORONTO BILLY BISHOP"
+    }, 
+    {
+        "sc": "XYYZ", 
+        "pv": "ON", 
+        "sn": "TORONTO PEARSON AIRPORT", 
+        "dEn": "TORONTO PEARSON AIRPORT"
+    }, 
+    {
+        "sc": "TRTO", 
+        "pv": "ON", 
+        "sn": "TORONTO", 
+        "dEn": "TORONTO"
+    }, 
+    {
+        "sc": "TREM", 
+        "pv": "MB", 
+        "sn": "TREMAUDAN", 
+        "dEn": "TREMAUDAN"
+    }, 
+    {
+        "sc": "TRNJ", 
+        "pv": "ON", 
+        "sn": "TRENTON JUNCTION", 
+        "dEn": "TRENTON JUNCTION"
+    }, 
+    {
+        "sc": "TRTC", 
+        "pv": "QC", 
+        "sn": "TRITON CLUB", 
+        "dEn": "TRITON CLUB"
+    }, 
+    {
+        "sc": "TPIS", 
+        "pv": "QC", 
+        "sn": "TROIS PISTOLES", 
+        "dEn": "TROIS PISTOLES"
+    }, 
+    {
+        "sc": "TRUR", 
+        "pv": "NS", 
+        "sn": "TRURO", 
+        "dEn": "TRURO"
+    }, 
+    {
+        "sc": "TURN", 
+        "pv": "MB", 
+        "sn": "TURNBULL", 
+        "dEn": "TURNBULL"
+    }, 
+    {
+        "sc": "UNVL", 
+        "pv": "ON", 
+        "sn": "UNIONVILLE", 
+        "dEn": "UNIONVILLE"
+    }, 
+    {
+        "sc": "UNIT", 
+        "pv": "SK", 
+        "sn": "UNITY", 
+        "dEn": "UNITY"
+    }, 
+    {
+        "sc": "UFRZ", 
+        "pv": "BC", 
+        "sn": "UPPER FRAZER", 
+        "dEn": "UPPER FRAZER"
+    }, 
+    {
+        "sc": "USKX", 
+        "pv": "BC", 
+        "sn": "USK", 
+        "dEn": "USK"
+    }, 
+    {
+        "sc": "UTIC", 
+        "pv": "NY", 
+        "sn": "UTICA", 
+        "dEn": "UTICA"
+    }, 
+    {
+        "sc": "VLMT", 
+        "pv": "BC", 
+        "sn": "VALEMOUNT", 
+        "dEn": "VALEMOUNT"
+    }, 
+    {
+        "sc": "VBRU", 
+        "pv": "QC", 
+        "sn": "VAN BRUYSSELS", 
+        "dEn": "VAN BRUYSSELS"
+    }, 
+    {
+        "sc": "XYVR", 
+        "pv": "BC", 
+        "sn": "VANCOUVER AIRPORT", 
+        "dEn": "VANCOUVER AIRPORT"
+    }, 
+    {
+        "sc": "VCVR", 
+        "pv": "BC", 
+        "sn": "VANCOUVER", 
+        "dEn": "VANCOUVER"
+    }, 
+    {
+        "sc": "VDRH", 
+        "pv": "BC", 
+        "sn": "VANDERHOOF", 
+        "dEn": "VANDERHOOF"
+    }, 
+    {
+        "sc": "VDRY", 
+        "pv": "QC", 
+        "sn": "VANDRY", 
+        "dEn": "VANDRY"
+    }, 
+    {
+        "sc": "VERE", 
+        "pv": "SK", 
+        "sn": "VEREGIN", 
+        "dEn": "VEREGIN"
+    }, 
+    {
+        "sc": "VICB", 
+        "pv": "BC", 
+        "sn": "VICTORIA", 
+        "dEn": "VICTORIA"
+    }, 
+    {
+        "sc": "VKNG", 
+        "pv": "AB", 
+        "sn": "VIKING", 
+        "dEn": "VIKING"
+    }, 
+    {
+        "sc": "WBDN", 
+        "pv": "MB", 
+        "sn": "WABOWDEN", 
+        "dEn": "WABOWDEN"
+    }, 
+    {
+        "sc": "WAIN", 
+        "pv": "AB", 
+        "sn": "WAINWRIGHT", 
+        "dEn": "WAINWRIGHT"
+    }, 
+    {
+        "sc": "WANL", 
+        "pv": "MB", 
+        "sn": "WANLESS", 
+        "dEn": "WANLESS"
+    }, 
+    {
+        "sc": "WSHG", 
+        "pv": "ON", 
+        "sn": "WASHAGO", 
+        "dEn": "WASHAGO"
+    }, 
+    {
+        "sc": "WATR", 
+        "pv": "SK", 
+        "sn": "WATROUS", 
+        "dEn": "WATROUS"
+    }, 
+    {
+        "sc": "WEIR", 
+        "pv": "MB", 
+        "sn": "WEIR RIVER", 
+        "dEn": "WEIR RIVER"
+    }, 
+    {
+        "sc": "WEKU", 
+        "pv": "MB", 
+        "sn": "WEKUSKO", 
+        "dEn": "WEKUSKO"
+    }, 
+    {
+        "sc": "WEST", 
+        "pv": "ON", 
+        "sn": "WESTON", 
+        "dEn": "WESTON"
+    }, 
+    {
+        "sc": "WSTR", 
+        "pv": "ON", 
+        "sn": "WESTREE", 
+        "dEn": "WESTREE"
+    }, 
+    {
+        "sc": "WYMT", 
+        "pv": "QC", 
+        "sn": "WEYMONT", 
+        "dEn": "WEYMONT"
+    }, 
+    {
+        "sc": "WHIT", 
+        "pv": "ON", 
+        "sn": "WHITBY", 
+        "dEn": "WHITBY"
+    }, 
+    {
+        "sc": "WHTR", 
+        "pv": "ON", 
+        "sn": "WHITE RIVER", 
+        "dEn": "WHITE RIVER"
+    }, 
+    {
+        "sc": "XYXY", 
+        "pv": "YT", 
+        "sn": "WHITEHORSE", 
+        "dEn": "WHITEHORSE"
+    }, 
+    {
+        "sc": "WGWC", 
+        "pv": "QC", 
+        "sn": "WIGWAM (CLUB)", 
+        "dEn": "WIGWAM (CLUB)"
+    }, 
+    {
+        "sc": "WILD", 
+        "pv": "MB", 
+        "sn": "WILDE", 
+        "dEn": "WILDE"
+    }, 
+    {
+        "sc": "WILR", 
+        "pv": "BC", 
+        "sn": "WILLOW RIVER", 
+        "dEn": "WILLOW RIVER"
+    }, 
+    {
+        "sc": "WNDG", 
+        "pv": "QC", 
+        "sn": "WINDIGO", 
+        "dEn": "WINDIGO"
+    }, 
+    {
+        "sc": "WDON", 
+        "pv": "ON", 
+        "sn": "WINDSOR", 
+        "dEn": "WINDSOR"
+    }, 
+    {
+        "sc": "WNPG", 
+        "pv": "MB", 
+        "sn": "WINNIPEG", 
+        "dEn": "WINNIPEG"
+    }, 
+    {
+        "sc": "WNTB", 
+        "pv": "MB", 
+        "sn": "WINNITOBA", 
+        "dEn": "WINNITOBA"
+    }, 
+    {
+        "sc": "WVHO", 
+        "pv": "MB", 
+        "sn": "WIVENHOE", 
+        "dEn": "WIVENHOE"
+    }, 
+    {
+        "sc": "WOMR", 
+        "pv": "ON", 
+        "sn": "WOMAN RIVER", 
+        "dEn": "WOMAN RIVER"
+    }, 
+    {
+        "sc": "WDST", 
+        "pv": "ON", 
+        "sn": "WOODSTOCK", 
+        "dEn": "WOODSTOCK"
+    }, 
+    {
+        "sc": "WYOM", 
+        "pv": "ON", 
+        "sn": "WYOMING", 
+        "dEn": "WYOMING"
+    }, 
+    {
+        "sc": "YONK", 
+        "pv": "NY", 
+        "sn": "YONKERS", 
+        "dEn": "YONKERS"
+    }, 
+    {
+        "sc": "YRKU", 
+        "pv": "ON", 
+        "sn": "YORK UNIVERSITY", 
+        "dEn": "YORK UNIVERSITY"
+    }
+]

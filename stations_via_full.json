@@ -1,0 +1,5062 @@
+[
+    {
+        "pv": "BC", 
+        "name": "Abbotsford train station", 
+        "long": "-122.279", 
+        "lat": "49.1183", 
+        "sn": "ABBOTSFORD", 
+        "dEn": "ABBOTSFORD", 
+        "address": "Hargitt Street, Abbotsford, BC, V3G 1M8, Canada", 
+        "sc": "ABBO"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Agassiz train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AGASSIZ", 
+        "dEn": "AGASSIZ", 
+        "address": "Agassiz, BC, Canada", 
+        "sc": "AGAS"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Agincourt GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AGINCOURT", 
+        "dEn": "AGINCOURT", 
+        "address": "4100 Sheppard Ave. E., Scarborough, ON, Canada", 
+        "sc": "AGCT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Ahuntsic train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AHUNTSIC", 
+        "dEn": "AHUNTSIC", 
+        "address": "Rue Durham, Ahuntsic, QC, Canada", 
+        "sc": "AHUN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Ajax station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AJAX", 
+        "dEn": "AJAX", 
+        "address": "Ajax Plaza, Harwood Ave S., A., Ajax, ON, Canada", 
+        "sc": "AJAX"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Albany station train", 
+        "long": "-73.7101", 
+        "lat": "42.6246", 
+        "sn": "ALBANY", 
+        "dEn": "ALBANY", 
+        "address": "525 East St., Rensselaer, NY, Albany, NY, 12144, US", 
+        "sc": "ALBY"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Aldershot train station", 
+        "long": "-79.8525", 
+        "lat": "43.3114", 
+        "sn": "ALDERSHOT", 
+        "dEn": "ALDERSHOT", 
+        "address": "1199 Waterdown Rd., Burlington, ON, L7T 4A8, Canada", 
+        "sc": "ALDR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Alexandria train station", 
+        "long": "-74.5861", 
+        "lat": "45.301", 
+        "sn": "ALEXANDRIA", 
+        "dEn": "ALEXANDRIA", 
+        "address": "45 McDougald Street E., Alexandria, ON, K0C 1A0, Canada", 
+        "sc": "ALEX"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Aleza Lake train station", 
+        "long": "-122.121", 
+        "lat": "54.075", 
+        "sn": "ALEZA LAKE", 
+        "dEn": "ALEZA LAKE", 
+        "address": "Aleza Lake, BC, V0J 2Z0, Canada", 
+        "sc": "ALZL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Allanwater Bridge train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ALLANWATER BRIDGE", 
+        "dEn": "ALLANWATER BRIDGE", 
+        "address": "Allanwater Bridge, ON, Canada", 
+        "sc": "ALWB"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Amery train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AMERY", 
+        "dEn": "AMERY", 
+        "address": "Amery, MB, Canada", 
+        "sc": "AMRY"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Amherst train station", 
+        "long": "-64.2123", 
+        "lat": "45.8304", 
+        "sn": "AMHERST", 
+        "dEn": "AMHERST", 
+        "address": "27 Station Street, Amherst, NS, B4H 3E4, Canada", 
+        "sc": "AMHS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Amqui train station", 
+        "long": "-67.4371", 
+        "lat": "48.4673", 
+        "sn": "AMQUI", 
+        "dEn": "AMQUI", 
+        "address": "209 West Boul. St-Benoit, Amqui, QC, G5J 2E9, Canada", 
+        "sc": "AMQU"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Amsterdam station train", 
+        "long": "-74.1709", 
+        "lat": "42.9236", 
+        "sn": "AMSTERDAM", 
+        "dEn": "AMSTERDAM", 
+        "address": "Railroad St & Main Street West, Amsterdam, NY, 12010, US", 
+        "sc": "AMST"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Appleby station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "APPLEBY", 
+        "dEn": "APPLEBY", 
+        "address": "5111 Fairview St., Burlington, ON, Canada", 
+        "sc": "APPL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Armstrong train station", 
+        "long": "-89.0561", 
+        "lat": "50.139", 
+        "sn": "ARMSTRONG", 
+        "dEn": "ARMSTRONG", 
+        "address": "King St., Armstrong, ON, P0T 1A0, Canada", 
+        "sc": "ARMG"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Arnot train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ARNOT", 
+        "dEn": "ARNOT", 
+        "address": "Arnot, MB, Canada", 
+        "sc": "ARNO"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Ashcroft train station", 
+        "long": "-121.271", 
+        "lat": "50.7372", 
+        "sn": "ASHCROFT", 
+        "dEn": "ASHCROFT", 
+        "address": "Caribou Rd, Ashcroft, BC, V0K 1A0, Canada", 
+        "sc": "ASHN"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Atik train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ATIK", 
+        "dEn": "ATIK", 
+        "address": "Atik, MB, Canada", 
+        "sc": "ATIK"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Atikameg Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ATIKAMEG LAKE", 
+        "dEn": "ATIKAMEG LAKE", 
+        "address": "Atikameg Lake, MB, Canada", 
+        "sc": "ATKL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Auden train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AUDEN", 
+        "dEn": "AUDEN", 
+        "address": "Auden, ON, Canada", 
+        "sc": "AUDN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Aurora GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AURORA", 
+        "dEn": "AURORA", 
+        "address": "121 Wellington Street East, Aurora, ON, Canada", 
+        "sc": "AROR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Azilda train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AZILDA", 
+        "dEn": "AZILDA", 
+        "address": "Azilda, ON, Canada", 
+        "sc": "AZIL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Back train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BACK", 
+        "dEn": "BACK", 
+        "address": "Back, MB, Canada", 
+        "sc": "BACK"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BANFF", 
+        "dEn": "BANFF", 
+        "address": "", 
+        "sc": "BANF"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Barachois train station", 
+        "long": "-64.3409", 
+        "lat": "48.6121", 
+        "sn": "BARACHOIS", 
+        "dEn": "BARACHOIS", 
+        "address": "1154 Route 132, Barachois, QC, G0C 1A0, Canada", 
+        "sc": "BARA"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Barrie South GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BARRIE SOUTH", 
+        "dEn": "BARRIE SOUTH", 
+        "address": "833 Yonge St, Barrie, ON, Canada", 
+        "sc": "BARS"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Bathurst train station", 
+        "long": "-65.6706", 
+        "lat": "47.6213", 
+        "sn": "BATHURST", 
+        "dEn": "BATHURST", 
+        "address": "690 Thornton Ave., Bathurst, NB, E2A 2W8, Canada", 
+        "sc": "BTRS"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Belcher train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BELCHER", 
+        "dEn": "BELCHER", 
+        "address": "Belcher, MB, Canada", 
+        "sc": "BLCH"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Belleville train station", 
+        "long": "-77.3738", 
+        "lat": "44.1791", 
+        "sn": "BELLEVILLE", 
+        "dEn": "BELLEVILLE", 
+        "address": "250 Station St., Belleville, ON, K8N 2T8, Canada", 
+        "sc": "BLVL"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Bend train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BEND", 
+        "dEn": "BEND", 
+        "address": "Bend, BC, Canada", 
+        "sc": "BEND"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Benny train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BENNY", 
+        "dEn": "BENNY", 
+        "address": "Benny, ON, Canada", 
+        "sc": "BENN"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Biggar train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BIGGAR", 
+        "dEn": "BIGGAR", 
+        "address": "Biggar, SK, Canada", 
+        "sc": "BIGG"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Bima train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BIMA", 
+        "dEn": "BIMA", 
+        "address": "Bima, QC, Canada", 
+        "sc": "BIMA"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Bird train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BIRD", 
+        "dEn": "BIRD", 
+        "address": "Bird, MB, Canada", 
+        "sc": "BIRD"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Biscotasing train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BISCOTASING", 
+        "dEn": "BISCOTASING", 
+        "address": "Biscotasing, ON, Canada", 
+        "sc": "BISC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Bloor station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BLOOR", 
+        "dEn": "BLOOR", 
+        "address": "51456 Bloor St.W., Toronto, ON, Canada", 
+        "sc": "BLOO"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Blue River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BLUE RIVER", 
+        "dEn": "BLUE RIVER", 
+        "address": "Blue River, BC, Canada", 
+        "sc": "BLUE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Bois-Franc, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BOIS-FRANC", 
+        "dEn": "BOIS-FRANC", 
+        "address": "5465 West Henri-Bourassa Blvd, Ville Saint-Laurent, QC, Canada", 
+        "sc": "BSFR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Bolger train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BOLGER", 
+        "dEn": "BOLGER", 
+        "address": "Bolger, QC, Canada", 
+        "sc": "BGQU"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Bolkow train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BOLKOW", 
+        "dEn": "BOLKOW", 
+        "address": "Bolkow, ON, Canada", 
+        "sc": "BOLK"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Bonaventure train station", 
+        "long": "-65.4793", 
+        "lat": "48.052", 
+        "sn": "BONAVENTURE", 
+        "dEn": "BONAVENTURE", 
+        "address": "Rue de la Gare, Bonaventure, QC, G0C 1E0, Canada", 
+        "sc": "BVNT"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Boston Bar train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BOSTON BAR", 
+        "dEn": "BOSTON BAR", 
+        "address": "Boston Bar, BC, Canada", 
+        "sc": "BBAR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Bourmont train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BOURMONT", 
+        "dEn": "BOURMONT", 
+        "address": "Bourmont, QC, Canada", 
+        "sc": "BRMT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Boyd train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BOYD", 
+        "dEn": "BOYD", 
+        "address": "Boyd, MB, Canada", 
+        "sc": "BOYD"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Bradford GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BRADFORD", 
+        "dEn": "BRADFORD", 
+        "address": "251 Holland St. E., Bradford, ON, Canada", 
+        "sc": "BRFD"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Bramalea station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BRAMALEA", 
+        "dEn": "BRAMALEA", 
+        "address": "1713 Steeles Ave., Brampton, ON, Canada", 
+        "sc": "BRML"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Brampton train station", 
+        "long": "-79.7633", 
+        "lat": "43.6881", 
+        "sn": "BRAMPTON", 
+        "dEn": "BRAMPTON", 
+        "address": "31 Church Street West, Brampton, ON, L6X 1H2, Canada", 
+        "sc": "BRMP"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Brantford train station", 
+        "long": "-80.2656", 
+        "lat": "43.1458", 
+        "sn": "BRANTFORD", 
+        "dEn": "BRANTFORD", 
+        "address": "5 Wadsworth Street, Brantford, ON, N3T 3V5, Canada", 
+        "sc": "BRTF"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Brereton Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BRERETON LAKE", 
+        "dEn": "BRERETON LAKE", 
+        "address": "Brereton Lake, MB, Canada", 
+        "sc": "BRTL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Bridgar train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BRIDGAR", 
+        "dEn": "BRIDGAR", 
+        "address": "Bridgar, MB, Canada", 
+        "sc": "BRGR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Brockville train station", 
+        "long": "-75.6931", 
+        "lat": "44.5916", 
+        "sn": "BROCKVILLE", 
+        "dEn": "BROCKVILLE", 
+        "address": "141 Perth Street, Brockville, ON, K6V 5E4, Canada", 
+        "sc": "BRKV"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Bronte station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BRONTE", 
+        "dEn": "BRONTE", 
+        "address": "2104 Wyecroft Rd., Oakville, ON, Canada", 
+        "sc": "BRON"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Brooks train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BROOKS", 
+        "dEn": "BROOKS", 
+        "address": "Brooks, QC, Canada", 
+        "sc": "BRQU"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Budd train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BUDD", 
+        "dEn": "BUDD", 
+        "address": "Budd, MB, Canada", 
+        "sc": "BUDD"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Buffalo (Depew) station train", 
+        "long": "-78.7079", 
+        "lat": "42.9016", 
+        "sn": "BUFFALO (DEPEW)", 
+        "dEn": "BUFFALO (DEPEW)", 
+        "address": "55 Dick Road, Depew, NY, 14043, US", 
+        "sc": "BUFF"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Buffalo (Exchange) station train", 
+        "long": "-78.8698", 
+        "lat": "42.8806", 
+        "sn": "BUFFALO (EXCHANGE)", 
+        "dEn": "BUFFALO (EXCHANGE)", 
+        "address": "Exchange & Washington St., Buffalo, NY, 14203, US", 
+        "sc": "BUFX"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Burlington station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BURLINGTON", 
+        "dEn": "BURLINGTON", 
+        "address": "2101 Fairview St., Burlington, ON, Canada", 
+        "sc": "BURL"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Burns Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BURNS LAKE", 
+        "dEn": "BURNS LAKE", 
+        "address": "Burns Lake, BC, Canada", 
+        "sc": "BRNL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Button train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BUTTON", 
+        "dEn": "BUTTON", 
+        "address": "Button, MB, Canada", 
+        "sc": "BUTT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Bylot train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "BYLOT", 
+        "dEn": "BYLOT", 
+        "address": "Bylot, MB, Canada", 
+        "sc": "BYLO"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CALGARY", 
+        "dEn": "CALGARY", 
+        "address": "", 
+        "sc": "CALG"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CALGARY", 
+        "dEn": "CALGARY", 
+        "address": "", 
+        "sc": "XYYC"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Campbellton train station", 
+        "long": "-66.6788", 
+        "lat": "48.0041", 
+        "sn": "CAMPBELLTON", 
+        "dEn": "CAMPBELLTON", 
+        "address": "99C Roseberry St., Campbellton, NB, E3N 2G6, Canada", 
+        "sc": "CBTN"
+    }, 
+    {
+        "pv": "ON-NY", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CANADA-US BORDER/FRONTIÈRE", 
+        "dEn": "CANADA-US BORDER/FRONTIÈRE", 
+        "address": "", 
+        "sc": "AMKM"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Cann train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CANN", 
+        "dEn": "CANN", 
+        "address": "Cann, QC, Canada", 
+        "sc": "CANN"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Canora train station", 
+        "long": "-102.301", 
+        "lat": "51.5123", 
+        "sn": "CANORA", 
+        "dEn": "CANORA", 
+        "address": "Railway, Canora, SK, S0A 0L0, Canada", 
+        "sc": "CANO"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Canora, Gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CANORA", 
+        "dEn": "CANORA", 
+        "address": "7300 Chemin canora, Montréal, QC, Canada", 
+        "sc": "CANR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Canyon train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CANYON", 
+        "dEn": "CANYON", 
+        "address": "Canyon, ON, Canada", 
+        "sc": "CNYK"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Caplan train station", 
+        "long": "-65.6074", 
+        "lat": "48.1185", 
+        "sn": "CAPLAN", 
+        "dEn": "CAPLAN", 
+        "address": "33 Rue des Érables, Caplan, QC, G0C 1H0, Canada", 
+        "sc": "CAPL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Capreol train station", 
+        "long": "-80.8179", 
+        "lat": "46.7671", 
+        "sn": "CAPREOL", 
+        "dEn": "CAPREOL", 
+        "address": "8 Front Street, Capreol, ON, P0M 1H0, Canada", 
+        "sc": "CAPR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Caramat train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CARAMAT", 
+        "dEn": "CARAMAT", 
+        "address": "Caramat, ON, Canada", 
+        "sc": "CARA"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Caribou train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CARIBOU", 
+        "dEn": "CARIBOU", 
+        "address": "Caribou, QC, Canada", 
+        "sc": "CARI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Carleton train station", 
+        "long": "-66.1234", 
+        "lat": "48.1061", 
+        "sn": "CARLETON", 
+        "dEn": "CARLETON", 
+        "address": "Rue de la Gare, Carleton, QC, G0C 1J0, Canada", 
+        "sc": "CARL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Cartier train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CARTIER", 
+        "dEn": "CARTIER", 
+        "address": "Cartier, ON, Canada", 
+        "sc": "CART"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Casey train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CASEY", 
+        "dEn": "CASEY", 
+        "address": "Casey, QC, Canada", 
+        "sc": "CASY"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Casselman train station", 
+        "long": "-75.0873", 
+        "lat": "45.3123", 
+        "sn": "CASSELMAN", 
+        "dEn": "CASSELMAN", 
+        "address": "3 Station St., Casselman, ON, K0A 1M0, Canada", 
+        "sc": "CSLM"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Causapscal train station", 
+        "long": "-67.2876", 
+        "lat": "48.3372", 
+        "sn": "CAUSAPSCAL", 
+        "dEn": "CAUSAPSCAL", 
+        "address": "142 St-Jacques Sud, Causapscal, QC, G0J 1J0, Canada", 
+        "sc": "CAUS"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Cedarvale train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CEDARVALE", 
+        "dEn": "CEDARVALE", 
+        "address": "Cedarvale, BC, Canada", 
+        "sc": "CEDA"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CENTENNIAL", 
+        "dEn": "CENTENNIAL", 
+        "address": "", 
+        "sc": "CENT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Chambord train station", 
+        "long": "-72.0558", 
+        "lat": "48.4229", 
+        "sn": "CHAMBORD", 
+        "dEn": "CHAMBORD", 
+        "address": "169 rue de la Gare, Chambord, QC, G0W 1G0, Canada", 
+        "sc": "CHBD"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Chandler train station", 
+        "long": "-64.6655", 
+        "lat": "48.3474", 
+        "sn": "CHANDLER", 
+        "dEn": "CHANDLER", 
+        "address": "155 de la Plage, Chandler, QC, G0C 1K0, Canada", 
+        "sc": "CHND"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Chapleau train station", 
+        "long": "-83.4013", 
+        "lat": "47.8025", 
+        "sn": "CHAPLEAU", 
+        "dEn": "CHAPLEAU", 
+        "address": "Dufferin St., Chapleau, ON, P0M 1K0, Canada", 
+        "sc": "CHAP"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Charette train station", 
+        "long": "-72.4373", 
+        "lat": "46.9358", 
+        "sn": "CHARETTE", 
+        "dEn": "CHARETTE", 
+        "address": "80 Rue de la Station, Charette, QC, G0X 1E0, Canada", 
+        "sc": "CHRT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Charlebois train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CHARLEBOIS", 
+        "dEn": "CHARLEBOIS", 
+        "address": "Charlebois, MB, Canada", 
+        "sc": "CHLB"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Charles train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CHARLES", 
+        "dEn": "CHARLES", 
+        "address": "Charles, MB, Canada", 
+        "sc": "CHLS"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Charlo train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CHARLO", 
+        "dEn": "CHARLO", 
+        "address": "Charlo, NB, Canada", 
+        "sc": "CHLO"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Charny train station", 
+        "long": "-71.2708", 
+        "lat": "46.7127", 
+        "sn": "CHARNY", 
+        "dEn": "CHARNY", 
+        "address": "2326 rue de la gare, Charny, QC, G6X 1Z3, Canada", 
+        "sc": "CHNY"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Chatham train station", 
+        "long": "-82.1805", 
+        "lat": "42.3993", 
+        "sn": "CHATHAM", 
+        "dEn": "CHATHAM", 
+        "address": "360 Queen St., Chatham, ON, N7M 2H6, Canada", 
+        "sc": "CHAT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Chelmsford train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CHELMSFORD", 
+        "dEn": "CHELMSFORD", 
+        "address": "Chelmsford, ON, Canada", 
+        "sc": "CHEL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Cherokee train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CHEROKEE", 
+        "dEn": "CHEROKEE", 
+        "address": "Cherokee, QC, Canada", 
+        "sc": "CHER"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Chesnaye train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CHESNAYE", 
+        "dEn": "CHESNAYE", 
+        "address": "Chesnaye, MB, Canada", 
+        "sc": "CHES"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Chilliwack train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CHILLIWACK", 
+        "dEn": "CHILLIWACK", 
+        "address": "Railway St., Chilliwack, BC, Canada", 
+        "sc": "CHIL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Churchill train station", 
+        "long": "-94.1291", 
+        "lat": "58.7606", 
+        "sn": "CHURCHILL", 
+        "dEn": "CHURCHILL", 
+        "address": "Train Station, Churchill, MB, R0B 0E0, Canada", 
+        "sc": "CHUR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Clarkson station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLARKSON", 
+        "dEn": "CLARKSON", 
+        "address": "1110 Southdown Rd., Mississauga, ON, Canada", 
+        "sc": "CLAR"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Clearwater train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLEARWATER", 
+        "dEn": "CLEARWATER", 
+        "address": "Clearwater, BC, Canada", 
+        "sc": "CLWT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Clova train station", 
+        "long": "-75.2611", 
+        "lat": "48.5066", 
+        "sn": "CLOVA", 
+        "dEn": "CLOVA", 
+        "address": "5 Rue Latagne, Clova, QC, G0X 3M0, Canada", 
+        "sc": "CLOV"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Club Beaudin train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLUB BEAUDIN", 
+        "dEn": "CLUB BEAUDIN", 
+        "address": "Club Beaudin, QC, Canada", 
+        "sc": "BDNC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Club Bélanger train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLUB BELANGER", 
+        "dEn": "CLUB BELANGER", 
+        "address": "Club Bélanger, QC, Canada", 
+        "sc": "BLGC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Club Grégoire train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLUB GREGOIRE", 
+        "dEn": "CLUB GREGOIRE", 
+        "address": "Club Grégoire, QC, Canada", 
+        "sc": "GRGC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Club Nicol train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLUB NICOL", 
+        "dEn": "CLUB NICOL", 
+        "address": "Club Nicol, QC, Canada", 
+        "sc": "NCLC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Club Rita train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLUB RITA", 
+        "dEn": "CLUB RITA", 
+        "address": "Club Rita, QC, Canada", 
+        "sc": "RTAC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Club Vermillon train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CLUB VERMILLON", 
+        "dEn": "CLUB VERMILLON", 
+        "address": "Club Vermillon, QC, Canada", 
+        "sc": "VMLC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Cobourg train station", 
+        "long": "-78.1692", 
+        "lat": "43.968", 
+        "sn": "COBOURG", 
+        "dEn": "COBOURG", 
+        "address": "563 Division street, Cobourg, ON, K9A 3S6, Canada", 
+        "sc": "CBRG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Collins train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "COLLINS", 
+        "dEn": "COLLINS", 
+        "address": "Collins, ON, Canada", 
+        "sc": "COLL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Consolidated Bathurst train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CONSOLIDATED BATHURST", 
+        "dEn": "CONSOLIDATED BATHURST", 
+        "address": "Consolidated Bathurst, QC, Canada", 
+        "sc": "CBAT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Cooksville GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "COOKSVILLE", 
+        "dEn": "COOKSVILLE", 
+        "address": "3210 Hurontario St., Mississauga, ON, Canada", 
+        "sc": "CKVL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Copelands Landing train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "COPELANDS LANDING", 
+        "dEn": "COPELANDS LANDING", 
+        "address": "Copelands Landing, ON, Canada", 
+        "sc": "COPE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Coquar train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "COQUAR", 
+        "dEn": "COQUAR", 
+        "address": "Coquar, QC, Canada", 
+        "sc": "COQU"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Cormorant train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CORMORANT", 
+        "dEn": "CORMORANT", 
+        "address": "Cormorant, MB, Canada", 
+        "sc": "CORM"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Cornwall train station", 
+        "long": "-74.7436", 
+        "lat": "45.0418", 
+        "sn": "CORNWALL", 
+        "dEn": "CORNWALL", 
+        "address": "1650 Station Rd, Cornwall, ON, K6H 7E7, Canada", 
+        "sc": "CWLL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Coteau train station", 
+        "long": "-74.2284", 
+        "lat": "45.2766", 
+        "sn": "COTEAU", 
+        "dEn": "COTEAU", 
+        "address": "50 rue Daoust, Coteau, QC, J7X 1J7, Canada", 
+        "sc": "COTO"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Cranberry Portage train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CRANBERRY PORTAGE", 
+        "dEn": "CRANBERRY PORTAGE", 
+        "address": "Cranberry Portage, MB, Canada", 
+        "sc": "CRNP"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Cressman train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CRESSMAN", 
+        "dEn": "CRESSMAN", 
+        "address": "Cressman, QC, Canada", 
+        "sc": "CRSM"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Cromarty train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "CROMARTY", 
+        "dEn": "CROMARTY", 
+        "address": "Cromarty, MB, Canada", 
+        "sc": "CROM"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Croton-on-Hudson station train", 
+        "long": "-73.8967", 
+        "lat": "41.2168", 
+        "sn": "CROTON HARMON", 
+        "dEn": "CROTON HARMON", 
+        "address": "1 Croton Point Ave, Croton-on-Hudson, NY, 10520, US", 
+        "sc": "CROT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Dalton train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DALTON", 
+        "dEn": "DALTON", 
+        "address": "Dalton, ON, Canada", 
+        "sc": "DALT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Danforth station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DANFORTH", 
+        "dEn": "DANFORTH", 
+        "address": "213 Main St., Toronto, ON, Canada", 
+        "sc": "DANF"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Da-Rou-Lac Lodge train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DA-ROU-LAC LODGE", 
+        "dEn": "DA-ROU-LAC LODGE", 
+        "address": "Da-Rou-Lac Lodge, QC, Canada", 
+        "sc": "DRLL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Dauphin train station", 
+        "long": "-100.052", 
+        "lat": "51.1508", 
+        "sn": "DAUPHIN", 
+        "dEn": "DAUPHIN", 
+        "address": "101 First Ave. N., Dauphin, MB, R7N 1G8, Canada", 
+        "sc": "DAUP"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Dering train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DERING", 
+        "dEn": "DERING", 
+        "address": "Dering, MB, Canada", 
+        "sc": "DERI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Dessane train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DESSANE", 
+        "dEn": "DESSANE", 
+        "address": "Dessane, QC, Canada", 
+        "sc": "DESS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Deux-Montagnes, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DEUX-MONTAGNES", 
+        "dEn": "DEUX-MONTAGNES", 
+        "address": "400 Deux-Montagnes Blvd, Deux-Montagnes, QC, Canada", 
+        "sc": "DXMT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Devon train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DEVON", 
+        "dEn": "DEVON", 
+        "address": "Devon, ON, Canada", 
+        "sc": "DEVN"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Digges train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DIGGES", 
+        "dEn": "DIGGES", 
+        "address": "Digges, MB, Canada", 
+        "sc": "DIGG"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Dix train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DIX", 
+        "dEn": "DIX", 
+        "address": "Dix, QC, Canada", 
+        "sc": "DIXX"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Dixie GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DIXIE", 
+        "dEn": "DIXIE", 
+        "address": "2445 Dixie Rd, Mississauga, ON, Canada", 
+        "sc": "DIXE"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Dome Creek train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DOME CREEK", 
+        "dEn": "DOME CREEK", 
+        "address": "Dome Creek, BC, Canada", 
+        "sc": "DOMC"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Dorreen train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DORREEN", 
+        "dEn": "DORREEN", 
+        "address": "Dorreen, BC, Canada", 
+        "sc": "DORR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Dorval train station", 
+        "long": "-73.7388", 
+        "lat": "45.4473", 
+        "sn": "DORVAL", 
+        "dEn": "DORVAL", 
+        "address": "755 Montréal-Toronto Blvd, Dorval, QC, H9S 1A1, Canada", 
+        "sc": "DORV"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Drummondville train station", 
+        "long": "-72.4881", 
+        "lat": "45.8831", 
+        "sn": "DRUMMONDVILLE", 
+        "dEn": "DRUMMONDVILLE", 
+        "address": "263 rue Lindsay, Drummondville, QC, J2C 1P2, Canada", 
+        "sc": "DRMV"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Du Ruisseau, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DU RUISSEAU", 
+        "dEn": "DU RUISSEAU", 
+        "address": "3735 West Henri-Bourassa Blvd, Ville Saint-Laurent, QC, Canada", 
+        "sc": "DURS"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Dunlop train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DUNLOP", 
+        "dEn": "DUNLOP", 
+        "address": "Dunlop, MB, Canada", 
+        "sc": "DUNL"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Dunster train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DUNSTER", 
+        "dEn": "DUNSTER", 
+        "address": "Dunster, BC, Canada", 
+        "sc": "DNST"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Duplessis train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DUPLESSIS", 
+        "dEn": "DUPLESSIS", 
+        "address": "Duplessis, QC, Canada", 
+        "sc": "DUPL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Dyce train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "DYCE", 
+        "dEn": "DYCE", 
+        "address": "Dyce, MB, Canada", 
+        "sc": "DYCE"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Earchman train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "EARCHMAN", 
+        "dEn": "EARCHMAN", 
+        "address": "Earchman, ON, Canada", 
+        "sc": "EARC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "East Gwillimbury GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "EAST GWILLIMBURY", 
+        "dEn": "EAST GWILLIMBURY", 
+        "address": "845 Green Lane E., East Gwillimbury, ON, Canada", 
+        "sc": "ESGW"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Edmonton train station", 
+        "long": "-113.525", 
+        "lat": "53.5804", 
+        "sn": "EDMONTON", 
+        "dEn": "EDMONTON", 
+        "address": "12360-121 Street NW, Edmonton, AB, T5L 5C3, Canada", 
+        "sc": "EDMO"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "EDMONTON", 
+        "dEn": "EDMONTON", 
+        "address": "", 
+        "sc": "XYEG"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Edson train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "EDSON", 
+        "dEn": "EDSON", 
+        "address": "5001-1st Avenue West, Edson, AB, Canada", 
+        "sc": "EDSN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Eglinton station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "EGLINTON", 
+        "dEn": "EGLINTON", 
+        "address": "2995 Eglinton Ave, Scarborough, ON, Canada", 
+        "sc": "EGLT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Elma train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ELMA", 
+        "dEn": "ELMA", 
+        "address": "Elma, MB, Canada", 
+        "sc": "ELMA"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Elsas train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ELSAS", 
+        "dEn": "ELSAS", 
+        "address": "Elsas, ON, Canada", 
+        "sc": "ELSA"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Endako train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ENDAKO", 
+        "dEn": "ENDAKO", 
+        "address": "Endako, BC, Canada", 
+        "sc": "ENDA"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Endeavour train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ENDEAVOUR", 
+        "dEn": "ENDEAVOUR", 
+        "address": "Endeavour, SK, Canada", 
+        "sc": "ENDV"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Erindale GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ERINDALE", 
+        "dEn": "ERINDALE", 
+        "address": "1320 Rathburn Rd. W., Mississauga, ON, Canada", 
+        "sc": "ERIN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Esher train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ESHER", 
+        "dEn": "ESHER", 
+        "address": "Esher, ON, Canada", 
+        "sc": "ESHR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Etobicoke North station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ETOBICOKE NORTH", 
+        "dEn": "ETOBICOKE NORTH", 
+        "address": "1949 Kipling Ave, Etobicoke, ON, Canada", 
+        "sc": "ETON"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Evansburg train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "EVANSBURG", 
+        "dEn": "EVANSBURG", 
+        "address": "Evansburg, AB, Canada", 
+        "sc": "EVAN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Exhibition station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "EXHIBITION", 
+        "dEn": "EXHIBITION", 
+        "address": "Exhibition Grounds, Toronto, ON, Canada", 
+        "sc": "EXHI"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Fallowfield train station", 
+        "long": "-75.7282", 
+        "lat": "45.3001", 
+        "sn": "FALLOWFIELD", 
+        "dEn": "FALLOWFIELD", 
+        "address": "3347 Fallowfield road, Barrhaven, ON, K2J 5K9, Canada", 
+        "sc": "FALL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Falrie train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FALRIE", 
+        "dEn": "FALRIE", 
+        "address": "Falrie, QC, Canada", 
+        "sc": "FALR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Farlane train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FARLANE", 
+        "dEn": "FARLANE", 
+        "address": "Farlane, ON, Canada", 
+        "sc": "FARL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Felix train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FELIX", 
+        "dEn": "FELIX", 
+        "address": "Felix, ON, Canada", 
+        "sc": "FELX"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Ferguson train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FERGUSON", 
+        "dEn": "FERGUSON", 
+        "address": "Ferguson, QC, Canada", 
+        "sc": "FERG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Ferland train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FERLAND", 
+        "dEn": "FERLAND", 
+        "address": "Ferland, ON, Canada", 
+        "sc": "FERL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Finger train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FINGER", 
+        "dEn": "FINGER", 
+        "address": "Finger, MB, Canada", 
+        "sc": "FING"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Fitzpatrick train station", 
+        "long": "-72.7781", 
+        "lat": "47.4623", 
+        "sn": "FITZPATRICK", 
+        "dEn": "FITZPATRICK", 
+        "address": "R.R. 2., Laviolette Co., Fitzpatrick, QC, G9X 3N7, Canada", 
+        "sc": "FITZ"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Flindt Landing train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FLINDT LANDING", 
+        "dEn": "FLINDT LANDING", 
+        "address": "Flindt Landing, ON, Canada", 
+        "sc": "FLTL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Foleyet train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FOLEYET", 
+        "dEn": "FOLEYET", 
+        "address": "Foleyet, ON, Canada", 
+        "sc": "FOLE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Forsythe train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FORSYTHE", 
+        "dEn": "FORSYTHE", 
+        "address": "Forsythe, QC, Canada", 
+        "sc": "FORS"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Fort Fraser train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FORT FRASER", 
+        "dEn": "FORT FRASER", 
+        "address": "Fort Fraser, BC, Canada", 
+        "sc": "FFRA"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Fort McMurray station train", 
+        "long": "-111.454", 
+        "lat": "56.7314", 
+        "sn": "FORT MCMURRAY", 
+        "dEn": "FORT MCMURRAY", 
+        "address": "8220 Manning Ave, Fort McMurray, AB, T9K 1J7, Canada", 
+        "sc": "FMCM"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Franz train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "FRANZ", 
+        "dEn": "FRANZ", 
+        "address": "Railway St., Franz, ON, Canada", 
+        "sc": "FRNZ"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Gagnon train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GAGNON", 
+        "dEn": "GAGNON", 
+        "address": "Gagnon, QC, Canada", 
+        "sc": "GAGN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Gananoque train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GANANOQUE", 
+        "dEn": "GANANOQUE", 
+        "address": "North Station Rd., Gananoque, ON, Canada", 
+        "sc": "GANA"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Garneau train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GARNEAU", 
+        "dEn": "GARNEAU", 
+        "address": "Garneau, QC, Canada", 
+        "sc": "GARN"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Gaspé train station", 
+        "long": "-64.4778", 
+        "lat": "48.826", 
+        "sn": "GASPÉ", 
+        "dEn": "GASPÉ", 
+        "address": "8-1 de la Marina, Gaspé, QC, G4X 3B1, Canada", 
+        "sc": "GASP"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Georgetown train station", 
+        "long": "-79.9213", 
+        "lat": "43.6538", 
+        "sn": "GEORGETOWN", 
+        "dEn": "GEORGETOWN", 
+        "address": "Corner of King and Queen Street, Georgetown, ON, L7G 2E9, Canada", 
+        "sc": "GEOR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Gilbert Plains train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GILBERT PLAINS", 
+        "dEn": "GILBERT PLAINS", 
+        "address": "Gilbert Plains, MB, Canada", 
+        "sc": "GLBP"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Gillam train station", 
+        "long": "-94.7876", 
+        "lat": "56.3367", 
+        "sn": "GILLAM", 
+        "dEn": "GILLAM", 
+        "address": "252 Railway St., Gillam, MB, R0B 0L0, Canada", 
+        "sc": "GILL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Girdwood train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GIRDWOOD", 
+        "dEn": "GIRDWOOD", 
+        "address": "Girdwood, ON, Canada", 
+        "sc": "GIRD"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Gladstone train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GLADSTONE", 
+        "dEn": "GLADSTONE", 
+        "address": "Lorne St., Gladstone, MB, Canada", 
+        "sc": "GSTO"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Glencoe train station", 
+        "long": "-81.7098", 
+        "lat": "42.7532", 
+        "sn": "GLENCOE", 
+        "dEn": "GLENCOE", 
+        "address": "151 McRae St., Glencoe, ON, N0L 1M0, Canada", 
+        "sc": "GLNC"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Glenella train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GLENELLA", 
+        "dEn": "GLENELLA", 
+        "address": "Glenella, MB, Canada", 
+        "sc": "GLNA"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Goat River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GOAT RIVER", 
+        "dEn": "GOAT RIVER", 
+        "address": "Goat River, BC, Canada", 
+        "sc": "GOAT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Gogama train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GOGAMA", 
+        "dEn": "GOGAMA", 
+        "address": "Gogama, ON, Canada", 
+        "sc": "GOGA"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Grande Rivière train station", 
+        "long": "-64.4787", 
+        "lat": "48.4215", 
+        "sn": "GRANDE RIVIERE", 
+        "dEn": "GRANDE RIVIERE", 
+        "address": "Rue du Parc, Grande Rivière, QC, G0C 1V0, Canada", 
+        "sc": "GDRV"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Grand-Mère train station", 
+        "long": "-72.6941", 
+        "lat": "46.6158", 
+        "sn": "GRAND-MÈRE", 
+        "dEn": "GRAND-MÈRE", 
+        "address": "600 8th St. South, Grand-Mère, QC, G9T 1Y1, Canada", 
+        "sc": "GMRE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Grand-Moulin, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GRAND-MOULIN", 
+        "dEn": "GRAND-MOULIN", 
+        "address": "812 Rockland Street, Deux-Montagnes, QC, Canada", 
+        "sc": "GDML"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Grandview train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GRANDVIEW", 
+        "dEn": "GRANDVIEW", 
+        "address": "Grandview, MB, Canada", 
+        "sc": "GVIE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Greening train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GREENING", 
+        "dEn": "GREENING", 
+        "address": "Greening, QC, Canada", 
+        "sc": "GRNG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Grimsby GO Bus Stop station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "GRIMSBY", 
+        "dEn": "GRIMSBY", 
+        "address": "Grimsby P&R;/Carpool, Grimsby, ON, Canada", 
+        "sc": "GRIG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Grimsby train station", 
+        "long": "-79.5548", 
+        "lat": "43.1998", 
+        "sn": "GRIMSBY", 
+        "dEn": "GRIMSBY", 
+        "address": "99 Ontario, Grimsby, ON, L3M 3H6, Canada", 
+        "sc": "GRIM"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Guelph train station", 
+        "long": "-80.2456", 
+        "lat": "43.5456", 
+        "sn": "GUELPH", 
+        "dEn": "GUELPH", 
+        "address": "79 Carden Street, Guelph, ON, N1H 3A4, Canada", 
+        "sc": "GUEL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Guildwood train station", 
+        "long": "-79.2004", 
+        "lat": "43.756", 
+        "sn": "GUILDWOOD", 
+        "dEn": "GUILDWOOD", 
+        "address": "4105 Kingston Road, Scarborough, ON, M1E 2M3, Canada", 
+        "sc": "GUIL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Halcrow train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HALCROW", 
+        "dEn": "HALCROW", 
+        "address": "Halcrow, MB, Canada", 
+        "sc": "HALC"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Halifax train station", 
+        "long": "-63.5688", 
+        "lat": "44.6395", 
+        "sn": "HALIFAX", 
+        "dEn": "HALIFAX", 
+        "address": "1161 Hollis St, Halifax, NS, B3H 2P6, Canada", 
+        "sc": "HLFX"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Hamilton station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HAMILTON", 
+        "dEn": "HAMILTON", 
+        "address": "36 Hunter St. E., Hamilton, ON, Canada", 
+        "sc": "HAML"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Harvey train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HARVEY", 
+        "dEn": "HARVEY", 
+        "address": "Harvey, BC, Canada", 
+        "sc": "HRVY"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Hebertville train station", 
+        "long": "-71.6531", 
+        "lat": "48.4489", 
+        "sn": "HEBERTVILLE", 
+        "dEn": "HEBERTVILLE", 
+        "address": "15 Rue St-Louis, Hebertville, QC, G0W 1T0, Canada", 
+        "sc": "HEBV"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Heming Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HEMING LAKE", 
+        "dEn": "HEMING LAKE", 
+        "address": "Heming Lake, MB, Canada", 
+        "sc": "HMGL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Herchmer train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HERCHMER", 
+        "dEn": "HERCHMER", 
+        "address": "Herchmer, MB, Canada", 
+        "sc": "HERC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Hervey train station", 
+        "long": "-72.3868", 
+        "lat": "46.866", 
+        "sn": "HERVEY", 
+        "dEn": "HERVEY", 
+        "address": "445 Chemin St-Charles, Hervey, QC, G0X 1M0, Canada", 
+        "sc": "HERV"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Hibbard train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HIBBARD", 
+        "dEn": "HIBBARD", 
+        "address": "Hibbard, QC, Canada", 
+        "sc": "HIBB"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Hillsport train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HILLSPORT", 
+        "dEn": "HILLSPORT", 
+        "address": "Hillsport, ON, Canada", 
+        "sc": "HLSP"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Hinton train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HINTON", 
+        "dEn": "HINTON", 
+        "address": "Hinton, AB, Canada", 
+        "sc": "HINT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Hirondelle train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HIRONDELLE", 
+        "dEn": "HIRONDELLE", 
+        "address": "Hirondelle, QC, Canada", 
+        "sc": "HRDL"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Hockin train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HOCKIN", 
+        "dEn": "HOCKIN", 
+        "address": "Hockin, MB, Canada", 
+        "sc": "HOCK"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Hope train station", 
+        "long": "-121.432", 
+        "lat": "49.3835", 
+        "sn": "HOPE", 
+        "dEn": "HOPE", 
+        "address": "5th Avenue and Hudson Bay St., Hope, BC, V0X 1L4, Canada", 
+        "sc": "HOPE"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Hornepayne train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HORNEPAYNE", 
+        "dEn": "HORNEPAYNE", 
+        "address": "Hornepayne, ON, Canada", 
+        "sc": "HNPN"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Houston train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HOUSTON", 
+        "dEn": "HOUSTON", 
+        "address": "Houston, BC, Canada", 
+        "sc": "HOUS"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Hudson Bay train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HUDSON BAY", 
+        "dEn": "HUDSON BAY", 
+        "address": "Hudson Bay, SK, Canada", 
+        "sc": "HBAY"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Hudson station train", 
+        "long": "-73.7734", 
+        "lat": "42.2483", 
+        "sn": "HUDSON", 
+        "dEn": "HUDSON", 
+        "address": "69 South Front St., Hudson, NY, 12534, US", 
+        "sc": "HUDS"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Hutton train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "HUTTON", 
+        "dEn": "HUTTON", 
+        "address": "Hutton, BC, Canada", 
+        "sc": "HUTT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ILE-BIGRAS", 
+        "dEn": "ILE-BIGRAS", 
+        "address": "313 Chemin du Tour, Île-Bigras, QC, Canada", 
+        "sc": "ISLE"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Ilford train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ILFORD", 
+        "dEn": "ILFORD", 
+        "address": "Ilford, MB, Canada", 
+        "sc": "ILFO"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Ingersoll train station", 
+        "long": "-80.8803", 
+        "lat": "43.0362", 
+        "sn": "INGERSOLL", 
+        "dEn": "INGERSOLL", 
+        "address": "1 Thames Street North, Ingersoll, ON, N5C 3C6, Canada", 
+        "sc": "INGR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Iroquois Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "IROQUOIS CLUB", 
+        "dEn": "IROQUOIS CLUB", 
+        "address": "Iroquois Club, QC, Canada", 
+        "sc": "IRQC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Jacques Cartier Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "JACQUES CARTIER CLUB", 
+        "dEn": "JACQUES CARTIER CLUB", 
+        "address": "Jacques Cartier Club, QC, Canada", 
+        "sc": "JACC"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Jacquet River train station", 
+        "long": "-66.0096", 
+        "lat": "47.9171", 
+        "sn": "JACQUET RIVER", 
+        "dEn": "JACQUET RIVER", 
+        "address": "Jacquet River, NB, E8G 2K6, Canada", 
+        "sc": "JACR"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Jasper train station", 
+        "long": "-118.079", 
+        "lat": "52.8793", 
+        "sn": "JASPER", 
+        "dEn": "JASPER", 
+        "address": "607 Connaught Dr, Jasper, AB, T0E 1E0, Canada", 
+        "sc": "JASP"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Joliette train station", 
+        "long": "-73.4444", 
+        "lat": "46.0287", 
+        "sn": "JOLIETTE", 
+        "dEn": "JOLIETTE", 
+        "address": "380 Champlain, Joliette, QC, J6E 2S1, Canada", 
+        "sc": "JOLI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Jonquière train station", 
+        "long": "-71.2547", 
+        "lat": "48.412", 
+        "sn": "JONQUIERE", 
+        "dEn": "JONQUIERE", 
+        "address": "2439 rue St-Dominique, Jonquière, QC, G7X 6K9, Canada", 
+        "sc": "JONQ"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Kamloops North train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KAMLOOPS NORTH", 
+        "dEn": "KAMLOOPS NORTH", 
+        "address": "Yellowhead Highway 5, Kamloops North, BC, Canada", 
+        "sc": "KAMN"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Kamsack train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KAMSACK", 
+        "dEn": "KAMSACK", 
+        "address": "Kamsack, SK, Canada", 
+        "sc": "KAMS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Kapitachuan train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KAPITACHUAN", 
+        "dEn": "KAPITACHUAN", 
+        "address": "Kapitachuan, QC, Canada", 
+        "sc": "KPTC"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Katz train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KATZ", 
+        "dEn": "KATZ", 
+        "address": "Katz, BC, Canada", 
+        "sc": "KATZ"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Kellett train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KELLETT", 
+        "dEn": "KELLETT", 
+        "address": "Kellett, MB, Canada", 
+        "sc": "KLTT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Kennedy GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KENNEDY", 
+        "dEn": "KENNEDY", 
+        "address": "2467 Eglinton Avenue East, Scarborough, ON, Canada", 
+        "sc": "KNDY"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Kettle Rapids train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KETTLE RAPIDS", 
+        "dEn": "KETTLE RAPIDS", 
+        "address": "Kettle Rapids, MB, Canada", 
+        "sc": "KETR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "King City GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KING CITY", 
+        "dEn": "KING CITY", 
+        "address": "7 Station Rd, King City, ON, Canada", 
+        "sc": "KING"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Kingston train station", 
+        "long": "-76.5396", 
+        "lat": "44.2583", 
+        "sn": "KINGSTON", 
+        "dEn": "KINGSTON", 
+        "address": "1800 John Counter Blvd, Kingston, ON, K7M 7H3, Canada", 
+        "sc": "KGON"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Kinogama train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KINOGAMA", 
+        "dEn": "KINOGAMA", 
+        "address": "Kinogama, ON, Canada", 
+        "sc": "KINO"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Kipling Go Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KIPLING", 
+        "dEn": "KIPLING", 
+        "address": "27 St. Albans Rd, Toronto, ON, Canada", 
+        "sc": "KPLG"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Kiskisink train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KISKISINK", 
+        "dEn": "KISKISINK", 
+        "address": "Kiskisink, QC, Canada", 
+        "sc": "KISK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Kitchener train station", 
+        "long": "-80.4943", 
+        "lat": "43.4559", 
+        "sn": "KITCHENER", 
+        "dEn": "KITCHENER", 
+        "address": "126 Weber St. West, Kitchener, ON, N2H 3Z9, Canada", 
+        "sc": "KITC"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Kitwanga train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KITWANGA", 
+        "dEn": "KITWANGA", 
+        "address": "Kitwanga, BC, Canada", 
+        "sc": "KITW"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Kondiaronk train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KONDIARONK", 
+        "dEn": "KONDIARONK", 
+        "address": "Kondiaronk, QC, Canada", 
+        "sc": "KOND"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Kormak train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KORMAK", 
+        "dEn": "KORMAK", 
+        "address": "Kormak, ON, Canada", 
+        "sc": "KORM"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Kwinitsa train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "KWINITSA", 
+        "dEn": "KWINITSA", 
+        "address": "Kwinitsa, BC, Canada", 
+        "sc": "KWIN"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "L'Assomption train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "L`ASSOMPTION", 
+        "dEn": "L`ASSOMPTION", 
+        "address": "L'Assomption, QC, Canada", 
+        "sc": "LASS"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "La Perouse train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LA PEROUSE", 
+        "dEn": "LA PEROUSE", 
+        "address": "La Perouse, MB, Canada", 
+        "sc": "LPRS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "La Pocatière train station", 
+        "long": "-70.1294", 
+        "lat": "46.6933", 
+        "sn": "LA POCATIERE", 
+        "dEn": "LA POCATIERE", 
+        "address": "95 Avenue de la Gare, La Pocatière, QC, G0R 1Z0, Canada", 
+        "sc": "LPOC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "La Tuque train station", 
+        "long": "-72.7828", 
+        "lat": "47.4381", 
+        "sn": "LA TUQUE", 
+        "dEn": "LA TUQUE", 
+        "address": "550 St-Louis, La Tuque, QC, G9X 2X5, Canada", 
+        "sc": "LTUQ"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Lac Bouchette train station", 
+        "long": "-72.2333", 
+        "lat": "48.16", 
+        "sn": "LAC BOUCHETTE", 
+        "dEn": "LAC BOUCHETTE", 
+        "address": "131 Victor de Lamarre, Lac Bouchette, QC, G0W 1V0, Canada", 
+        "sc": "LBOU"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Lac Darey train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAC DAREY", 
+        "dEn": "LAC DAREY", 
+        "address": "Lac Darey, QC, Canada", 
+        "sc": "LDAR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Lac des Roches train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAC DES ROCHES", 
+        "dEn": "LAC DES ROCHES", 
+        "address": "Lac des Roches, QC, Canada", 
+        "sc": "LDES"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Lac Édouard train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAC ÉDOUARD", 
+        "dEn": "LAC ÉDOUARD", 
+        "address": "Lac Édouard, QC, Canada", 
+        "sc": "LEDW"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Lac Malouin train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAC MALOUIN", 
+        "dEn": "LAC MALOUIN", 
+        "address": "Lac Malouin, QC, Canada", 
+        "sc": "LMAL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Laforest train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAFOREST", 
+        "dEn": "LAFOREST", 
+        "address": "Laforest, ON, Canada", 
+        "sc": "LAFO"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAKE LOUISE", 
+        "dEn": "LAKE LOUISE", 
+        "address": "", 
+        "sc": "LLOU"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Lamprey train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAMPREY", 
+        "dEn": "LAMPREY", 
+        "address": "Lamprey, MB, Canada", 
+        "sc": "LAMP"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Langlade train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LANGLADE", 
+        "dEn": "LANGLADE", 
+        "address": "Langlade, QC, Canada", 
+        "sc": "LNGN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Langstaff GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LANGSTAFF", 
+        "dEn": "LANGSTAFF", 
+        "address": "10 Red Maple Road, Thornhill, ON, Canada", 
+        "sc": "LANG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Larchwood train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LARCHWOOD", 
+        "dEn": "LARCHWOOD", 
+        "address": "Larchwood, ON, Canada", 
+        "sc": "LARC"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Laurier train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAURIER", 
+        "dEn": "LAURIER", 
+        "address": "Laurier, MB, Canada", 
+        "sc": "LRIE"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Lawledge train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LAWLEDGE", 
+        "dEn": "LAWLEDGE", 
+        "address": "Lawledge, MB, Canada", 
+        "sc": "LAWL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Le Gardeur train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LE GARDEUR", 
+        "dEn": "LE GARDEUR", 
+        "address": "Rue Saint-Paul, Le Gardeur, QC, Canada", 
+        "sc": "LGAR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Levack train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LEVACK", 
+        "dEn": "LEVACK", 
+        "address": "Levack, ON, Canada", 
+        "sc": "LEVA"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Leven train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LEVEN", 
+        "dEn": "LEVEN", 
+        "address": "Leven, MB, Canada", 
+        "sc": "LEVN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Lincolnville GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LINCOLNVILLE", 
+        "dEn": "LINCOLNVILLE", 
+        "address": "6840 Bethesda Road, Stouffville, ON, Canada", 
+        "sc": "LNVL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Lisgar GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LISGAR", 
+        "dEn": "LISGAR", 
+        "address": "3250 Argentia Road, Mississauga, ON, Canada", 
+        "sc": "LSGR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Lizotte Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LIZOTTE CLUB", 
+        "dEn": "LIZOTTE CLUB", 
+        "address": "Lizotte Club, QC, Canada", 
+        "sc": "LIZO"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Lochalsh train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LOCHALSH", 
+        "dEn": "LOCHALSH", 
+        "address": "Lochalsh, ON, Canada", 
+        "sc": "LOCH"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "London train station", 
+        "long": "-81.2466", 
+        "lat": "42.9818", 
+        "sn": "LONDON", 
+        "dEn": "LONDON", 
+        "address": "205 York St., London, ON, N6A 1B1, Canada", 
+        "sc": "LNDN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Long Branch station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LONG BRANCH", 
+        "dEn": "LONG BRANCH", 
+        "address": "20 Brow Dr., Etobicoke, ON, Canada", 
+        "sc": "LBRC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Longlac train station", 
+        "long": "-86.7925", 
+        "lat": "49.7689", 
+        "sn": "LONGLAC", 
+        "dEn": "LONGLAC", 
+        "address": "National St., Longlac, ON, P0T 2A0, Canada", 
+        "sc": "LLAC"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Longworth train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LONGWORTH", 
+        "dEn": "LONGWORTH", 
+        "address": "Longworth, BC, Canada", 
+        "sc": "LWTH"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Loos train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LOOS", 
+        "dEn": "LOOS", 
+        "address": "Loos, BC, Canada", 
+        "sc": "LOOS"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Luke train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LUKE", 
+        "dEn": "LUKE", 
+        "address": "Luke, MB, Canada", 
+        "sc": "LUKE"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Lyddal train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "LYDDAL", 
+        "dEn": "LYDDAL", 
+        "address": "Lyddal, MB, Canada", 
+        "sc": "LYDD"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Malachi train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MALACHI", 
+        "dEn": "MALACHI", 
+        "address": "Malachi, ON, Canada", 
+        "sc": "MLCH"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Malton train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MALTON", 
+        "dEn": "MALTON", 
+        "address": "3060 Derry Road East, Mississauga, ON, Canada", 
+        "sc": "MALT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Maniwawa Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MANIWAWA CLUB", 
+        "dEn": "MANIWAWA CLUB", 
+        "address": "Maniwawa Club, QC, Canada", 
+        "sc": "MWWC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Manjobagues train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MANJOBAGUES", 
+        "dEn": "MANJOBAGUES", 
+        "address": "Manjobagues, QC, Canada", 
+        "sc": "MJBG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Maple GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MAPLE", 
+        "dEn": "MAPLE", 
+        "address": "30 Station St., Vaughan, ON, Canada", 
+        "sc": "MPLE"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Markham GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MARKHAM", 
+        "dEn": "MARKHAM", 
+        "address": "214 Main Street Markham N., Markham, ON, Canada", 
+        "sc": "MHAM"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Matapédia train station", 
+        "long": "-66.953", 
+        "lat": "47.9744", 
+        "sn": "MATAPEDIA", 
+        "dEn": "MATAPEDIA", 
+        "address": "10 rue MacDonell, Matapédia, QC, G0J 1V0, Canada", 
+        "sc": "MTPD"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "McBride train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MCBRIDE", 
+        "dEn": "MCBRIDE", 
+        "address": "Main St & 1st Ave, McBride, BC, Canada", 
+        "sc": "MCBR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "McCarthy train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MCCARTHY", 
+        "dEn": "MCCARTHY", 
+        "address": "McCarthy, QC, Canada", 
+        "sc": "MCCA"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "McCreary train station", 
+        "long": "-99.1246", 
+        "lat": "50.7354", 
+        "sn": "MCCREARY", 
+        "dEn": "MCCREARY", 
+        "address": "Railway St., McCreary, MB, R0J 1B0, Canada", 
+        "sc": "MCCR"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "McGregor train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MCGREGOR", 
+        "dEn": "MCGREGOR", 
+        "address": "McGregor, BC, Canada", 
+        "sc": "MCGR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "McKee's Camp train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MCKEE`S CAMP", 
+        "dEn": "MCKEE`S CAMP", 
+        "address": "McKee's Camp, ON, Canada", 
+        "sc": "MCKC"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "M'Clintock train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MCLINTOCK", 
+        "dEn": "MCLINTOCK", 
+        "address": "M'Clintock, MB, Canada", 
+        "sc": "MCLI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "McMasterville, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MCMASTERVILLE", 
+        "dEn": "MCMASTERVILLE", 
+        "address": "399 rue du Purvis Club, McMasterville, QC, Canada", 
+        "sc": "MCMA"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "McTavis Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MCTAVIS CLUB", 
+        "dEn": "MCTAVIS CLUB", 
+        "address": "McTavish Club, QC, Canada", 
+        "sc": "MCTC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Meadowvale GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MEADOWVALE", 
+        "dEn": "MEADOWVALE", 
+        "address": "6845 Millcreek Dr., Mississauga, ON, c", 
+        "sc": "MDVL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Megiscane train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MEGISCANE", 
+        "dEn": "MEGISCANE", 
+        "address": "Megiscane, QC, Canada", 
+        "sc": "MEGI"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Melville train station", 
+        "long": "-102.872", 
+        "lat": "51.1382", 
+        "sn": "MELVILLE", 
+        "dEn": "MELVILLE", 
+        "address": "Main St & 1st Ave, Melville, SK, S0A 2P0, Canada", 
+        "sc": "MELV"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Metagama train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "METAGAMA", 
+        "dEn": "METAGAMA", 
+        "address": "Metagama, ON, Canada", 
+        "sc": "MTGM"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Mikado train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MIKADO", 
+        "dEn": "MIKADO", 
+        "address": "Mikado, SK, Canada", 
+        "sc": "MIKA"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Milliken GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MILLIKEN", 
+        "dEn": "MILLIKEN", 
+        "address": "39 Redlea Ave., Scarborough, ON, Canada", 
+        "sc": "MLKN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Milton GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MILTON", 
+        "dEn": "MILTON", 
+        "address": "780 Main St. E., Milton, ON, Canada", 
+        "sc": "MLTN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Mimico station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MIMICO", 
+        "dEn": "MIMICO", 
+        "address": "315 Royal York Rd, Mimico, ON, Canada", 
+        "sc": "MIMI"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Minaki train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MINAKI", 
+        "dEn": "MINAKI", 
+        "address": "Minaki, ON, Canada", 
+        "sc": "MNKI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Miquick train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MIQUICK", 
+        "dEn": "MIQUICK", 
+        "address": "Miquick, QC, Canada", 
+        "sc": "MIQK"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Miramichi train station", 
+        "long": "-65.5726", 
+        "lat": "47.0052", 
+        "sn": "MIRAMICHI", 
+        "dEn": "MIRAMICHI", 
+        "address": "251 Station St., Miramichi, NB, E1V 1G6, Canada", 
+        "sc": "MIRA"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Missanabie train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MISSANABIE", 
+        "dEn": "MISSANABIE", 
+        "address": "Missanabie, ON, Canada", 
+        "sc": "MSBI"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Mission Harbour train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MISSION HARBOUR", 
+        "dEn": "MISSION HARBOUR", 
+        "address": "Harbour Ave, Mission Harbour, BC, Canada", 
+        "sc": "MSNH"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Moncton train station", 
+        "long": "-64.7875", 
+        "lat": "46.0853", 
+        "sn": "MONCTON", 
+        "dEn": "MONCTON", 
+        "address": "1240 Main Street, Moncton, NB, E1C 0E6, Canada", 
+        "sc": "MCTN"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Monet train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MONET", 
+        "dEn": "MONET", 
+        "address": "Monet, QC, Canada", 
+        "sc": "MNET"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Mont-Joli train station", 
+        "long": "-68.1881", 
+        "lat": "48.5892", 
+        "sn": "MONT-JOLI", 
+        "dEn": "MONT-JOLI", 
+        "address": "48 rue de la Gare, Mont-Joli, QC, G5H 1N7, Canada", 
+        "sc": "MJLI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Montmagny train station", 
+        "long": "-70.5602", 
+        "lat": "46.9734", 
+        "sn": "MONTMAGNY", 
+        "dEn": "MONTMAGNY", 
+        "address": "4 Rue de la Station, Montmagny, QC, G5V 3T2, Canada", 
+        "sc": "MMGY"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Montpellier, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MONTPELLIER", 
+        "dEn": "MONTPELLIER", 
+        "address": "465 Côte-Vertu Blvd, Ville Saint-Laurent, QC, Canada", 
+        "sc": "MTPL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Montréal Trudeau International Airport (Shuttle)", 
+        "long": "-73.5769", 
+        "lat": "45.4496", 
+        "sn": "MONTRÉAL TRUDEAU AIRPORT", 
+        "dEn": "MONTRÉAL TRUDEAU AIRPORT", 
+        "address": "975 North Roméo-Vachon, Dorval, Québec, H4H 1H1, Canada", 
+        "sc": "XYUL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Montréal train station", 
+        "long": "-73.5662", 
+        "lat": "45.5001", 
+        "sn": "MONTRÉAL", 
+        "dEn": "MONTRÉAL", 
+        "address": "895 de la Gauchetiere West, Montréal, QC, H3B 4G1, Canada", 
+        "sc": "MTRL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Mont-Royal, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MONT-ROYAL", 
+        "dEn": "MONT-ROYAL", 
+        "address": "1275 chemin Dunkirk, Mont-Royal, QC, Canada", 
+        "sc": "MTRY"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Mont-Saint-Hilaire, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MONT-SAINT-HILAIRE", 
+        "dEn": "MONT-SAINT-HILAIRE", 
+        "address": "1000 avenue de la Gare, Mont-Saint-Hilaire, QC, Canada", 
+        "sc": "MTSH"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Mount Joy GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MOUNT JOY", 
+        "dEn": "MOUNT JOY", 
+        "address": "1801 Bur Oak Ave., Markham, ON, Canada", 
+        "sc": "MTJY"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Mud River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MUD RIVER", 
+        "dEn": "MUD RIVER", 
+        "address": "Mud River, ON, Canada", 
+        "sc": "MUDR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Munk train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MUNK", 
+        "dEn": "MUNK", 
+        "address": "Munk, MB, Canada", 
+        "sc": "MUNK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Musk train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MUSK", 
+        "dEn": "MUSK", 
+        "address": "Musk, ON, Canada", 
+        "sc": "MUSK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Nakina train station", 
+        "long": "-86.6277", 
+        "lat": "50.1965", 
+        "sn": "NAKINA", 
+        "dEn": "NAKINA", 
+        "address": "Railway St., Nakina, ON, P0T 2H0, Canada", 
+        "sc": "NAKI"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Napanee train station", 
+        "long": "-76.9581", 
+        "lat": "44.2522", 
+        "sn": "NAPANEE", 
+        "dEn": "NAPANEE", 
+        "address": "301 John St., Napanee, ON, K7R 3L3, Canada", 
+        "sc": "NAPN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Nemegos train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NEMEGOS", 
+        "dEn": "NEMEGOS", 
+        "address": "Nemegos, ON, Canada", 
+        "sc": "NEME"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "New Carlisle train station", 
+        "long": "-65.3472", 
+        "lat": "48.0075", 
+        "sn": "NEW CARLISLE", 
+        "dEn": "NEW CARLISLE", 
+        "address": "6 rue Vimy, New Carlisle, QC, G0C 1Z0, Canada", 
+        "sc": "NCAR"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "New Hazelton train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NEW HAZELTON", 
+        "dEn": "NEW HAZELTON", 
+        "address": "New Hazelton, BC, Canada", 
+        "sc": "NHAZ"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "New Richmond train station", 
+        "long": "-65.8644", 
+        "lat": "48.1695", 
+        "sn": "NEW RICHMOND", 
+        "dEn": "NEW RICHMOND", 
+        "address": "Rue McCormik, New Richmond, QC, G0C 2B0, Canada", 
+        "sc": "NRCH"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "New York station train", 
+        "long": "-73.997", 
+        "lat": "40.7501", 
+        "sn": "NEW YORK", 
+        "dEn": "NEW YORK", 
+        "address": "Pennsylvania Station, 8th Ave & 31st St., New York, NY, 10001, US", 
+        "sc": "NEWY"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Newmarket GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NEWMARKET", 
+        "dEn": "NEWMARKET", 
+        "address": "465 Davis Dr., Newmarket, ON, Canada", 
+        "sc": "NMKT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Niagara Falls GO Bus Stop station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NIAGARA FALLS HWY 420", 
+        "dEn": "NIAGARA FALLS HWY 420", 
+        "address": "Stanley & Highway 420, Niagara Falls, ON, Canada", 
+        "sc": "NIAF"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Niagara Falls station train", 
+        "long": "-79.0293", 
+        "lat": "43.1163", 
+        "sn": "NIAGARA FALLS", 
+        "dEn": "NIAGARA FALLS", 
+        "address": "27 St. & Lockport Rd., Niagara Falls, NY, 14305, US", 
+        "sc": "NFNY"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Niagara Falls train station", 
+        "long": "-79.068", 
+        "lat": "43.1086", 
+        "sn": "NIAGARA FALLS", 
+        "dEn": "NIAGARA FALLS", 
+        "address": "4267 Bridge Street, Niagara Falls, ON, L2E 2R6, Canada", 
+        "sc": "NIAG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Nicholson train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NICHOLSON", 
+        "dEn": "NICHOLSON", 
+        "address": "Nicholson, ON, Canada", 
+        "sc": "NICH"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Nonsuch train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NONSUCH", 
+        "dEn": "NONSUCH", 
+        "address": "Nonsuch, MB, Canada", 
+        "sc": "NONS"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "North Bend train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "NORTH BEND", 
+        "dEn": "NORTH BEND", 
+        "address": "North Bend, BC, Canada", 
+        "sc": "NBND"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Nouvelle train station", 
+        "long": "-66.3213", 
+        "lat": "48.1497", 
+        "sn": "NOUVELLE", 
+        "dEn": "NOUVELLE", 
+        "address": "Rue de la Station, Nouvelle, QC, G0C 2E0, Canada", 
+        "sc": "NOUV"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Oakville train station", 
+        "long": "-79.6844", 
+        "lat": "43.4555", 
+        "sn": "OAKVILLE", 
+        "dEn": "OAKVILLE", 
+        "address": "200 Cross Ave, Oakville, ON, L6J 2W6, Canada", 
+        "sc": "OAKV"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Oba train station", 
+        "long": "-84.0429", 
+        "lat": "49.0937", 
+        "sn": "OBA", 
+        "dEn": "OBA", 
+        "address": "Railway St., Oba, ON, P0M 2P0, Canada", 
+        "sc": "OBAX"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "O'Brien train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "O'BRIEN", 
+        "dEn": "O'BRIEN", 
+        "address": "O'Brien, ON, Canada", 
+        "sc": "OBRI"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Ochre River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OCHRE RIVER", 
+        "dEn": "OCHRE RIVER", 
+        "address": "Ochre River, MB, Canada", 
+        "sc": "OCHR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Oday train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ODAY", 
+        "dEn": "ODAY", 
+        "address": "Oday, MB, Canada", 
+        "sc": "ODAY"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Odhill train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ODHILL", 
+        "dEn": "ODHILL", 
+        "address": "Odhill, MB, Canada", 
+        "sc": "ODHI"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Old Cummer GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OLD CUMMER", 
+        "dEn": "OLD CUMMER", 
+        "address": "5760 Leslie St., North York, ON, Canada", 
+        "sc": "OLDC"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Ophir train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OPHIR", 
+        "dEn": "OPHIR", 
+        "address": "Ophir, MB, Canada", 
+        "sc": "OPHR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Optic Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OPTIC LAKE", 
+        "dEn": "OPTIC LAKE", 
+        "address": "Optic Lake, MB, Canada", 
+        "sc": "OPTL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Oriole station train", 
+        "long": "-79.3219", 
+        "lat": "43.751", 
+        "sn": "ORIOLE", 
+        "dEn": "ORIOLE", 
+        "address": "3300 Leslie St., Oriole, ON, M3A 2M3, Canada", 
+        "sc": "ORIO"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Orok train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OROK", 
+        "dEn": "OROK", 
+        "address": "Orok, MB, Canada", 
+        "sc": "OROK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Oshawa train station", 
+        "long": "-78.8826", 
+        "lat": "43.8669", 
+        "sn": "OSHAWA", 
+        "dEn": "OSHAWA", 
+        "address": "915 Bloor Street West, Oshawa, ON, L1J 7E2, Canada", 
+        "sc": "OSHA"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Oskelaneo Lodge train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OSKELANEO LODGE", 
+        "dEn": "OSKELANEO LODGE", 
+        "address": "Oskelaneo Lodge, QC, Canada", 
+        "sc": "OSKL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Oskelaneo River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OSKELANEO RIVER", 
+        "dEn": "OSKELANEO RIVER", 
+        "address": "Oskelaneo River, QC, Canada", 
+        "sc": "OSKR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Ottawa train station", 
+        "long": "-75.655", 
+        "lat": "45.417", 
+        "sn": "OTTAWA", 
+        "dEn": "OTTAWA", 
+        "address": "200 Tremblay Road, Ottawa, ON, K1G 3H5, Canada", 
+        "sc": "OTTW"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Ottermere train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "OTTERMERE", 
+        "dEn": "OTTERMERE", 
+        "address": "Ottermere, ON, Canada", 
+        "sc": "OTTM"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Pacific train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PACIFIC", 
+        "dEn": "PACIFIC", 
+        "address": "Pacific, BC, Canada", 
+        "sc": "PACI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Parent train station", 
+        "long": "-74.6184", 
+        "lat": "47.9202", 
+        "sn": "PARENT", 
+        "dEn": "PARENT", 
+        "address": "100 Rue Commerciale, Parent, QC, G0X 3P0, Canada", 
+        "sc": "PARE"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Parry Sound Station Gallery train station", 
+        "long": "-80.0386", 
+        "lat": "45.347", 
+        "sn": "PARRY SOUND SOUTH", 
+        "dEn": "PARRY SOUND SOUTH", 
+        "address": "1 Avenue Road (The Parry Sound Station Gallery), Parry Sound, ON, P2A 2A6, Canada", 
+        "sc": "SPAR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Parry Sound train station", 
+        "long": "-80.0386", 
+        "lat": "45.347", 
+        "sn": "PARRY SOUND", 
+        "dEn": "PARRY SOUND", 
+        "address": "70 Church St., Parry Sound, ON, P2A 2A6, Canada", 
+        "sc": "PARS"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Paterson train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PATERSON", 
+        "dEn": "PATERSON", 
+        "address": "Paterson, MB, Canada", 
+        "sc": "PATE"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Pawistik train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PAWISTIK", 
+        "dEn": "PAWISTIK", 
+        "address": "Pawistik, MB, Canada", 
+        "sc": "PAWI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Pearl Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PEARL LAKE", 
+        "dEn": "PEARL LAKE", 
+        "address": "Pearl Lake, QC, Canada", 
+        "sc": "PRLL"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Penny train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PENNY", 
+        "dEn": "PENNY", 
+        "address": "Penny, BC, Canada", 
+        "sc": "PENN"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Percé train station", 
+        "long": "-64.6461", 
+        "lat": "48.3656", 
+        "sn": "PERCÉ", 
+        "dEn": "PERCÉ", 
+        "address": "44 rue de l'Anse à Beaufils, Percé, QC, G0C 1G0, Canada", 
+        "sc": "PERC"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Petit Rocher train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PETIT ROCHER", 
+        "dEn": "PETIT ROCHER", 
+        "address": "Petit Rocher, NB, Canada", 
+        "sc": "PROC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Pickering station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PICKERING", 
+        "dEn": "PICKERING", 
+        "address": "1322 Bayly St., Pickering, ON, Canada", 
+        "sc": "PICK"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Pikwitonei train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PIKWITONEI", 
+        "dEn": "PIKWITONEI", 
+        "address": "Pikwitonei, MB, Canada", 
+        "sc": "PIKW"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Pipun train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PIPUN", 
+        "dEn": "PIPUN", 
+        "address": "Pipun, MB, Canada", 
+        "sc": "PIPN"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Pit Siding train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PIT SIDING", 
+        "dEn": "PIT SIDING", 
+        "address": "Pit Siding, MB, Canada", 
+        "sc": "PITS"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Plumas train station", 
+        "long": "-98.9733", 
+        "lat": "50.3902", 
+        "sn": "PLUMAS", 
+        "dEn": "PLUMAS", 
+        "address": "Mckenzie Ave & Anderson St., Plumas, MB, R0J 1P0, Canada", 
+        "sc": "PLUM"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Pogamasing train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "POGAMASING", 
+        "dEn": "POGAMASING", 
+        "address": "Pogamasing, ON, Canada", 
+        "sc": "POGA"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "POINTE-AUX-TREMBLES", 
+        "dEn": "POINTE-AUX-TREMBLES", 
+        "address": "", 
+        "sc": "PATX"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Pont Beaudet train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PONT BEAUDET", 
+        "dEn": "PONT BEAUDET", 
+        "address": "Pont Beaudet, QC, Canada", 
+        "sc": "PBDT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Ponton train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PONTON", 
+        "dEn": "PONTON", 
+        "address": "Ponton, MB, Canada", 
+        "sc": "PNTN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Port Credit station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PORT CREDIT", 
+        "dEn": "PORT CREDIT", 
+        "address": "30 QUEEN ST. EAST, Mississauga, ON, Canada", 
+        "sc": "PCRE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Port Daniel train station", 
+        "long": "-64.9243", 
+        "lat": "48.106", 
+        "sn": "PORT DANIEL", 
+        "dEn": "PORT DANIEL", 
+        "address": "490 Route 132, Port Daniel, QC, G0C 2N0, Canada", 
+        "sc": "PDAN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Port Hope train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PORT HOPE", 
+        "dEn": "PORT HOPE", 
+        "address": "Hayward Street, Port Hope, ON, Canada", 
+        "sc": "PHOP"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Portage la Prairie train station", 
+        "long": "-98.288", 
+        "lat": "49.977", 
+        "sn": "PORTAGE LA PRAIRIE", 
+        "dEn": "PORTAGE LA PRAIRIE", 
+        "address": "130 Fisher Ave., Portage la Prairie, MB, R1N 0G6, Canada", 
+        "sc": "PLPX"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Poughkeepsie station train", 
+        "long": "-73.9153", 
+        "lat": "41.7016", 
+        "sn": "POUGHKEEPSIE", 
+        "dEn": "POUGHKEEPSIE", 
+        "address": "41 Main St., Poughkeepsie, NY, 12601, US", 
+        "sc": "POUG"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Press train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PRESS", 
+        "dEn": "PRESS", 
+        "address": "Press, QC, Canada", 
+        "sc": "PRSS"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Prince George train station", 
+        "long": "-122.736", 
+        "lat": "53.9167", 
+        "sn": "PRINCE GEORGE", 
+        "dEn": "PRINCE GEORGE", 
+        "address": "1300 - 1st Ave., Prince George, BC, V2L 2Y3, Canada", 
+        "sc": "PGEO"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Prince Rupert train station", 
+        "long": "-130.339", 
+        "lat": "54.3009", 
+        "sn": "PRINCE RUPERT", 
+        "dEn": "PRINCE RUPERT", 
+        "address": "2000 Park Ave., Prince Rupert, BC, V8J 4P7, Canada", 
+        "sc": "PRUP"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PRINCE RUPERT", 
+        "dEn": "PRINCE RUPERT", 
+        "address": "", 
+        "sc": "XYPR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Prospector train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "PROSPECTOR", 
+        "dEn": "PROSPECTOR", 
+        "address": "Prospector, MB, Canada", 
+        "sc": "PROS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Québec city train station", 
+        "long": "-71.2133", 
+        "lat": "46.8174", 
+        "sn": "QUÉBEC", 
+        "dEn": "QUÉBEC", 
+        "address": "450 rue de la Gare du Palais, Québec, QC, G1K 3X2, Canada", 
+        "sc": "QBEC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Ramsey train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RAMSEY", 
+        "dEn": "RAMSEY", 
+        "address": "Ramsey, ON, Canada", 
+        "sc": "RAMS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Rapide Blanc train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RAPIDE BLANC", 
+        "dEn": "RAPIDE BLANC", 
+        "address": "Rapide Blanc, QC, Canada", 
+        "sc": "RAPB"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Rawebb train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RAWEBB", 
+        "dEn": "RAWEBB", 
+        "address": "Rawebb, MB, Canada", 
+        "sc": "RAWE"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Red Deer station train", 
+        "long": "-113.814", 
+        "lat": "52.2625", 
+        "sn": "RED DEER", 
+        "dEn": "RED DEER", 
+        "address": "4303 Gaetz Ave., Red Deer, AB, T4N 3Z5, Canada", 
+        "sc": "RDEE"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Red Lake Road train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RED LAKE ROAD", 
+        "dEn": "RED LAKE ROAD", 
+        "address": "Red Lake Road, ON, Canada", 
+        "sc": "RLRX"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Redditt train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "REDDITT", 
+        "dEn": "REDDITT", 
+        "address": "Redditt, ON, Canada", 
+        "sc": "RDDT"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Reserve train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RESERVE", 
+        "dEn": "RESERVE", 
+        "address": "Reserve, SK, Canada", 
+        "sc": "RSRV"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Rhinecliff station train", 
+        "long": "-73.9513", 
+        "lat": "41.9143", 
+        "sn": "RHINECLIFF", 
+        "dEn": "RHINECLIFF", 
+        "address": "Hutton & Charles St., Rhinecliff, NY, 12574, US", 
+        "sc": "RHIN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Rice Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RICE LAKE", 
+        "dEn": "RICE LAKE", 
+        "address": "Rice Lake, ON, Canada", 
+        "sc": "RCLK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Richan train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RICHAN", 
+        "dEn": "RICHAN", 
+        "address": "Richan, ON, Canada", 
+        "sc": "RCHN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Richmond Hill GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RICHMOND HILL", 
+        "dEn": "RICHMOND HILL", 
+        "address": "6 Newkirk Road, Richmond Hill, ON, Canada", 
+        "sc": "RCHL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Rimouski train station", 
+        "long": "-68.5275", 
+        "lat": "48.4464", 
+        "sn": "RIMOUSKI", 
+        "dEn": "RIMOUSKI", 
+        "address": "57 rue de l'Évêché Est, Rimouski, QC, G5L 1X7, Canada", 
+        "sc": "RMSK"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Rivers train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RIVERS", 
+        "dEn": "RIVERS", 
+        "address": "Rivers, MB, Canada", 
+        "sc": "RVRS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Rivière-à-Pierre train station", 
+        "long": "-70.3907", 
+        "lat": "47.4089", 
+        "sn": "RIVIERE-A-PIERRE", 
+        "dEn": "RIVIERE-A-PIERRE", 
+        "address": "470 rue Principale, Rivière-à-Pierre, QC, G0A 3A0, Canada", 
+        "sc": "RAPX"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Rivière-du-Loup train station", 
+        "long": "-69.5235", 
+        "lat": "47.8227", 
+        "sn": "RIVIÈRE-DU-LOUP", 
+        "dEn": "RIVIÈRE-DU-LOUP", 
+        "address": "615 rue Lafontaine, Rivière-du-Loup, QC, G5R 3C5, Canada", 
+        "sc": "RDLX"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Roberts train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ROBERTS", 
+        "dEn": "ROBERTS", 
+        "address": "Roberts, ON, Canada", 
+        "sc": "RBRT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Roblin train station", 
+        "long": "-101.355", 
+        "lat": "51.2294", 
+        "sn": "ROBLIN", 
+        "dEn": "ROBLIN", 
+        "address": "126 First Ave. North West, Roblin, MB, R0L 1P0, Canada", 
+        "sc": "RBLN"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Rochester station train", 
+        "long": "-77.6004", 
+        "lat": "43.1673", 
+        "sn": "ROCHESTER", 
+        "dEn": "ROCHESTER", 
+        "address": "320 Central Ave., Rochester, NY, 14605, US", 
+        "sc": "ROCH"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Rogersville train station", 
+        "long": "-65.4152", 
+        "lat": "46.7172", 
+        "sn": "ROGERSVILLE", 
+        "dEn": "ROGERSVILLE", 
+        "address": "11082 Principale Street, Rogersville, NB, E4Y 2S6, Canada", 
+        "sc": "RGRV"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Rome station train", 
+        "long": "-75.4595", 
+        "lat": "43.2139", 
+        "sn": "ROME", 
+        "dEn": "ROME", 
+        "address": "6599 Martin St., Rome, NY, 13440, US", 
+        "sc": "ROME"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Root Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ROOT LAKE", 
+        "dEn": "ROOT LAKE", 
+        "address": "Root Lake, MB, Canada", 
+        "sc": "RTLK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Rouge Hill station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ROUGE HILL", 
+        "dEn": "ROUGE HILL", 
+        "address": "6251 Laurence Ave. East, Scarborough, ON, Canada", 
+        "sc": "ROUG"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Rousseau train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ROUSSEAU", 
+        "dEn": "ROUSSEAU", 
+        "address": "Rousseau, QC, Canada", 
+        "sc": "ROUS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Roxboro-Pierrefonds, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ROXBORO-PIERREFONDS", 
+        "dEn": "ROXBORO-PIERREFONDS", 
+        "address": "11100 West Gouin Blvd, Pierrefonds, QC, Canada", 
+        "sc": "ROXB"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Ruddock train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RUDDOCK", 
+        "dEn": "RUDDOCK", 
+        "address": "Ruddock, MB, Canada", 
+        "sc": "RUDD"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Ruel train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RUEL", 
+        "dEn": "RUEL", 
+        "address": "Ruel, ON, Canada", 
+        "sc": "RUEL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Rutherford GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RURTHERFORD", 
+        "dEn": "RURTHERFORD", 
+        "address": "699 Westburne Drive, Concord, ON, Canada", 
+        "sc": "RUTH"
+    }, 
+    {
+        "pv": "NB", 
+        "name": "Sackville train station", 
+        "long": "-64.3664", 
+        "lat": "45.8965", 
+        "sn": "SACKVILLE", 
+        "dEn": "SACKVILLE", 
+        "address": "66 Lorne St., Sackville, NB, E4L 4A1, Canada", 
+        "sc": "SACK"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Bruno station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SAINT-BRUNO", 
+        "dEn": "SAINT-BRUNO", 
+        "address": "1200 rue Lenoir, Saint-Bruno de Montarville, QC, Canada", 
+        "sc": "STBR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sainte-Doroth", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SAINTE-DOROTHÉE", 
+        "dEn": "SAINTE-DOROTHÉE", 
+        "address": "Corner of chemin du Bord de l'eau & Gobeil, Sainte-Dorothée, QC, Canada", 
+        "sc": "STDT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sainte-Foy train station", 
+        "long": "-71.2989", 
+        "lat": "46.755", 
+        "sn": "SAINTE-FOY", 
+        "dEn": "SAINTE-FOY", 
+        "address": "3255, Chemin de la Gare, Sainte-Foy, QC, G1W 3A8, Canada", 
+        "sc": "SFOY"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Hubert station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SAINT-HUBERT", 
+        "dEn": "SAINT-HUBERT", 
+        "address": "Route de l'Aéroport, Saint-Hubert, QC, Canada", 
+        "sc": "STHB"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Hyacinthe train station", 
+        "long": "-72.9488", 
+        "lat": "45.6274", 
+        "sn": "SAINT-HYACINTHE", 
+        "dEn": "SAINT-HYACINTHE", 
+        "address": "1450 rue Sicotte, Saint-Hyacinthe, QC, J2S 2J6, Canada", 
+        "sc": "SHYA"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Lambert train station", 
+        "long": "-73.5068", 
+        "lat": "45.4995", 
+        "sn": "SAINT-LAMBERT", 
+        "dEn": "SAINT-LAMBERT", 
+        "address": "329 avenue Saint-Denis, Saint-Lambert, QC, J4P 2G5, Canada", 
+        "sc": "SLAM"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sanford train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SANFORD", 
+        "dEn": "SANFORD", 
+        "address": "Sanford, QC, Canada", 
+        "sc": "SANF"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sanmaur train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SANMAUR", 
+        "dEn": "SANMAUR", 
+        "address": "Sanmaur, QC, Canada", 
+        "sc": "SANM"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Sarnia train station", 
+        "long": "-82.3905", 
+        "lat": "42.9578", 
+        "sn": "SARNIA", 
+        "dEn": "SARNIA", 
+        "address": "125 Green St., Sarnia, ON, N7T 2K4, Canada", 
+        "sc": "SARN"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Saskatoon train station", 
+        "long": "-106.742", 
+        "lat": "52.1062", 
+        "sn": "SASKATOON", 
+        "dEn": "SASKATOON", 
+        "address": "Unit 38, 1701 Chappell Drive, Saskatoon, SK, S7M 5P5, Canada", 
+        "sc": "SASK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Savant Lake train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SAVANT LAKE", 
+        "dEn": "SAVANT LAKE", 
+        "address": "Savant Lake, ON, Canada", 
+        "sc": "SAVL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sayabec train station", 
+        "long": "-67.7145", 
+        "lat": "48.5648", 
+        "sn": "SAYABEC", 
+        "dEn": "SAYABEC", 
+        "address": "1 Boulay, Sayabec, QC, G0J 3K0, Canada", 
+        "sc": "SAYA"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Scarborough station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SCARBOROUGH", 
+        "dEn": "SCARBOROUGH", 
+        "address": "3615 St. Clair Ave. East, Scarborough, ON, Canada", 
+        "sc": "SCAR"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SCHENECTADY", 
+        "dEn": "SCHENECTADY", 
+        "address": "", 
+        "sc": "SCHE"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Senneterre train station", 
+        "long": "-77.3698", 
+        "lat": "48.4033", 
+        "sn": "SENNETERRE", 
+        "dEn": "SENNETERRE", 
+        "address": "171, 4ième rue ouest, Senneterre, QC, J0Y 2M0, Canada", 
+        "sc": "SENN"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Shawinigan train station", 
+        "long": "-72.7439", 
+        "lat": "46.5541", 
+        "sn": "SHAWINIGAN", 
+        "dEn": "SHAWINIGAN", 
+        "address": "1560 Chemin du CN, Shawinigan, QC, G9N 2B4, Canada", 
+        "sc": "SHWN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Sheahan train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SHEAHAN", 
+        "dEn": "SHEAHAN", 
+        "address": "Sheahan, ON, Canada", 
+        "sc": "SHEA"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Sherridon train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SHERRIDON", 
+        "dEn": "SHERRIDON", 
+        "address": "Sherridon, MB, Canada", 
+        "sc": "SHRD"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Signai train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SIGNAI", 
+        "dEn": "SIGNAI", 
+        "address": "Signai, QC, Canada", 
+        "sc": "SIGN"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Silcox train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SILCOX", 
+        "dEn": "SILCOX", 
+        "address": "Silcox, MB, Canada", 
+        "sc": "SILC"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Simonhouse train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SIMONHOUSE", 
+        "dEn": "SIMONHOUSE", 
+        "address": "Simonhouse, MB, Canada", 
+        "sc": "SIMO"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Sinclair Mills train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SINCLAIR MILLS", 
+        "dEn": "SINCLAIR MILLS", 
+        "address": "Sinclair Mills, BC, Canada", 
+        "sc": "SINM"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Sioux Lookout train station", 
+        "long": "-91.9141", 
+        "lat": "50.095", 
+        "sn": "SIOUX LOOKOUT", 
+        "dEn": "SIOUX LOOKOUT", 
+        "address": "53 Front St., Sioux Lookout, ON, P8T 1A3, Canada", 
+        "sc": "SLKT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Sipiwesk train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SIPIWESK", 
+        "dEn": "SIPIWESK", 
+        "address": "Sipiwesk, MB, Canada", 
+        "sc": "SIPI"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sisco Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SISCO CLUB", 
+        "dEn": "SISCO CLUB", 
+        "address": "Sisco Club, QC, Canada", 
+        "sc": "SSCC"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Smithers train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SMITHERS", 
+        "dEn": "SMITHERS", 
+        "address": "3815 North Railway Street, Smithers, BC, Canada", 
+        "sc": "SMTR"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SMITHERS", 
+        "dEn": "SMITHERS", 
+        "address": "", 
+        "sc": "XYYD"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Smiths Falls train station", 
+        "long": "-76.023", 
+        "lat": "44.9113", 
+        "sn": "SMITHS FALLS", 
+        "dEn": "SMITHS FALLS", 
+        "address": "46 Union Street, Smiths Falls, ON, K7A 5C4, Canada", 
+        "sc": "SMTF"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Springhill Jct. train station", 
+        "long": "-64.0345", 
+        "lat": "45.6646", 
+        "sn": "SPRINGHILL JCT", 
+        "dEn": "SPRINGHILL JCT", 
+        "address": "Station Street, Springhill Jct., NS, B0M 1X0, Canada", 
+        "sc": "SPRJ"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "St.Catharines GO Bus Stop station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ST. CATHARINES FAIRVIEW MALL", 
+        "dEn": "ST. CATHARINES FAIRVIEW MALL", 
+        "address": "Fairview Mall, St.Catharines, ON, Canada", 
+        "sc": "SCAG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "St. Catharines train station", 
+        "long": "-79.2548", 
+        "lat": "43.1476", 
+        "sn": "ST. CATHARINES", 
+        "dEn": "ST. CATHARINES", 
+        "address": "5 Great Western St., St. Catharines, ON, L2S 2K3, Canada", 
+        "sc": "SCAT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "St. Marys train station", 
+        "long": "-81.0034", 
+        "lat": "43.3632", 
+        "sn": "ST.MARYS", 
+        "dEn": "ST.MARYS", 
+        "address": "5 James St. North, St. Marys, ON, N4X 1B1, Canada", 
+        "sc": "SMYS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Stadacona train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STADACONA", 
+        "dEn": "STADACONA", 
+        "address": "Stadacona, QC, Canada", 
+        "sc": "STAD"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Basile-le-Grand, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ST-BASILE-LE-GRAND", 
+        "dEn": "ST-BASILE-LE-GRAND", 
+        "address": "121 rue de la Gare, Saint-Basile-le-Grand, QC, Canada", 
+        "sc": "SBLG"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Hilaire de Portneuf train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ST-HILAIRE DE PORTNEUF", 
+        "dEn": "ST-HILAIRE DE PORTNEUF", 
+        "address": "Saint-Hilaire de Portneuf, QC, Canada", 
+        "sc": "SHPN"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Justin train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ST-JUSTIN", 
+        "dEn": "ST-JUSTIN", 
+        "address": "Saint-Justin, QC, Canada", 
+        "sc": "SJUS"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Maurice Rivière Boom train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ST-MAURICE RIVIERE BOOM", 
+        "dEn": "ST-MAURICE RIVIERE BOOM", 
+        "address": "Saint-Maurice Rivière Boom, QC, Canada", 
+        "sc": "SMRB"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Stoney Creek GO Bus Stop station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STONEY CREEK", 
+        "dEn": "STONEY CREEK", 
+        "address": "Nash Rd & Barton St, Hamilton, ON, Canada", 
+        "sc": "STOC"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Stouffville GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STOUFFVILLE", 
+        "dEn": "STOUFFVILLE", 
+        "address": "6176 Main Street, Stouffville, ON, Canada", 
+        "sc": "STFV"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Paulin train station", 
+        "long": "-73.3004", 
+        "lat": "46.154", 
+        "sn": "ST-PAULIN", 
+        "dEn": "ST-PAULIN", 
+        "address": "2390 Rang Renversy, Saint-Paulin, QC, J0K 3G0, Canada", 
+        "sc": "SPAU"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Strachan train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STRACHAN", 
+        "dEn": "STRACHAN", 
+        "address": "Strachan, QC, Canada", 
+        "sc": "STRN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Stralak train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STRALAK", 
+        "dEn": "STRALAK", 
+        "address": "Stralak, ON, Canada", 
+        "sc": "STRL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Stratford train station", 
+        "long": "-80.9767", 
+        "lat": "43.3648", 
+        "sn": "STRATFORD", 
+        "dEn": "STRATFORD", 
+        "address": "101 Shakespeare St., Stratford, ON, N5A 3W5, Canada", 
+        "sc": "STRF"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Strathroy train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STRATHROY", 
+        "dEn": "STRATHROY", 
+        "address": "Strathroy, ON, Canada", 
+        "sc": "STRR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Streetsville GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STREETSVILLE", 
+        "dEn": "STREETSVILLE", 
+        "address": "45 Thomas Street, Mississauga, ON, Canada", 
+        "sc": "STVL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Saint-Tite train station", 
+        "long": "-72.5048", 
+        "lat": "46.7444", 
+        "sn": "ST-TITE", 
+        "dEn": "ST-TITE", 
+        "address": "310 Machildon, Saint-Tite, QC, G0X 3H0, Canada", 
+        "sc": "STIT"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Sturgis train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "STURGIS", 
+        "dEn": "STURGIS", 
+        "address": "Sturgis, SK, Canada", 
+        "sc": "STGS"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Sudbury Jct train station", 
+        "long": "-80.9666", 
+        "lat": "46.5203", 
+        "sn": "SUDBURY JCT", 
+        "dEn": "SUDBURY JCT", 
+        "address": "2750 Lasalle Boul. Est, Sudbury Jct, ON, P3A 4R7, Canada", 
+        "sc": "SUDJ"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Sudbury train station", 
+        "long": "-80.9933", 
+        "lat": "46.4883", 
+        "sn": "SUDBURY", 
+        "dEn": "SUDBURY", 
+        "address": "233 Elgin St., Sudbury, ON, P3E 3N7, Canada", 
+        "sc": "SUDB"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Sultan train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SULTAN", 
+        "dEn": "SULTAN", 
+        "address": "Sultan, ON, Canada", 
+        "sc": "SULT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Summit Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SUMMIT CLUB", 
+        "dEn": "SUMMIT CLUB", 
+        "address": "Summit Club, QC, Canada", 
+        "sc": "SMMC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Summit train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SUMMIT", 
+        "dEn": "SUMMIT", 
+        "address": "Summit, QC, Canada", 
+        "sc": "SMQU"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Sunnybrooke, gare AMT station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "SUNNYBROOKE", 
+        "dEn": "SUNNYBROOKE", 
+        "address": "9670 West Gouin Blvd, Pierrefonds, QC, Canada", 
+        "sc": "SNYB"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Syracuse station train", 
+        "long": "-76.1492", 
+        "lat": "43.0747", 
+        "sn": "SYRACUSE", 
+        "dEn": "SYRACUSE", 
+        "address": "1 Walsh Circle, Syracuse, NY, 13208, US", 
+        "sc": "SYRA"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Telkwa train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TELKWA", 
+        "dEn": "TELKWA", 
+        "address": "Telkwa, BC, Canada", 
+        "sc": "TELK"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Terrace train station", 
+        "long": "-128.586", 
+        "lat": "54.5258", 
+        "sn": "TERRACE", 
+        "dEn": "TERRACE", 
+        "address": "3100 Kalum Street, Terrace, BC, V8G 4L1, Canada", 
+        "sc": "TRRC"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TERRACE-KITIMAT", 
+        "dEn": "TERRACE-KITIMAT", 
+        "address": "", 
+        "sc": "XYXT"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "The Pas train station", 
+        "long": "-101.336", 
+        "lat": "53.8517", 
+        "sn": "THE PAS", 
+        "dEn": "THE PAS", 
+        "address": "380 Hazelwood Ave., The Pas, MB, R9A 1S4, Canada", 
+        "sc": "TPAS"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Thibaudeau train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "THIBAUDEAU", 
+        "dEn": "THIBAUDEAU", 
+        "address": "Thibaudeau, MB, Canada", 
+        "sc": "THIB"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Thicket Portage train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "THICKET PORTAGE", 
+        "dEn": "THICKET PORTAGE", 
+        "address": "Thicket Portage, MB, Canada", 
+        "sc": "THKP"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Thompson train station", 
+        "long": "-97.8538", 
+        "lat": "55.7355", 
+        "sn": "THOMPSON", 
+        "dEn": "THOMPSON", 
+        "address": "1310 Station Rd., Thompson, MB, R8N 1M8, Canada", 
+        "sc": "THOM"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Tidal train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TIDAL", 
+        "dEn": "TIDAL", 
+        "address": "Tidal, MB, Canada", 
+        "sc": "TIDL"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Timbrell train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TIMBRELL", 
+        "dEn": "TIMBRELL", 
+        "address": "Timbrell, QC, Canada", 
+        "sc": "TIMB"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Togo train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TOGO", 
+        "dEn": "TOGO", 
+        "address": "Togo, SK, Canada", 
+        "sc": "TOGO"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Billy Bishop Toronto City Airport (Shuttle)", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TORONTO BILLY BISHOP", 
+        "dEn": "TORONTO BILLY BISHOP", 
+        "address": "2 Eireann Quay, Toronto, Ontario, M5V 1A1, Canada", 
+        "sc": "XYTZ"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Toronto Pearson International Airport station train", 
+        "long": "-79.6238", 
+        "lat": "43.6904", 
+        "sn": "TORONTO PEARSON AIRPORT", 
+        "dEn": "TORONTO PEARSON AIRPORT", 
+        "address": "3111 Convair Drive, Toronto, ON, L5P 1B2, Canada", 
+        "sc": "XYYZ"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Toronto train station", 
+        "long": "-79.3796", 
+        "lat": "43.6459", 
+        "sn": "TORONTO", 
+        "dEn": "TORONTO", 
+        "address": "Union Station, 65 Front Street West, Toronto, ON, M5J 1E6, Canada", 
+        "sc": "TRTO"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Tremaudan train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TREMAUDAN", 
+        "dEn": "TREMAUDAN", 
+        "address": "Tremaudan, MB, Canada", 
+        "sc": "TREM"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Trenton Junction train station", 
+        "long": "-77.5818", 
+        "lat": "44.1003", 
+        "sn": "TRENTON JUNCTION", 
+        "dEn": "TRENTON JUNCTION", 
+        "address": "18277B Telephone Rd, Trenton, ON, K8V 5P9, Canada", 
+        "sc": "TRNJ"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Triton Club train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TRITON CLUB", 
+        "dEn": "TRITON CLUB", 
+        "address": "Triton Club, QC, Canada", 
+        "sc": "TRTC"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Trois Pistoles train station", 
+        "long": "-69.1218", 
+        "lat": "48.1326", 
+        "sn": "TROIS PISTOLES", 
+        "dEn": "TROIS PISTOLES", 
+        "address": "231 De la Gare, Trois Pistoles, QC, G0L 4K0, Canada", 
+        "sc": "TPIS"
+    }, 
+    {
+        "pv": "NS", 
+        "name": "Truro train station", 
+        "long": "-63.2788", 
+        "lat": "45.3623", 
+        "sn": "TRURO", 
+        "dEn": "TRURO", 
+        "address": "Truro Centre, 104 the Esplanade St., Truro, NS, B2N 2K3, Canada", 
+        "sc": "TRUR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Turnbull train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TURNBULL", 
+        "dEn": "TURNBULL", 
+        "address": "Turnbull, MB, Canada", 
+        "sc": "TURN"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Unionville GO Station station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "UNIONVILLE", 
+        "dEn": "UNIONVILLE", 
+        "address": "7970 Kennedy Road, Markham, ON, Canada", 
+        "sc": "UNVL"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Unity train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "UNITY", 
+        "dEn": "UNITY", 
+        "address": "Unity, SK, Canada", 
+        "sc": "UNIT"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Upper Frazer train station", 
+        "long": "-122.121", 
+        "lat": "54.075", 
+        "sn": "UPPER FRAZER", 
+        "dEn": "UPPER FRAZER", 
+        "address": "Upper Frazer, BC, V0J 2Z0, Canada", 
+        "sc": "UFRZ"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Usk train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "USK", 
+        "dEn": "USK", 
+        "address": "Usk, BC, Canada", 
+        "sc": "USKX"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Utica station train", 
+        "long": "-75.2351", 
+        "lat": "43.0846", 
+        "sn": "UTICA", 
+        "dEn": "UTICA", 
+        "address": "Boehlert Transportation Center, 321 Main St., Utica, NY, 13501, US", 
+        "sc": "UTIC"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Valemount train station", 
+        "long": "-119.264", 
+        "lat": "52.8312", 
+        "sn": "VALEMOUNT", 
+        "dEn": "VALEMOUNT", 
+        "address": "Main Street & Dogwood Ave., Valemount, BC, V0E 2Z0, Canada", 
+        "sc": "VLMT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Van Bruyssels train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "VAN BRUYSSELS", 
+        "dEn": "VAN BRUYSSELS", 
+        "address": "Van Bruyssels, QC, Canada", 
+        "sc": "VBRU"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "VANCOUVER AIRPORT", 
+        "dEn": "VANCOUVER AIRPORT", 
+        "address": "", 
+        "sc": "XYVR"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Vancouver train station", 
+        "long": "-123.099", 
+        "lat": "49.2744", 
+        "sn": "VANCOUVER", 
+        "dEn": "VANCOUVER", 
+        "address": "Pacific Central Station, 1150 Station St., Vancouver, BC, V6A 4C7, Canada", 
+        "sc": "VCVR"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Vanderhoof train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "VANDERHOOF", 
+        "dEn": "VANDERHOOF", 
+        "address": "Vanderhoof, BC, Canada", 
+        "sc": "VDRH"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Vandry train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "VANDRY", 
+        "dEn": "VANDRY", 
+        "address": "Vandry, QC, Canada", 
+        "sc": "VDRY"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Veregin train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "VEREGIN", 
+        "dEn": "VEREGIN", 
+        "address": "Veregin, SK, Canada", 
+        "sc": "VERE"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Victoria station train", 
+        "long": "-123.366", 
+        "lat": "48.4211", 
+        "sn": "VICTORIA", 
+        "dEn": "VICTORIA", 
+        "address": "700 Douglas Street, Victoria, BC, V8W 2B3, Canada", 
+        "sc": "VICB"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Viking train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "VIKING", 
+        "dEn": "VIKING", 
+        "address": "Viking, AB, Canada", 
+        "sc": "VKNG"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Wabowden train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WABOWDEN", 
+        "dEn": "WABOWDEN", 
+        "address": "Wabowden, MB, Canada", 
+        "sc": "WBDN"
+    }, 
+    {
+        "pv": "AB", 
+        "name": "Wainwright train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WAINWRIGHT", 
+        "dEn": "WAINWRIGHT", 
+        "address": "10th Street & 1st Avenue,, Wainwright, AB, CANADA", 
+        "sc": "WAIN"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Wanless train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WANLESS", 
+        "dEn": "WANLESS", 
+        "address": "Wanless, MB, Canada", 
+        "sc": "WANL"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Washago train station", 
+        "long": "-79.3102", 
+        "lat": "44.7383", 
+        "sn": "WASHAGO", 
+        "dEn": "WASHAGO", 
+        "address": "3321 Quetton, Washago, ON, L0K 2B0, Canada", 
+        "sc": "WSHG"
+    }, 
+    {
+        "pv": "SK", 
+        "name": "Watrous train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WATROUS", 
+        "dEn": "WATROUS", 
+        "address": "Watrous, SK, Canada", 
+        "sc": "WATR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Weir River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WEIR RIVER", 
+        "dEn": "WEIR RIVER", 
+        "address": "Weir River, MB, Canada", 
+        "sc": "WEIR"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Wekusko train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WEKUSKO", 
+        "dEn": "WEKUSKO", 
+        "address": "Wekusko, MB, Canada", 
+        "sc": "WEKU"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Weston station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WESTON", 
+        "dEn": "WESTON", 
+        "address": "39 John St., Wes., Weston, ON, Canada", 
+        "sc": "WEST"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Westree train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WESTREE", 
+        "dEn": "WESTREE", 
+        "address": "Westree, ON, Canada", 
+        "sc": "WSTR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Weymont train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WEYMONT", 
+        "dEn": "WEYMONT", 
+        "address": "Weymont, QC, Canada", 
+        "sc": "WYMT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Whitby station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WHITBY", 
+        "dEn": "WHITBY", 
+        "address": "1350 Brock St. S, Whitby, ON, Canada", 
+        "sc": "WHIT"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "White River train station", 
+        "long": "-85.1746", 
+        "lat": "48.3361", 
+        "sn": "WHITE RIVER", 
+        "dEn": "WHITE RIVER", 
+        "address": "Winnipeg St. North, White River, ON, P0M 3G0, Canada", 
+        "sc": "WHTR"
+    }, 
+    {
+        "pv": "YT", 
+        "name": "", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WHITEHORSE", 
+        "dEn": "WHITEHORSE", 
+        "address": "", 
+        "sc": "XYXY"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Wigwam (Club) train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WIGWAM (CLUB)", 
+        "dEn": "WIGWAM (CLUB)", 
+        "address": "Wigwam, QC, Canada", 
+        "sc": "WGWC"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Wilde train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WILDE", 
+        "dEn": "WILDE", 
+        "address": "Wilde, MB, Canada", 
+        "sc": "WILD"
+    }, 
+    {
+        "pv": "BC", 
+        "name": "Willow River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WILLOW RIVER", 
+        "dEn": "WILLOW RIVER", 
+        "address": "Willow River, BC, Canada", 
+        "sc": "WILR"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Windigo train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WINDIGO", 
+        "dEn": "WINDIGO", 
+        "address": "Windigo, QC, Canada", 
+        "sc": "WNDG"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Windsor train station", 
+        "long": "-83.0094", 
+        "lat": "42.3256", 
+        "sn": "WINDSOR", 
+        "dEn": "WINDSOR", 
+        "address": "298 Walker Rd., Windsor, ON, N8Y 2M9, Canada", 
+        "sc": "WDON"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Winnipeg train station", 
+        "long": "-97.1258", 
+        "lat": "49.8791", 
+        "sn": "WINNIPEG", 
+        "dEn": "WINNIPEG", 
+        "address": "123 Main Street, #146, Winnipeg, MB, R3C 1A3, Canada", 
+        "sc": "WNPG"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Winnitoba train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WINNITOBA", 
+        "dEn": "WINNITOBA", 
+        "address": "Winnitoba, MB, Canada", 
+        "sc": "WNTB"
+    }, 
+    {
+        "pv": "MB", 
+        "name": "Wivenhoe train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WIVENHOE", 
+        "dEn": "WIVENHOE", 
+        "address": "Wivenhoe, MB, Canada", 
+        "sc": "WVHO"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Woman River train station", 
+        "long": "", 
+        "lat": "", 
+        "sn": "WOMAN RIVER", 
+        "dEn": "WOMAN RIVER", 
+        "address": "Woman River, ON, Canada", 
+        "sc": "WOMR"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Woodstock train station", 
+        "long": "-80.7517", 
+        "lat": "43.1262", 
+        "sn": "WOODSTOCK", 
+        "dEn": "WOODSTOCK", 
+        "address": "100 Victoria St. South, Woodstock, ON, N4S 8R4, Canada", 
+        "sc": "WDST"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "Wyoming train station", 
+        "long": "-82.165", 
+        "lat": "42.9362", 
+        "sn": "WYOMING", 
+        "dEn": "WYOMING", 
+        "address": "00 Broadway Street, Wyoming, ON, N0N 1T0, Canada", 
+        "sc": "WYOM"
+    }, 
+    {
+        "pv": "NY", 
+        "name": "Yonkers station train", 
+        "long": "-73.8801", 
+        "lat": "40.9429", 
+        "sn": "YONKERS", 
+        "dEn": "YONKERS", 
+        "address": "5 Buena Vista Avenue, Yonkers, NY, 10701, US", 
+        "sc": "YONK"
+    }, 
+    {
+        "pv": "ON", 
+        "name": "York University station train", 
+        "long": "", 
+        "lat": "", 
+        "sn": "YORK UNIVERSITY", 
+        "dEn": "YORK UNIVERSITY", 
+        "address": "595-A Canarctic Dr., North York, ON, Canada", 
+        "sc": "YRKU"
+    }
+]
