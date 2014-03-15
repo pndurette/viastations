@@ -63,13 +63,13 @@ class Station:
         return str(self.get_dict())
 
 class VIA:
-    """Generate json from raw VIA Rail station data (generate_json)
-    or augment with details (generate_json_complete)"""
+    """Generate json from raw VIA Rail station data"""
     via_stations_url = "http://reservia.viarail.ca/GetStations.aspx"
 
     def save_stations(self, filename="stations_via.json", full=False):
         """Requests stations starting from A to Z
-        http://reservia.viarail.ca/GetStations.aspx?q=<str>"""
+        http://reservia.viarail.ca/GetStations.aspx?q=<str>
+        full: set to True to complete with station details"""
         
         stations = []
         for l in ascii_lowercase:
