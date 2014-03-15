@@ -2,6 +2,7 @@
     {
         "pv": "BC", 
         "name": "Abbotsford train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ABBO", 
         "long": "-122.279", 
         "lat": "49.1183", 
         "sn": "ABBOTSFORD", 
@@ -12,6 +13,7 @@
     {
         "pv": "BC", 
         "name": "Agassiz train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AGAS", 
         "long": "", 
         "lat": "", 
         "sn": "AGASSIZ", 
@@ -22,6 +24,7 @@
     {
         "pv": "ON", 
         "name": "Agincourt GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AGCT", 
         "long": "", 
         "lat": "", 
         "sn": "AGINCOURT", 
@@ -32,6 +35,7 @@
     {
         "pv": "QC", 
         "name": "Ahuntsic train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AHUN", 
         "long": "", 
         "lat": "", 
         "sn": "AHUNTSIC", 
@@ -42,6 +46,7 @@
     {
         "pv": "ON", 
         "name": "Ajax station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AJAX", 
         "long": "", 
         "lat": "", 
         "sn": "AJAX", 
@@ -52,6 +57,7 @@
     {
         "pv": "NY", 
         "name": "Albany station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ALBY", 
         "long": "-73.7101", 
         "lat": "42.6246", 
         "sn": "ALBANY", 
@@ -62,6 +68,7 @@
     {
         "pv": "ON", 
         "name": "Aldershot train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ALDR", 
         "long": "-79.8525", 
         "lat": "43.3114", 
         "sn": "ALDERSHOT", 
@@ -72,6 +79,7 @@
     {
         "pv": "ON", 
         "name": "Alexandria train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ALEX", 
         "long": "-74.5861", 
         "lat": "45.301", 
         "sn": "ALEXANDRIA", 
@@ -82,6 +90,7 @@
     {
         "pv": "BC", 
         "name": "Aleza Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ALZL", 
         "long": "-122.121", 
         "lat": "54.075", 
         "sn": "ALEZA LAKE", 
@@ -92,6 +101,7 @@
     {
         "pv": "ON", 
         "name": "Allanwater Bridge train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ALWB", 
         "long": "", 
         "lat": "", 
         "sn": "ALLANWATER BRIDGE", 
@@ -102,6 +112,7 @@
     {
         "pv": "MB", 
         "name": "Amery train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AMRY", 
         "long": "", 
         "lat": "", 
         "sn": "AMERY", 
@@ -112,6 +123,7 @@
     {
         "pv": "NS", 
         "name": "Amherst train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AMHS", 
         "long": "-64.2123", 
         "lat": "45.8304", 
         "sn": "AMHERST", 
@@ -122,6 +134,7 @@
     {
         "pv": "QC", 
         "name": "Amqui train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AMQU", 
         "long": "-67.4371", 
         "lat": "48.4673", 
         "sn": "AMQUI", 
@@ -132,6 +145,7 @@
     {
         "pv": "NY", 
         "name": "Amsterdam station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AMST", 
         "long": "-74.1709", 
         "lat": "42.9236", 
         "sn": "AMSTERDAM", 
@@ -142,6 +156,7 @@
     {
         "pv": "ON", 
         "name": "Appleby station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/APPL", 
         "long": "", 
         "lat": "", 
         "sn": "APPLEBY", 
@@ -152,6 +167,7 @@
     {
         "pv": "ON", 
         "name": "Armstrong train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ARMG", 
         "long": "-89.0561", 
         "lat": "50.139", 
         "sn": "ARMSTRONG", 
@@ -162,6 +178,7 @@
     {
         "pv": "MB", 
         "name": "Arnot train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ARNO", 
         "long": "", 
         "lat": "", 
         "sn": "ARNOT", 
@@ -172,6 +189,7 @@
     {
         "pv": "BC", 
         "name": "Ashcroft train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ASHN", 
         "long": "-121.271", 
         "lat": "50.7372", 
         "sn": "ASHCROFT", 
@@ -182,6 +200,7 @@
     {
         "pv": "MB", 
         "name": "Atik train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ATIK", 
         "long": "", 
         "lat": "", 
         "sn": "ATIK", 
@@ -192,6 +211,7 @@
     {
         "pv": "MB", 
         "name": "Atikameg Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ATKL", 
         "long": "", 
         "lat": "", 
         "sn": "ATIKAMEG LAKE", 
@@ -202,6 +222,7 @@
     {
         "pv": "ON", 
         "name": "Auden train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AUDN", 
         "long": "", 
         "lat": "", 
         "sn": "AUDEN", 
@@ -212,6 +233,7 @@
     {
         "pv": "ON", 
         "name": "Aurora GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AROR", 
         "long": "", 
         "lat": "", 
         "sn": "AURORA", 
@@ -222,6 +244,7 @@
     {
         "pv": "ON", 
         "name": "Azilda train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AZIL", 
         "long": "", 
         "lat": "", 
         "sn": "AZILDA", 
@@ -232,6 +255,7 @@
     {
         "pv": "MB", 
         "name": "Back train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BACK", 
         "long": "", 
         "lat": "", 
         "sn": "BACK", 
@@ -242,6 +266,7 @@
     {
         "pv": "AB", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BANF", 
         "long": "", 
         "lat": "", 
         "sn": "BANFF", 
@@ -252,6 +277,7 @@
     {
         "pv": "QC", 
         "name": "Barachois train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BARA", 
         "long": "-64.3409", 
         "lat": "48.6121", 
         "sn": "BARACHOIS", 
@@ -262,6 +288,7 @@
     {
         "pv": "ON", 
         "name": "Barrie South GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BARS", 
         "long": "", 
         "lat": "", 
         "sn": "BARRIE SOUTH", 
@@ -272,6 +299,7 @@
     {
         "pv": "NB", 
         "name": "Bathurst train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BTRS", 
         "long": "-65.6706", 
         "lat": "47.6213", 
         "sn": "BATHURST", 
@@ -282,6 +310,7 @@
     {
         "pv": "MB", 
         "name": "Belcher train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BLCH", 
         "long": "", 
         "lat": "", 
         "sn": "BELCHER", 
@@ -292,6 +321,7 @@
     {
         "pv": "ON", 
         "name": "Belleville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BLVL", 
         "long": "-77.3738", 
         "lat": "44.1791", 
         "sn": "BELLEVILLE", 
@@ -302,6 +332,7 @@
     {
         "pv": "BC", 
         "name": "Bend train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BEND", 
         "long": "", 
         "lat": "", 
         "sn": "BEND", 
@@ -312,6 +343,7 @@
     {
         "pv": "ON", 
         "name": "Benny train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BENN", 
         "long": "", 
         "lat": "", 
         "sn": "BENNY", 
@@ -322,6 +354,7 @@
     {
         "pv": "SK", 
         "name": "Biggar train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BIGG", 
         "long": "", 
         "lat": "", 
         "sn": "BIGGAR", 
@@ -332,6 +365,7 @@
     {
         "pv": "QC", 
         "name": "Bima train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BIMA", 
         "long": "", 
         "lat": "", 
         "sn": "BIMA", 
@@ -342,6 +376,7 @@
     {
         "pv": "MB", 
         "name": "Bird train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BIRD", 
         "long": "", 
         "lat": "", 
         "sn": "BIRD", 
@@ -352,6 +387,7 @@
     {
         "pv": "ON", 
         "name": "Biscotasing train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BISC", 
         "long": "", 
         "lat": "", 
         "sn": "BISCOTASING", 
@@ -362,6 +398,7 @@
     {
         "pv": "ON", 
         "name": "Bloor station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BLOO", 
         "long": "", 
         "lat": "", 
         "sn": "BLOOR", 
@@ -372,6 +409,7 @@
     {
         "pv": "BC", 
         "name": "Blue River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BLUE", 
         "long": "", 
         "lat": "", 
         "sn": "BLUE RIVER", 
@@ -382,6 +420,7 @@
     {
         "pv": "QC", 
         "name": "Bois-Franc, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BSFR", 
         "long": "", 
         "lat": "", 
         "sn": "BOIS-FRANC", 
@@ -392,6 +431,7 @@
     {
         "pv": "QC", 
         "name": "Bolger train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BGQU", 
         "long": "", 
         "lat": "", 
         "sn": "BOLGER", 
@@ -402,6 +442,7 @@
     {
         "pv": "ON", 
         "name": "Bolkow train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BOLK", 
         "long": "", 
         "lat": "", 
         "sn": "BOLKOW", 
@@ -412,6 +453,7 @@
     {
         "pv": "QC", 
         "name": "Bonaventure train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BVNT", 
         "long": "-65.4793", 
         "lat": "48.052", 
         "sn": "BONAVENTURE", 
@@ -422,6 +464,7 @@
     {
         "pv": "BC", 
         "name": "Boston Bar train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BBAR", 
         "long": "", 
         "lat": "", 
         "sn": "BOSTON BAR", 
@@ -432,6 +475,7 @@
     {
         "pv": "QC", 
         "name": "Bourmont train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRMT", 
         "long": "", 
         "lat": "", 
         "sn": "BOURMONT", 
@@ -442,6 +486,7 @@
     {
         "pv": "MB", 
         "name": "Boyd train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BOYD", 
         "long": "", 
         "lat": "", 
         "sn": "BOYD", 
@@ -452,6 +497,7 @@
     {
         "pv": "ON", 
         "name": "Bradford GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRFD", 
         "long": "", 
         "lat": "", 
         "sn": "BRADFORD", 
@@ -462,6 +508,7 @@
     {
         "pv": "ON", 
         "name": "Bramalea station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRML", 
         "long": "", 
         "lat": "", 
         "sn": "BRAMALEA", 
@@ -472,6 +519,7 @@
     {
         "pv": "ON", 
         "name": "Brampton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRMP", 
         "long": "-79.7633", 
         "lat": "43.6881", 
         "sn": "BRAMPTON", 
@@ -482,6 +530,7 @@
     {
         "pv": "ON", 
         "name": "Brantford train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRTF", 
         "long": "-80.2656", 
         "lat": "43.1458", 
         "sn": "BRANTFORD", 
@@ -492,6 +541,7 @@
     {
         "pv": "MB", 
         "name": "Brereton Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRTL", 
         "long": "", 
         "lat": "", 
         "sn": "BRERETON LAKE", 
@@ -502,6 +552,7 @@
     {
         "pv": "MB", 
         "name": "Bridgar train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRGR", 
         "long": "", 
         "lat": "", 
         "sn": "BRIDGAR", 
@@ -512,6 +563,7 @@
     {
         "pv": "ON", 
         "name": "Brockville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRKV", 
         "long": "-75.6931", 
         "lat": "44.5916", 
         "sn": "BROCKVILLE", 
@@ -522,6 +574,7 @@
     {
         "pv": "ON", 
         "name": "Bronte station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRON", 
         "long": "", 
         "lat": "", 
         "sn": "BRONTE", 
@@ -532,6 +585,7 @@
     {
         "pv": "QC", 
         "name": "Brooks train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRQU", 
         "long": "", 
         "lat": "", 
         "sn": "BROOKS", 
@@ -542,6 +596,7 @@
     {
         "pv": "MB", 
         "name": "Budd train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BUDD", 
         "long": "", 
         "lat": "", 
         "sn": "BUDD", 
@@ -552,6 +607,7 @@
     {
         "pv": "NY", 
         "name": "Buffalo (Depew) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BUFF", 
         "long": "-78.7079", 
         "lat": "42.9016", 
         "sn": "BUFFALO (DEPEW)", 
@@ -562,6 +618,7 @@
     {
         "pv": "NY", 
         "name": "Buffalo (Exchange) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BUFX", 
         "long": "-78.8698", 
         "lat": "42.8806", 
         "sn": "BUFFALO (EXCHANGE)", 
@@ -572,6 +629,7 @@
     {
         "pv": "ON", 
         "name": "Burlington station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BURL", 
         "long": "", 
         "lat": "", 
         "sn": "BURLINGTON", 
@@ -582,6 +640,7 @@
     {
         "pv": "BC", 
         "name": "Burns Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BRNL", 
         "long": "", 
         "lat": "", 
         "sn": "BURNS LAKE", 
@@ -592,6 +651,7 @@
     {
         "pv": "MB", 
         "name": "Button train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BUTT", 
         "long": "", 
         "lat": "", 
         "sn": "BUTTON", 
@@ -602,6 +662,7 @@
     {
         "pv": "MB", 
         "name": "Bylot train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BYLO", 
         "long": "", 
         "lat": "", 
         "sn": "BYLOT", 
@@ -612,6 +673,7 @@
     {
         "pv": "AB", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CALG", 
         "long": "", 
         "lat": "", 
         "sn": "CALGARY", 
@@ -622,6 +684,7 @@
     {
         "pv": "AB", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYYC", 
         "long": "", 
         "lat": "", 
         "sn": "CALGARY", 
@@ -632,6 +695,7 @@
     {
         "pv": "NB", 
         "name": "Campbellton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CBTN", 
         "long": "-66.6788", 
         "lat": "48.0041", 
         "sn": "CAMPBELLTON", 
@@ -642,6 +706,7 @@
     {
         "pv": "ON-NY", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/AMKM", 
         "long": "", 
         "lat": "", 
         "sn": "CANADA-US BORDER/FRONTIÈRE", 
@@ -652,6 +717,7 @@
     {
         "pv": "QC", 
         "name": "Cann train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CANN", 
         "long": "", 
         "lat": "", 
         "sn": "CANN", 
@@ -662,6 +728,7 @@
     {
         "pv": "SK", 
         "name": "Canora train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CANO", 
         "long": "-102.301", 
         "lat": "51.5123", 
         "sn": "CANORA", 
@@ -672,6 +739,7 @@
     {
         "pv": "QC", 
         "name": "Canora, Gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CANR", 
         "long": "", 
         "lat": "", 
         "sn": "CANORA", 
@@ -682,6 +750,7 @@
     {
         "pv": "ON", 
         "name": "Canyon train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CNYK", 
         "long": "", 
         "lat": "", 
         "sn": "CANYON", 
@@ -692,6 +761,7 @@
     {
         "pv": "QC", 
         "name": "Caplan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CAPL", 
         "long": "-65.6074", 
         "lat": "48.1185", 
         "sn": "CAPLAN", 
@@ -702,6 +772,7 @@
     {
         "pv": "ON", 
         "name": "Capreol train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CAPR", 
         "long": "-80.8179", 
         "lat": "46.7671", 
         "sn": "CAPREOL", 
@@ -712,6 +783,7 @@
     {
         "pv": "ON", 
         "name": "Caramat train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CARA", 
         "long": "", 
         "lat": "", 
         "sn": "CARAMAT", 
@@ -722,6 +794,7 @@
     {
         "pv": "QC", 
         "name": "Caribou train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CARI", 
         "long": "", 
         "lat": "", 
         "sn": "CARIBOU", 
@@ -732,6 +805,7 @@
     {
         "pv": "QC", 
         "name": "Carleton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CARL", 
         "long": "-66.1234", 
         "lat": "48.1061", 
         "sn": "CARLETON", 
@@ -742,6 +816,7 @@
     {
         "pv": "ON", 
         "name": "Cartier train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CART", 
         "long": "", 
         "lat": "", 
         "sn": "CARTIER", 
@@ -752,6 +827,7 @@
     {
         "pv": "QC", 
         "name": "Casey train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CASY", 
         "long": "", 
         "lat": "", 
         "sn": "CASEY", 
@@ -762,6 +838,7 @@
     {
         "pv": "ON", 
         "name": "Casselman train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CSLM", 
         "long": "-75.0873", 
         "lat": "45.3123", 
         "sn": "CASSELMAN", 
@@ -772,6 +849,7 @@
     {
         "pv": "QC", 
         "name": "Causapscal train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CAUS", 
         "long": "-67.2876", 
         "lat": "48.3372", 
         "sn": "CAUSAPSCAL", 
@@ -782,6 +860,7 @@
     {
         "pv": "BC", 
         "name": "Cedarvale train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CEDA", 
         "long": "", 
         "lat": "", 
         "sn": "CEDARVALE", 
@@ -792,6 +871,7 @@
     {
         "pv": "ON", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CENT", 
         "long": "", 
         "lat": "", 
         "sn": "CENTENNIAL", 
@@ -802,6 +882,7 @@
     {
         "pv": "QC", 
         "name": "Chambord train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHBD", 
         "long": "-72.0558", 
         "lat": "48.4229", 
         "sn": "CHAMBORD", 
@@ -812,6 +893,7 @@
     {
         "pv": "QC", 
         "name": "Chandler train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHND", 
         "long": "-64.6655", 
         "lat": "48.3474", 
         "sn": "CHANDLER", 
@@ -822,6 +904,7 @@
     {
         "pv": "ON", 
         "name": "Chapleau train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHAP", 
         "long": "-83.4013", 
         "lat": "47.8025", 
         "sn": "CHAPLEAU", 
@@ -832,6 +915,7 @@
     {
         "pv": "QC", 
         "name": "Charette train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHRT", 
         "long": "-72.4373", 
         "lat": "46.9358", 
         "sn": "CHARETTE", 
@@ -842,6 +926,7 @@
     {
         "pv": "MB", 
         "name": "Charlebois train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHLB", 
         "long": "", 
         "lat": "", 
         "sn": "CHARLEBOIS", 
@@ -852,6 +937,7 @@
     {
         "pv": "MB", 
         "name": "Charles train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHLS", 
         "long": "", 
         "lat": "", 
         "sn": "CHARLES", 
@@ -862,6 +948,7 @@
     {
         "pv": "NB", 
         "name": "Charlo train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHLO", 
         "long": "", 
         "lat": "", 
         "sn": "CHARLO", 
@@ -872,6 +959,7 @@
     {
         "pv": "QC", 
         "name": "Charny train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHNY", 
         "long": "-71.2708", 
         "lat": "46.7127", 
         "sn": "CHARNY", 
@@ -882,6 +970,7 @@
     {
         "pv": "ON", 
         "name": "Chatham train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHAT", 
         "long": "-82.1805", 
         "lat": "42.3993", 
         "sn": "CHATHAM", 
@@ -892,6 +981,7 @@
     {
         "pv": "ON", 
         "name": "Chelmsford train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHEL", 
         "long": "", 
         "lat": "", 
         "sn": "CHELMSFORD", 
@@ -902,6 +992,7 @@
     {
         "pv": "QC", 
         "name": "Cherokee train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHER", 
         "long": "", 
         "lat": "", 
         "sn": "CHEROKEE", 
@@ -912,6 +1003,7 @@
     {
         "pv": "MB", 
         "name": "Chesnaye train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHES", 
         "long": "", 
         "lat": "", 
         "sn": "CHESNAYE", 
@@ -922,6 +1014,7 @@
     {
         "pv": "BC", 
         "name": "Chilliwack train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHIL", 
         "long": "", 
         "lat": "", 
         "sn": "CHILLIWACK", 
@@ -932,6 +1025,7 @@
     {
         "pv": "MB", 
         "name": "Churchill train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CHUR", 
         "long": "-94.1291", 
         "lat": "58.7606", 
         "sn": "CHURCHILL", 
@@ -942,6 +1036,7 @@
     {
         "pv": "ON", 
         "name": "Clarkson station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CLAR", 
         "long": "", 
         "lat": "", 
         "sn": "CLARKSON", 
@@ -952,6 +1047,7 @@
     {
         "pv": "BC", 
         "name": "Clearwater train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CLWT", 
         "long": "", 
         "lat": "", 
         "sn": "CLEARWATER", 
@@ -962,6 +1058,7 @@
     {
         "pv": "QC", 
         "name": "Clova train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CLOV", 
         "long": "-75.2611", 
         "lat": "48.5066", 
         "sn": "CLOVA", 
@@ -972,6 +1069,7 @@
     {
         "pv": "QC", 
         "name": "Club Beaudin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BDNC", 
         "long": "", 
         "lat": "", 
         "sn": "CLUB BEAUDIN", 
@@ -982,6 +1080,7 @@
     {
         "pv": "QC", 
         "name": "Club Bélanger train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/BLGC", 
         "long": "", 
         "lat": "", 
         "sn": "CLUB BELANGER", 
@@ -992,6 +1091,7 @@
     {
         "pv": "QC", 
         "name": "Club Grégoire train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GRGC", 
         "long": "", 
         "lat": "", 
         "sn": "CLUB GREGOIRE", 
@@ -1002,6 +1102,7 @@
     {
         "pv": "QC", 
         "name": "Club Nicol train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NCLC", 
         "long": "", 
         "lat": "", 
         "sn": "CLUB NICOL", 
@@ -1012,6 +1113,7 @@
     {
         "pv": "QC", 
         "name": "Club Rita train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RTAC", 
         "long": "", 
         "lat": "", 
         "sn": "CLUB RITA", 
@@ -1022,6 +1124,7 @@
     {
         "pv": "QC", 
         "name": "Club Vermillon train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VMLC", 
         "long": "", 
         "lat": "", 
         "sn": "CLUB VERMILLON", 
@@ -1032,6 +1135,7 @@
     {
         "pv": "ON", 
         "name": "Cobourg train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CBRG", 
         "long": "-78.1692", 
         "lat": "43.968", 
         "sn": "COBOURG", 
@@ -1042,6 +1146,7 @@
     {
         "pv": "ON", 
         "name": "Collins train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/COLL", 
         "long": "", 
         "lat": "", 
         "sn": "COLLINS", 
@@ -1052,6 +1157,7 @@
     {
         "pv": "QC", 
         "name": "Consolidated Bathurst train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CBAT", 
         "long": "", 
         "lat": "", 
         "sn": "CONSOLIDATED BATHURST", 
@@ -1062,6 +1168,7 @@
     {
         "pv": "ON", 
         "name": "Cooksville GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CKVL", 
         "long": "", 
         "lat": "", 
         "sn": "COOKSVILLE", 
@@ -1072,6 +1179,7 @@
     {
         "pv": "ON", 
         "name": "Copelands Landing train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/COPE", 
         "long": "", 
         "lat": "", 
         "sn": "COPELANDS LANDING", 
@@ -1082,6 +1190,7 @@
     {
         "pv": "QC", 
         "name": "Coquar train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/COQU", 
         "long": "", 
         "lat": "", 
         "sn": "COQUAR", 
@@ -1092,6 +1201,7 @@
     {
         "pv": "MB", 
         "name": "Cormorant train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CORM", 
         "long": "", 
         "lat": "", 
         "sn": "CORMORANT", 
@@ -1102,6 +1212,7 @@
     {
         "pv": "ON", 
         "name": "Cornwall train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CWLL", 
         "long": "-74.7436", 
         "lat": "45.0418", 
         "sn": "CORNWALL", 
@@ -1112,6 +1223,7 @@
     {
         "pv": "QC", 
         "name": "Coteau train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/COTO", 
         "long": "-74.2284", 
         "lat": "45.2766", 
         "sn": "COTEAU", 
@@ -1122,6 +1234,7 @@
     {
         "pv": "MB", 
         "name": "Cranberry Portage train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CRNP", 
         "long": "", 
         "lat": "", 
         "sn": "CRANBERRY PORTAGE", 
@@ -1132,6 +1245,7 @@
     {
         "pv": "QC", 
         "name": "Cressman train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CRSM", 
         "long": "", 
         "lat": "", 
         "sn": "CRESSMAN", 
@@ -1142,6 +1256,7 @@
     {
         "pv": "MB", 
         "name": "Cromarty train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CROM", 
         "long": "", 
         "lat": "", 
         "sn": "CROMARTY", 
@@ -1152,6 +1267,7 @@
     {
         "pv": "NY", 
         "name": "Croton-on-Hudson station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/CROT", 
         "long": "-73.8967", 
         "lat": "41.2168", 
         "sn": "CROTON HARMON", 
@@ -1162,6 +1278,7 @@
     {
         "pv": "ON", 
         "name": "Dalton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DALT", 
         "long": "", 
         "lat": "", 
         "sn": "DALTON", 
@@ -1172,6 +1289,7 @@
     {
         "pv": "ON", 
         "name": "Danforth station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DANF", 
         "long": "", 
         "lat": "", 
         "sn": "DANFORTH", 
@@ -1182,6 +1300,7 @@
     {
         "pv": "QC", 
         "name": "Da-Rou-Lac Lodge train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DRLL", 
         "long": "", 
         "lat": "", 
         "sn": "DA-ROU-LAC LODGE", 
@@ -1192,6 +1311,7 @@
     {
         "pv": "MB", 
         "name": "Dauphin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DAUP", 
         "long": "-100.052", 
         "lat": "51.1508", 
         "sn": "DAUPHIN", 
@@ -1202,6 +1322,7 @@
     {
         "pv": "MB", 
         "name": "Dering train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DERI", 
         "long": "", 
         "lat": "", 
         "sn": "DERING", 
@@ -1212,6 +1333,7 @@
     {
         "pv": "QC", 
         "name": "Dessane train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DESS", 
         "long": "", 
         "lat": "", 
         "sn": "DESSANE", 
@@ -1222,6 +1344,7 @@
     {
         "pv": "QC", 
         "name": "Deux-Montagnes, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DXMT", 
         "long": "", 
         "lat": "", 
         "sn": "DEUX-MONTAGNES", 
@@ -1232,6 +1355,7 @@
     {
         "pv": "ON", 
         "name": "Devon train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DEVN", 
         "long": "", 
         "lat": "", 
         "sn": "DEVON", 
@@ -1242,6 +1366,7 @@
     {
         "pv": "MB", 
         "name": "Digges train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DIGG", 
         "long": "", 
         "lat": "", 
         "sn": "DIGGES", 
@@ -1252,6 +1377,7 @@
     {
         "pv": "QC", 
         "name": "Dix train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DIXX", 
         "long": "", 
         "lat": "", 
         "sn": "DIX", 
@@ -1262,6 +1388,7 @@
     {
         "pv": "ON", 
         "name": "Dixie GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DIXE", 
         "long": "", 
         "lat": "", 
         "sn": "DIXIE", 
@@ -1272,6 +1399,7 @@
     {
         "pv": "BC", 
         "name": "Dome Creek train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DOMC", 
         "long": "", 
         "lat": "", 
         "sn": "DOME CREEK", 
@@ -1282,6 +1410,7 @@
     {
         "pv": "BC", 
         "name": "Dorreen train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DORR", 
         "long": "", 
         "lat": "", 
         "sn": "DORREEN", 
@@ -1292,6 +1421,7 @@
     {
         "pv": "QC", 
         "name": "Dorval train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DORV", 
         "long": "-73.7388", 
         "lat": "45.4473", 
         "sn": "DORVAL", 
@@ -1302,6 +1432,7 @@
     {
         "pv": "QC", 
         "name": "Drummondville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DRMV", 
         "long": "-72.4881", 
         "lat": "45.8831", 
         "sn": "DRUMMONDVILLE", 
@@ -1312,6 +1443,7 @@
     {
         "pv": "QC", 
         "name": "Du Ruisseau, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DURS", 
         "long": "", 
         "lat": "", 
         "sn": "DU RUISSEAU", 
@@ -1322,6 +1454,7 @@
     {
         "pv": "MB", 
         "name": "Dunlop train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DUNL", 
         "long": "", 
         "lat": "", 
         "sn": "DUNLOP", 
@@ -1332,6 +1465,7 @@
     {
         "pv": "BC", 
         "name": "Dunster train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DNST", 
         "long": "", 
         "lat": "", 
         "sn": "DUNSTER", 
@@ -1342,6 +1476,7 @@
     {
         "pv": "QC", 
         "name": "Duplessis train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DUPL", 
         "long": "", 
         "lat": "", 
         "sn": "DUPLESSIS", 
@@ -1352,6 +1487,7 @@
     {
         "pv": "MB", 
         "name": "Dyce train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/DYCE", 
         "long": "", 
         "lat": "", 
         "sn": "DYCE", 
@@ -1362,6 +1498,7 @@
     {
         "pv": "ON", 
         "name": "Earchman train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/EARC", 
         "long": "", 
         "lat": "", 
         "sn": "EARCHMAN", 
@@ -1372,6 +1509,7 @@
     {
         "pv": "ON", 
         "name": "East Gwillimbury GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ESGW", 
         "long": "", 
         "lat": "", 
         "sn": "EAST GWILLIMBURY", 
@@ -1382,6 +1520,7 @@
     {
         "pv": "AB", 
         "name": "Edmonton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/EDMO", 
         "long": "-113.525", 
         "lat": "53.5804", 
         "sn": "EDMONTON", 
@@ -1392,6 +1531,7 @@
     {
         "pv": "AB", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYEG", 
         "long": "", 
         "lat": "", 
         "sn": "EDMONTON", 
@@ -1402,6 +1542,7 @@
     {
         "pv": "AB", 
         "name": "Edson train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/EDSN", 
         "long": "", 
         "lat": "", 
         "sn": "EDSON", 
@@ -1412,6 +1553,7 @@
     {
         "pv": "ON", 
         "name": "Eglinton station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/EGLT", 
         "long": "", 
         "lat": "", 
         "sn": "EGLINTON", 
@@ -1422,6 +1564,7 @@
     {
         "pv": "MB", 
         "name": "Elma train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ELMA", 
         "long": "", 
         "lat": "", 
         "sn": "ELMA", 
@@ -1432,6 +1575,7 @@
     {
         "pv": "ON", 
         "name": "Elsas train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ELSA", 
         "long": "", 
         "lat": "", 
         "sn": "ELSAS", 
@@ -1442,6 +1586,7 @@
     {
         "pv": "BC", 
         "name": "Endako train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ENDA", 
         "long": "", 
         "lat": "", 
         "sn": "ENDAKO", 
@@ -1452,6 +1597,7 @@
     {
         "pv": "SK", 
         "name": "Endeavour train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ENDV", 
         "long": "", 
         "lat": "", 
         "sn": "ENDEAVOUR", 
@@ -1462,6 +1608,7 @@
     {
         "pv": "ON", 
         "name": "Erindale GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ERIN", 
         "long": "", 
         "lat": "", 
         "sn": "ERINDALE", 
@@ -1472,6 +1619,7 @@
     {
         "pv": "ON", 
         "name": "Esher train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ESHR", 
         "long": "", 
         "lat": "", 
         "sn": "ESHER", 
@@ -1482,6 +1630,7 @@
     {
         "pv": "ON", 
         "name": "Etobicoke North station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ETON", 
         "long": "", 
         "lat": "", 
         "sn": "ETOBICOKE NORTH", 
@@ -1492,6 +1641,7 @@
     {
         "pv": "AB", 
         "name": "Evansburg train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/EVAN", 
         "long": "", 
         "lat": "", 
         "sn": "EVANSBURG", 
@@ -1502,6 +1652,7 @@
     {
         "pv": "ON", 
         "name": "Exhibition station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/EXHI", 
         "long": "", 
         "lat": "", 
         "sn": "EXHIBITION", 
@@ -1512,6 +1663,7 @@
     {
         "pv": "ON", 
         "name": "Fallowfield train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FALL", 
         "long": "-75.7282", 
         "lat": "45.3001", 
         "sn": "FALLOWFIELD", 
@@ -1522,6 +1674,7 @@
     {
         "pv": "QC", 
         "name": "Falrie train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FALR", 
         "long": "", 
         "lat": "", 
         "sn": "FALRIE", 
@@ -1532,6 +1685,7 @@
     {
         "pv": "ON", 
         "name": "Farlane train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FARL", 
         "long": "", 
         "lat": "", 
         "sn": "FARLANE", 
@@ -1542,6 +1696,7 @@
     {
         "pv": "ON", 
         "name": "Felix train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FELX", 
         "long": "", 
         "lat": "", 
         "sn": "FELIX", 
@@ -1552,6 +1707,7 @@
     {
         "pv": "QC", 
         "name": "Ferguson train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FERG", 
         "long": "", 
         "lat": "", 
         "sn": "FERGUSON", 
@@ -1562,6 +1718,7 @@
     {
         "pv": "ON", 
         "name": "Ferland train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FERL", 
         "long": "", 
         "lat": "", 
         "sn": "FERLAND", 
@@ -1572,6 +1729,7 @@
     {
         "pv": "MB", 
         "name": "Finger train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FING", 
         "long": "", 
         "lat": "", 
         "sn": "FINGER", 
@@ -1582,6 +1740,7 @@
     {
         "pv": "QC", 
         "name": "Fitzpatrick train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FITZ", 
         "long": "-72.7781", 
         "lat": "47.4623", 
         "sn": "FITZPATRICK", 
@@ -1592,6 +1751,7 @@
     {
         "pv": "ON", 
         "name": "Flindt Landing train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FLTL", 
         "long": "", 
         "lat": "", 
         "sn": "FLINDT LANDING", 
@@ -1602,6 +1762,7 @@
     {
         "pv": "ON", 
         "name": "Foleyet train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FOLE", 
         "long": "", 
         "lat": "", 
         "sn": "FOLEYET", 
@@ -1612,6 +1773,7 @@
     {
         "pv": "QC", 
         "name": "Forsythe train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FORS", 
         "long": "", 
         "lat": "", 
         "sn": "FORSYTHE", 
@@ -1622,6 +1784,7 @@
     {
         "pv": "BC", 
         "name": "Fort Fraser train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FFRA", 
         "long": "", 
         "lat": "", 
         "sn": "FORT FRASER", 
@@ -1632,6 +1795,7 @@
     {
         "pv": "AB", 
         "name": "Fort McMurray station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FMCM", 
         "long": "-111.454", 
         "lat": "56.7314", 
         "sn": "FORT MCMURRAY", 
@@ -1642,6 +1806,7 @@
     {
         "pv": "ON", 
         "name": "Franz train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/FRNZ", 
         "long": "", 
         "lat": "", 
         "sn": "FRANZ", 
@@ -1652,6 +1817,7 @@
     {
         "pv": "QC", 
         "name": "Gagnon train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GAGN", 
         "long": "", 
         "lat": "", 
         "sn": "GAGNON", 
@@ -1662,6 +1828,7 @@
     {
         "pv": "ON", 
         "name": "Gananoque train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GANA", 
         "long": "", 
         "lat": "", 
         "sn": "GANANOQUE", 
@@ -1672,6 +1839,7 @@
     {
         "pv": "QC", 
         "name": "Garneau train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GARN", 
         "long": "", 
         "lat": "", 
         "sn": "GARNEAU", 
@@ -1682,6 +1850,7 @@
     {
         "pv": "QC", 
         "name": "Gaspé train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GASP", 
         "long": "-64.4778", 
         "lat": "48.826", 
         "sn": "GASPÉ", 
@@ -1692,6 +1861,7 @@
     {
         "pv": "ON", 
         "name": "Georgetown train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GEOR", 
         "long": "-79.9213", 
         "lat": "43.6538", 
         "sn": "GEORGETOWN", 
@@ -1702,6 +1872,7 @@
     {
         "pv": "MB", 
         "name": "Gilbert Plains train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GLBP", 
         "long": "", 
         "lat": "", 
         "sn": "GILBERT PLAINS", 
@@ -1712,6 +1883,7 @@
     {
         "pv": "MB", 
         "name": "Gillam train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GILL", 
         "long": "-94.7876", 
         "lat": "56.3367", 
         "sn": "GILLAM", 
@@ -1722,6 +1894,7 @@
     {
         "pv": "ON", 
         "name": "Girdwood train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GIRD", 
         "long": "", 
         "lat": "", 
         "sn": "GIRDWOOD", 
@@ -1732,6 +1905,7 @@
     {
         "pv": "MB", 
         "name": "Gladstone train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GSTO", 
         "long": "", 
         "lat": "", 
         "sn": "GLADSTONE", 
@@ -1742,6 +1916,7 @@
     {
         "pv": "ON", 
         "name": "Glencoe train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GLNC", 
         "long": "-81.7098", 
         "lat": "42.7532", 
         "sn": "GLENCOE", 
@@ -1752,6 +1927,7 @@
     {
         "pv": "MB", 
         "name": "Glenella train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GLNA", 
         "long": "", 
         "lat": "", 
         "sn": "GLENELLA", 
@@ -1762,6 +1938,7 @@
     {
         "pv": "BC", 
         "name": "Goat River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GOAT", 
         "long": "", 
         "lat": "", 
         "sn": "GOAT RIVER", 
@@ -1772,6 +1949,7 @@
     {
         "pv": "ON", 
         "name": "Gogama train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GOGA", 
         "long": "", 
         "lat": "", 
         "sn": "GOGAMA", 
@@ -1782,6 +1960,7 @@
     {
         "pv": "QC", 
         "name": "Grande Rivière train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GDRV", 
         "long": "-64.4787", 
         "lat": "48.4215", 
         "sn": "GRANDE RIVIERE", 
@@ -1792,6 +1971,7 @@
     {
         "pv": "QC", 
         "name": "Grand-Mère train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GMRE", 
         "long": "-72.6941", 
         "lat": "46.6158", 
         "sn": "GRAND-MÈRE", 
@@ -1802,6 +1982,7 @@
     {
         "pv": "QC", 
         "name": "Grand-Moulin, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GDML", 
         "long": "", 
         "lat": "", 
         "sn": "GRAND-MOULIN", 
@@ -1812,6 +1993,7 @@
     {
         "pv": "MB", 
         "name": "Grandview train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GVIE", 
         "long": "", 
         "lat": "", 
         "sn": "GRANDVIEW", 
@@ -1822,6 +2004,7 @@
     {
         "pv": "QC", 
         "name": "Greening train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GRNG", 
         "long": "", 
         "lat": "", 
         "sn": "GREENING", 
@@ -1832,6 +2015,7 @@
     {
         "pv": "ON", 
         "name": "Grimsby GO Bus Stop station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GRIG", 
         "long": "", 
         "lat": "", 
         "sn": "GRIMSBY", 
@@ -1842,6 +2026,7 @@
     {
         "pv": "ON", 
         "name": "Grimsby train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GRIM", 
         "long": "-79.5548", 
         "lat": "43.1998", 
         "sn": "GRIMSBY", 
@@ -1852,6 +2037,7 @@
     {
         "pv": "ON", 
         "name": "Guelph train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GUEL", 
         "long": "-80.2456", 
         "lat": "43.5456", 
         "sn": "GUELPH", 
@@ -1862,6 +2048,7 @@
     {
         "pv": "ON", 
         "name": "Guildwood train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/GUIL", 
         "long": "-79.2004", 
         "lat": "43.756", 
         "sn": "GUILDWOOD", 
@@ -1872,6 +2059,7 @@
     {
         "pv": "MB", 
         "name": "Halcrow train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HALC", 
         "long": "", 
         "lat": "", 
         "sn": "HALCROW", 
@@ -1882,6 +2070,7 @@
     {
         "pv": "NS", 
         "name": "Halifax train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HLFX", 
         "long": "-63.5688", 
         "lat": "44.6395", 
         "sn": "HALIFAX", 
@@ -1892,6 +2081,7 @@
     {
         "pv": "ON", 
         "name": "Hamilton station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HAML", 
         "long": "", 
         "lat": "", 
         "sn": "HAMILTON", 
@@ -1902,6 +2092,7 @@
     {
         "pv": "BC", 
         "name": "Harvey train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HRVY", 
         "long": "", 
         "lat": "", 
         "sn": "HARVEY", 
@@ -1912,6 +2103,7 @@
     {
         "pv": "QC", 
         "name": "Hebertville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HEBV", 
         "long": "-71.6531", 
         "lat": "48.4489", 
         "sn": "HEBERTVILLE", 
@@ -1922,6 +2114,7 @@
     {
         "pv": "MB", 
         "name": "Heming Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HMGL", 
         "long": "", 
         "lat": "", 
         "sn": "HEMING LAKE", 
@@ -1932,6 +2125,7 @@
     {
         "pv": "MB", 
         "name": "Herchmer train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HERC", 
         "long": "", 
         "lat": "", 
         "sn": "HERCHMER", 
@@ -1942,6 +2136,7 @@
     {
         "pv": "QC", 
         "name": "Hervey train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HERV", 
         "long": "-72.3868", 
         "lat": "46.866", 
         "sn": "HERVEY", 
@@ -1952,6 +2147,7 @@
     {
         "pv": "QC", 
         "name": "Hibbard train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HIBB", 
         "long": "", 
         "lat": "", 
         "sn": "HIBBARD", 
@@ -1962,6 +2158,7 @@
     {
         "pv": "ON", 
         "name": "Hillsport train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HLSP", 
         "long": "", 
         "lat": "", 
         "sn": "HILLSPORT", 
@@ -1972,6 +2169,7 @@
     {
         "pv": "AB", 
         "name": "Hinton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HINT", 
         "long": "", 
         "lat": "", 
         "sn": "HINTON", 
@@ -1982,6 +2180,7 @@
     {
         "pv": "QC", 
         "name": "Hirondelle train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HRDL", 
         "long": "", 
         "lat": "", 
         "sn": "HIRONDELLE", 
@@ -1992,6 +2191,7 @@
     {
         "pv": "MB", 
         "name": "Hockin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HOCK", 
         "long": "", 
         "lat": "", 
         "sn": "HOCKIN", 
@@ -2002,6 +2202,7 @@
     {
         "pv": "BC", 
         "name": "Hope train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HOPE", 
         "long": "-121.432", 
         "lat": "49.3835", 
         "sn": "HOPE", 
@@ -2012,6 +2213,7 @@
     {
         "pv": "ON", 
         "name": "Hornepayne train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HNPN", 
         "long": "", 
         "lat": "", 
         "sn": "HORNEPAYNE", 
@@ -2022,6 +2224,7 @@
     {
         "pv": "BC", 
         "name": "Houston train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HOUS", 
         "long": "", 
         "lat": "", 
         "sn": "HOUSTON", 
@@ -2032,6 +2235,7 @@
     {
         "pv": "SK", 
         "name": "Hudson Bay train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HBAY", 
         "long": "", 
         "lat": "", 
         "sn": "HUDSON BAY", 
@@ -2042,6 +2246,7 @@
     {
         "pv": "NY", 
         "name": "Hudson station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HUDS", 
         "long": "-73.7734", 
         "lat": "42.2483", 
         "sn": "HUDSON", 
@@ -2052,6 +2257,7 @@
     {
         "pv": "BC", 
         "name": "Hutton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/HUTT", 
         "long": "", 
         "lat": "", 
         "sn": "HUTTON", 
@@ -2062,6 +2268,7 @@
     {
         "pv": "QC", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ISLE", 
         "long": "", 
         "lat": "", 
         "sn": "ILE-BIGRAS", 
@@ -2072,6 +2279,7 @@
     {
         "pv": "MB", 
         "name": "Ilford train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ILFO", 
         "long": "", 
         "lat": "", 
         "sn": "ILFORD", 
@@ -2082,6 +2290,7 @@
     {
         "pv": "ON", 
         "name": "Ingersoll train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/INGR", 
         "long": "-80.8803", 
         "lat": "43.0362", 
         "sn": "INGERSOLL", 
@@ -2092,6 +2301,7 @@
     {
         "pv": "QC", 
         "name": "Iroquois Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/IRQC", 
         "long": "", 
         "lat": "", 
         "sn": "IROQUOIS CLUB", 
@@ -2102,6 +2312,7 @@
     {
         "pv": "QC", 
         "name": "Jacques Cartier Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/JACC", 
         "long": "", 
         "lat": "", 
         "sn": "JACQUES CARTIER CLUB", 
@@ -2112,6 +2323,7 @@
     {
         "pv": "NB", 
         "name": "Jacquet River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/JACR", 
         "long": "-66.0096", 
         "lat": "47.9171", 
         "sn": "JACQUET RIVER", 
@@ -2122,6 +2334,7 @@
     {
         "pv": "AB", 
         "name": "Jasper train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/JASP", 
         "long": "-118.079", 
         "lat": "52.8793", 
         "sn": "JASPER", 
@@ -2132,6 +2345,7 @@
     {
         "pv": "QC", 
         "name": "Joliette train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/JOLI", 
         "long": "-73.4444", 
         "lat": "46.0287", 
         "sn": "JOLIETTE", 
@@ -2142,6 +2356,7 @@
     {
         "pv": "QC", 
         "name": "Jonquière train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/JONQ", 
         "long": "-71.2547", 
         "lat": "48.412", 
         "sn": "JONQUIERE", 
@@ -2152,6 +2367,7 @@
     {
         "pv": "BC", 
         "name": "Kamloops North train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KAMN", 
         "long": "", 
         "lat": "", 
         "sn": "KAMLOOPS NORTH", 
@@ -2162,6 +2378,7 @@
     {
         "pv": "SK", 
         "name": "Kamsack train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KAMS", 
         "long": "", 
         "lat": "", 
         "sn": "KAMSACK", 
@@ -2172,6 +2389,7 @@
     {
         "pv": "QC", 
         "name": "Kapitachuan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KPTC", 
         "long": "", 
         "lat": "", 
         "sn": "KAPITACHUAN", 
@@ -2182,6 +2400,7 @@
     {
         "pv": "BC", 
         "name": "Katz train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KATZ", 
         "long": "", 
         "lat": "", 
         "sn": "KATZ", 
@@ -2192,6 +2411,7 @@
     {
         "pv": "MB", 
         "name": "Kellett train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KLTT", 
         "long": "", 
         "lat": "", 
         "sn": "KELLETT", 
@@ -2202,6 +2422,7 @@
     {
         "pv": "ON", 
         "name": "Kennedy GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KNDY", 
         "long": "", 
         "lat": "", 
         "sn": "KENNEDY", 
@@ -2212,6 +2433,7 @@
     {
         "pv": "MB", 
         "name": "Kettle Rapids train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KETR", 
         "long": "", 
         "lat": "", 
         "sn": "KETTLE RAPIDS", 
@@ -2222,6 +2444,7 @@
     {
         "pv": "ON", 
         "name": "King City GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KING", 
         "long": "", 
         "lat": "", 
         "sn": "KING CITY", 
@@ -2232,6 +2455,7 @@
     {
         "pv": "ON", 
         "name": "Kingston train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KGON", 
         "long": "-76.5396", 
         "lat": "44.2583", 
         "sn": "KINGSTON", 
@@ -2242,6 +2466,7 @@
     {
         "pv": "ON", 
         "name": "Kinogama train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KINO", 
         "long": "", 
         "lat": "", 
         "sn": "KINOGAMA", 
@@ -2252,6 +2477,7 @@
     {
         "pv": "ON", 
         "name": "Kipling Go Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KPLG", 
         "long": "", 
         "lat": "", 
         "sn": "KIPLING", 
@@ -2262,6 +2488,7 @@
     {
         "pv": "QC", 
         "name": "Kiskisink train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KISK", 
         "long": "", 
         "lat": "", 
         "sn": "KISKISINK", 
@@ -2272,6 +2499,7 @@
     {
         "pv": "ON", 
         "name": "Kitchener train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KITC", 
         "long": "-80.4943", 
         "lat": "43.4559", 
         "sn": "KITCHENER", 
@@ -2282,6 +2510,7 @@
     {
         "pv": "BC", 
         "name": "Kitwanga train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KITW", 
         "long": "", 
         "lat": "", 
         "sn": "KITWANGA", 
@@ -2292,6 +2521,7 @@
     {
         "pv": "QC", 
         "name": "Kondiaronk train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KOND", 
         "long": "", 
         "lat": "", 
         "sn": "KONDIARONK", 
@@ -2302,6 +2532,7 @@
     {
         "pv": "QC", 
         "name": "Kormak train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KORM", 
         "long": "", 
         "lat": "", 
         "sn": "KORMAK", 
@@ -2312,6 +2543,7 @@
     {
         "pv": "BC", 
         "name": "Kwinitsa train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/KWIN", 
         "long": "", 
         "lat": "", 
         "sn": "KWINITSA", 
@@ -2322,6 +2554,7 @@
     {
         "pv": "QC", 
         "name": "L'Assomption train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LASS", 
         "long": "", 
         "lat": "", 
         "sn": "L`ASSOMPTION", 
@@ -2332,6 +2565,7 @@
     {
         "pv": "MB", 
         "name": "La Perouse train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LPRS", 
         "long": "", 
         "lat": "", 
         "sn": "LA PEROUSE", 
@@ -2342,6 +2576,7 @@
     {
         "pv": "QC", 
         "name": "La Pocatière train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LPOC", 
         "long": "-70.1294", 
         "lat": "46.6933", 
         "sn": "LA POCATIERE", 
@@ -2352,6 +2587,7 @@
     {
         "pv": "QC", 
         "name": "La Tuque train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LTUQ", 
         "long": "-72.7828", 
         "lat": "47.4381", 
         "sn": "LA TUQUE", 
@@ -2362,6 +2598,7 @@
     {
         "pv": "QC", 
         "name": "Lac Bouchette train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LBOU", 
         "long": "-72.2333", 
         "lat": "48.16", 
         "sn": "LAC BOUCHETTE", 
@@ -2372,6 +2609,7 @@
     {
         "pv": "QC", 
         "name": "Lac Darey train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LDAR", 
         "long": "", 
         "lat": "", 
         "sn": "LAC DAREY", 
@@ -2382,6 +2620,7 @@
     {
         "pv": "QC", 
         "name": "Lac des Roches train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LDES", 
         "long": "", 
         "lat": "", 
         "sn": "LAC DES ROCHES", 
@@ -2392,6 +2631,7 @@
     {
         "pv": "QC", 
         "name": "Lac Édouard train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LEDW", 
         "long": "", 
         "lat": "", 
         "sn": "LAC ÉDOUARD", 
@@ -2402,6 +2642,7 @@
     {
         "pv": "QC", 
         "name": "Lac Malouin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LMAL", 
         "long": "", 
         "lat": "", 
         "sn": "LAC MALOUIN", 
@@ -2412,6 +2653,7 @@
     {
         "pv": "ON", 
         "name": "Laforest train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LAFO", 
         "long": "", 
         "lat": "", 
         "sn": "LAFOREST", 
@@ -2422,6 +2664,7 @@
     {
         "pv": "AB", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LLOU", 
         "long": "", 
         "lat": "", 
         "sn": "LAKE LOUISE", 
@@ -2432,6 +2675,7 @@
     {
         "pv": "MB", 
         "name": "Lamprey train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LAMP", 
         "long": "", 
         "lat": "", 
         "sn": "LAMPREY", 
@@ -2442,6 +2686,7 @@
     {
         "pv": "QC", 
         "name": "Langlade train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LNGN", 
         "long": "", 
         "lat": "", 
         "sn": "LANGLADE", 
@@ -2452,6 +2697,7 @@
     {
         "pv": "ON", 
         "name": "Langstaff GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LANG", 
         "long": "", 
         "lat": "", 
         "sn": "LANGSTAFF", 
@@ -2462,6 +2708,7 @@
     {
         "pv": "ON", 
         "name": "Larchwood train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LARC", 
         "long": "", 
         "lat": "", 
         "sn": "LARCHWOOD", 
@@ -2472,6 +2719,7 @@
     {
         "pv": "MB", 
         "name": "Laurier train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LRIE", 
         "long": "", 
         "lat": "", 
         "sn": "LAURIER", 
@@ -2482,6 +2730,7 @@
     {
         "pv": "MB", 
         "name": "Lawledge train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LAWL", 
         "long": "", 
         "lat": "", 
         "sn": "LAWLEDGE", 
@@ -2492,6 +2741,7 @@
     {
         "pv": "QC", 
         "name": "Le Gardeur train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LGAR", 
         "long": "", 
         "lat": "", 
         "sn": "LE GARDEUR", 
@@ -2502,6 +2752,7 @@
     {
         "pv": "ON", 
         "name": "Levack train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LEVA", 
         "long": "", 
         "lat": "", 
         "sn": "LEVACK", 
@@ -2512,6 +2763,7 @@
     {
         "pv": "MB", 
         "name": "Leven train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LEVN", 
         "long": "", 
         "lat": "", 
         "sn": "LEVEN", 
@@ -2522,6 +2774,7 @@
     {
         "pv": "ON", 
         "name": "Lincolnville GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LNVL", 
         "long": "", 
         "lat": "", 
         "sn": "LINCOLNVILLE", 
@@ -2532,6 +2785,7 @@
     {
         "pv": "ON", 
         "name": "Lisgar GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LSGR", 
         "long": "", 
         "lat": "", 
         "sn": "LISGAR", 
@@ -2542,6 +2796,7 @@
     {
         "pv": "QC", 
         "name": "Lizotte Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LIZO", 
         "long": "", 
         "lat": "", 
         "sn": "LIZOTTE CLUB", 
@@ -2552,6 +2807,7 @@
     {
         "pv": "ON", 
         "name": "Lochalsh train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LOCH", 
         "long": "", 
         "lat": "", 
         "sn": "LOCHALSH", 
@@ -2562,6 +2818,7 @@
     {
         "pv": "ON", 
         "name": "London train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LNDN", 
         "long": "-81.2466", 
         "lat": "42.9818", 
         "sn": "LONDON", 
@@ -2572,6 +2829,7 @@
     {
         "pv": "ON", 
         "name": "Long Branch station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LBRC", 
         "long": "", 
         "lat": "", 
         "sn": "LONG BRANCH", 
@@ -2582,6 +2840,7 @@
     {
         "pv": "ON", 
         "name": "Longlac train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LLAC", 
         "long": "-86.7925", 
         "lat": "49.7689", 
         "sn": "LONGLAC", 
@@ -2592,6 +2851,7 @@
     {
         "pv": "BC", 
         "name": "Longworth train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LWTH", 
         "long": "", 
         "lat": "", 
         "sn": "LONGWORTH", 
@@ -2602,6 +2862,7 @@
     {
         "pv": "BC", 
         "name": "Loos train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LOOS", 
         "long": "", 
         "lat": "", 
         "sn": "LOOS", 
@@ -2612,6 +2873,7 @@
     {
         "pv": "MB", 
         "name": "Luke train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LUKE", 
         "long": "", 
         "lat": "", 
         "sn": "LUKE", 
@@ -2622,6 +2884,7 @@
     {
         "pv": "MB", 
         "name": "Lyddal train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/LYDD", 
         "long": "", 
         "lat": "", 
         "sn": "LYDDAL", 
@@ -2632,6 +2895,7 @@
     {
         "pv": "ON", 
         "name": "Malachi train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MLCH", 
         "long": "", 
         "lat": "", 
         "sn": "MALACHI", 
@@ -2642,6 +2906,7 @@
     {
         "pv": "ON", 
         "name": "Malton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MALT", 
         "long": "", 
         "lat": "", 
         "sn": "MALTON", 
@@ -2652,6 +2917,7 @@
     {
         "pv": "QC", 
         "name": "Maniwawa Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MWWC", 
         "long": "", 
         "lat": "", 
         "sn": "MANIWAWA CLUB", 
@@ -2662,6 +2928,7 @@
     {
         "pv": "QC", 
         "name": "Manjobagues train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MJBG", 
         "long": "", 
         "lat": "", 
         "sn": "MANJOBAGUES", 
@@ -2672,6 +2939,7 @@
     {
         "pv": "ON", 
         "name": "Maple GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MPLE", 
         "long": "", 
         "lat": "", 
         "sn": "MAPLE", 
@@ -2682,6 +2950,7 @@
     {
         "pv": "ON", 
         "name": "Markham GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MHAM", 
         "long": "", 
         "lat": "", 
         "sn": "MARKHAM", 
@@ -2692,6 +2961,7 @@
     {
         "pv": "QC", 
         "name": "Matapédia train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MTPD", 
         "long": "-66.953", 
         "lat": "47.9744", 
         "sn": "MATAPEDIA", 
@@ -2702,6 +2972,7 @@
     {
         "pv": "BC", 
         "name": "McBride train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCBR", 
         "long": "", 
         "lat": "", 
         "sn": "MCBRIDE", 
@@ -2712,6 +2983,7 @@
     {
         "pv": "QC", 
         "name": "McCarthy train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCCA", 
         "long": "", 
         "lat": "", 
         "sn": "MCCARTHY", 
@@ -2722,6 +2994,7 @@
     {
         "pv": "MB", 
         "name": "McCreary train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCCR", 
         "long": "-99.1246", 
         "lat": "50.7354", 
         "sn": "MCCREARY", 
@@ -2732,6 +3005,7 @@
     {
         "pv": "BC", 
         "name": "McGregor train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCGR", 
         "long": "", 
         "lat": "", 
         "sn": "MCGREGOR", 
@@ -2742,6 +3016,7 @@
     {
         "pv": "ON", 
         "name": "McKee's Camp train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCKC", 
         "long": "", 
         "lat": "", 
         "sn": "MCKEE`S CAMP", 
@@ -2752,6 +3027,7 @@
     {
         "pv": "MB", 
         "name": "M'Clintock train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCLI", 
         "long": "", 
         "lat": "", 
         "sn": "MCLINTOCK", 
@@ -2762,6 +3038,7 @@
     {
         "pv": "QC", 
         "name": "McMasterville, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCMA", 
         "long": "", 
         "lat": "", 
         "sn": "MCMASTERVILLE", 
@@ -2772,6 +3049,7 @@
     {
         "pv": "QC", 
         "name": "McTavis Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCTC", 
         "long": "", 
         "lat": "", 
         "sn": "MCTAVIS CLUB", 
@@ -2782,6 +3060,7 @@
     {
         "pv": "ON", 
         "name": "Meadowvale GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MDVL", 
         "long": "", 
         "lat": "", 
         "sn": "MEADOWVALE", 
@@ -2792,6 +3071,7 @@
     {
         "pv": "QC", 
         "name": "Megiscane train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MEGI", 
         "long": "", 
         "lat": "", 
         "sn": "MEGISCANE", 
@@ -2802,6 +3082,7 @@
     {
         "pv": "SK", 
         "name": "Melville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MELV", 
         "long": "-102.872", 
         "lat": "51.1382", 
         "sn": "MELVILLE", 
@@ -2812,6 +3093,7 @@
     {
         "pv": "ON", 
         "name": "Metagama train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MTGM", 
         "long": "", 
         "lat": "", 
         "sn": "METAGAMA", 
@@ -2822,6 +3104,7 @@
     {
         "pv": "SK", 
         "name": "Mikado train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MIKA", 
         "long": "", 
         "lat": "", 
         "sn": "MIKADO", 
@@ -2832,6 +3115,7 @@
     {
         "pv": "ON", 
         "name": "Milliken GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MLKN", 
         "long": "", 
         "lat": "", 
         "sn": "MILLIKEN", 
@@ -2842,6 +3126,7 @@
     {
         "pv": "ON", 
         "name": "Milton GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MLTN", 
         "long": "", 
         "lat": "", 
         "sn": "MILTON", 
@@ -2852,6 +3137,7 @@
     {
         "pv": "ON", 
         "name": "Mimico station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MIMI", 
         "long": "", 
         "lat": "", 
         "sn": "MIMICO", 
@@ -2862,6 +3148,7 @@
     {
         "pv": "ON", 
         "name": "Minaki train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MNKI", 
         "long": "", 
         "lat": "", 
         "sn": "MINAKI", 
@@ -2872,6 +3159,7 @@
     {
         "pv": "QC", 
         "name": "Miquick train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MIQK", 
         "long": "", 
         "lat": "", 
         "sn": "MIQUICK", 
@@ -2882,6 +3170,7 @@
     {
         "pv": "NB", 
         "name": "Miramichi train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MIRA", 
         "long": "-65.5726", 
         "lat": "47.0052", 
         "sn": "MIRAMICHI", 
@@ -2892,6 +3181,7 @@
     {
         "pv": "ON", 
         "name": "Missanabie train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MSBI", 
         "long": "", 
         "lat": "", 
         "sn": "MISSANABIE", 
@@ -2902,6 +3192,7 @@
     {
         "pv": "BC", 
         "name": "Mission Harbour train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MSNH", 
         "long": "", 
         "lat": "", 
         "sn": "MISSION HARBOUR", 
@@ -2912,6 +3203,7 @@
     {
         "pv": "NB", 
         "name": "Moncton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MCTN", 
         "long": "-64.7875", 
         "lat": "46.0853", 
         "sn": "MONCTON", 
@@ -2922,6 +3214,7 @@
     {
         "pv": "QC", 
         "name": "Monet train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MNET", 
         "long": "", 
         "lat": "", 
         "sn": "MONET", 
@@ -2932,6 +3225,7 @@
     {
         "pv": "QC", 
         "name": "Mont-Joli train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MJLI", 
         "long": "-68.1881", 
         "lat": "48.5892", 
         "sn": "MONT-JOLI", 
@@ -2942,6 +3236,7 @@
     {
         "pv": "QC", 
         "name": "Montmagny train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MMGY", 
         "long": "-70.5602", 
         "lat": "46.9734", 
         "sn": "MONTMAGNY", 
@@ -2952,6 +3247,7 @@
     {
         "pv": "QC", 
         "name": "Montpellier, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MTPL", 
         "long": "", 
         "lat": "", 
         "sn": "MONTPELLIER", 
@@ -2962,6 +3258,7 @@
     {
         "pv": "QC", 
         "name": "Montréal Trudeau International Airport (Shuttle)", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYUL", 
         "long": "-73.5769", 
         "lat": "45.4496", 
         "sn": "MONTRÉAL TRUDEAU AIRPORT", 
@@ -2972,6 +3269,7 @@
     {
         "pv": "QC", 
         "name": "Montréal train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MTRL", 
         "long": "-73.5662", 
         "lat": "45.5001", 
         "sn": "MONTRÉAL", 
@@ -2982,6 +3280,7 @@
     {
         "pv": "QC", 
         "name": "Mont-Royal, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MTRY", 
         "long": "", 
         "lat": "", 
         "sn": "MONT-ROYAL", 
@@ -2992,6 +3291,7 @@
     {
         "pv": "QC", 
         "name": "Mont-Saint-Hilaire, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MTSH", 
         "long": "", 
         "lat": "", 
         "sn": "MONT-SAINT-HILAIRE", 
@@ -3002,6 +3302,7 @@
     {
         "pv": "ON", 
         "name": "Mount Joy GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MTJY", 
         "long": "", 
         "lat": "", 
         "sn": "MOUNT JOY", 
@@ -3012,6 +3313,7 @@
     {
         "pv": "ON", 
         "name": "Mud River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MUDR", 
         "long": "", 
         "lat": "", 
         "sn": "MUD RIVER", 
@@ -3022,6 +3324,7 @@
     {
         "pv": "MB", 
         "name": "Munk train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MUNK", 
         "long": "", 
         "lat": "", 
         "sn": "MUNK", 
@@ -3032,6 +3335,7 @@
     {
         "pv": "ON", 
         "name": "Musk train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MUSK", 
         "long": "", 
         "lat": "", 
         "sn": "MUSK", 
@@ -3042,6 +3346,7 @@
     {
         "pv": "ON", 
         "name": "Nakina train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NAKI", 
         "long": "-86.6277", 
         "lat": "50.1965", 
         "sn": "NAKINA", 
@@ -3052,6 +3357,7 @@
     {
         "pv": "ON", 
         "name": "Napanee train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NAPN", 
         "long": "-76.9581", 
         "lat": "44.2522", 
         "sn": "NAPANEE", 
@@ -3062,6 +3368,7 @@
     {
         "pv": "ON", 
         "name": "Nemegos train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NEME", 
         "long": "", 
         "lat": "", 
         "sn": "NEMEGOS", 
@@ -3072,6 +3379,7 @@
     {
         "pv": "QC", 
         "name": "New Carlisle train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NCAR", 
         "long": "-65.3472", 
         "lat": "48.0075", 
         "sn": "NEW CARLISLE", 
@@ -3082,6 +3390,7 @@
     {
         "pv": "BC", 
         "name": "New Hazelton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NHAZ", 
         "long": "", 
         "lat": "", 
         "sn": "NEW HAZELTON", 
@@ -3092,6 +3401,7 @@
     {
         "pv": "QC", 
         "name": "New Richmond train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NRCH", 
         "long": "-65.8644", 
         "lat": "48.1695", 
         "sn": "NEW RICHMOND", 
@@ -3102,6 +3412,7 @@
     {
         "pv": "NY", 
         "name": "New York station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NEWY", 
         "long": "-73.997", 
         "lat": "40.7501", 
         "sn": "NEW YORK", 
@@ -3112,6 +3423,7 @@
     {
         "pv": "ON", 
         "name": "Newmarket GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NMKT", 
         "long": "", 
         "lat": "", 
         "sn": "NEWMARKET", 
@@ -3122,6 +3434,7 @@
     {
         "pv": "ON", 
         "name": "Niagara Falls GO Bus Stop station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NIAF", 
         "long": "", 
         "lat": "", 
         "sn": "NIAGARA FALLS HWY 420", 
@@ -3132,6 +3445,7 @@
     {
         "pv": "NY", 
         "name": "Niagara Falls station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NFNY", 
         "long": "-79.0293", 
         "lat": "43.1163", 
         "sn": "NIAGARA FALLS", 
@@ -3142,6 +3456,7 @@
     {
         "pv": "ON", 
         "name": "Niagara Falls train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NIAG", 
         "long": "-79.068", 
         "lat": "43.1086", 
         "sn": "NIAGARA FALLS", 
@@ -3152,6 +3467,7 @@
     {
         "pv": "ON", 
         "name": "Nicholson train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NICH", 
         "long": "", 
         "lat": "", 
         "sn": "NICHOLSON", 
@@ -3162,6 +3478,7 @@
     {
         "pv": "MB", 
         "name": "Nonsuch train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NONS", 
         "long": "", 
         "lat": "", 
         "sn": "NONSUCH", 
@@ -3172,6 +3489,7 @@
     {
         "pv": "BC", 
         "name": "North Bend train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NBND", 
         "long": "", 
         "lat": "", 
         "sn": "NORTH BEND", 
@@ -3182,6 +3500,7 @@
     {
         "pv": "QC", 
         "name": "Nouvelle train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/NOUV", 
         "long": "-66.3213", 
         "lat": "48.1497", 
         "sn": "NOUVELLE", 
@@ -3192,6 +3511,7 @@
     {
         "pv": "ON", 
         "name": "Oakville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OAKV", 
         "long": "-79.6844", 
         "lat": "43.4555", 
         "sn": "OAKVILLE", 
@@ -3202,6 +3522,7 @@
     {
         "pv": "ON", 
         "name": "Oba train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OBAX", 
         "long": "-84.0429", 
         "lat": "49.0937", 
         "sn": "OBA", 
@@ -3212,6 +3533,7 @@
     {
         "pv": "ON", 
         "name": "O'Brien train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OBRI", 
         "long": "", 
         "lat": "", 
         "sn": "O'BRIEN", 
@@ -3222,6 +3544,7 @@
     {
         "pv": "MB", 
         "name": "Ochre River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OCHR", 
         "long": "", 
         "lat": "", 
         "sn": "OCHRE RIVER", 
@@ -3232,6 +3555,7 @@
     {
         "pv": "MB", 
         "name": "Oday train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ODAY", 
         "long": "", 
         "lat": "", 
         "sn": "ODAY", 
@@ -3242,6 +3566,7 @@
     {
         "pv": "MB", 
         "name": "Odhill train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ODHI", 
         "long": "", 
         "lat": "", 
         "sn": "ODHILL", 
@@ -3252,6 +3577,7 @@
     {
         "pv": "ON", 
         "name": "Old Cummer GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OLDC", 
         "long": "", 
         "lat": "", 
         "sn": "OLD CUMMER", 
@@ -3262,6 +3588,7 @@
     {
         "pv": "MB", 
         "name": "Ophir train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OPHR", 
         "long": "", 
         "lat": "", 
         "sn": "OPHIR", 
@@ -3272,6 +3599,7 @@
     {
         "pv": "MB", 
         "name": "Optic Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OPTL", 
         "long": "", 
         "lat": "", 
         "sn": "OPTIC LAKE", 
@@ -3282,6 +3610,7 @@
     {
         "pv": "ON", 
         "name": "Oriole station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ORIO", 
         "long": "-79.3219", 
         "lat": "43.751", 
         "sn": "ORIOLE", 
@@ -3292,6 +3621,7 @@
     {
         "pv": "MB", 
         "name": "Orok train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OROK", 
         "long": "", 
         "lat": "", 
         "sn": "OROK", 
@@ -3302,6 +3632,7 @@
     {
         "pv": "ON", 
         "name": "Oshawa train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OSHA", 
         "long": "-78.8826", 
         "lat": "43.8669", 
         "sn": "OSHAWA", 
@@ -3312,6 +3643,7 @@
     {
         "pv": "QC", 
         "name": "Oskelaneo Lodge train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OSKL", 
         "long": "", 
         "lat": "", 
         "sn": "OSKELANEO LODGE", 
@@ -3322,6 +3654,7 @@
     {
         "pv": "QC", 
         "name": "Oskelaneo River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OSKR", 
         "long": "", 
         "lat": "", 
         "sn": "OSKELANEO RIVER", 
@@ -3332,6 +3665,7 @@
     {
         "pv": "ON", 
         "name": "Ottawa train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OTTW", 
         "long": "-75.655", 
         "lat": "45.417", 
         "sn": "OTTAWA", 
@@ -3342,6 +3676,7 @@
     {
         "pv": "ON", 
         "name": "Ottermere train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/OTTM", 
         "long": "", 
         "lat": "", 
         "sn": "OTTERMERE", 
@@ -3352,6 +3687,7 @@
     {
         "pv": "BC", 
         "name": "Pacific train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PACI", 
         "long": "", 
         "lat": "", 
         "sn": "PACIFIC", 
@@ -3362,6 +3698,7 @@
     {
         "pv": "QC", 
         "name": "Parent train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PARE", 
         "long": "-74.6184", 
         "lat": "47.9202", 
         "sn": "PARENT", 
@@ -3372,6 +3709,7 @@
     {
         "pv": "ON", 
         "name": "Parry Sound Station Gallery train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SPAR", 
         "long": "-80.0386", 
         "lat": "45.347", 
         "sn": "PARRY SOUND SOUTH", 
@@ -3382,6 +3720,7 @@
     {
         "pv": "ON", 
         "name": "Parry Sound train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PARS", 
         "long": "-80.0386", 
         "lat": "45.347", 
         "sn": "PARRY SOUND", 
@@ -3392,6 +3731,7 @@
     {
         "pv": "MB", 
         "name": "Paterson train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PATE", 
         "long": "", 
         "lat": "", 
         "sn": "PATERSON", 
@@ -3402,6 +3742,7 @@
     {
         "pv": "MB", 
         "name": "Pawistik train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PAWI", 
         "long": "", 
         "lat": "", 
         "sn": "PAWISTIK", 
@@ -3412,6 +3753,7 @@
     {
         "pv": "QC", 
         "name": "Pearl Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PRLL", 
         "long": "", 
         "lat": "", 
         "sn": "PEARL LAKE", 
@@ -3422,6 +3764,7 @@
     {
         "pv": "BC", 
         "name": "Penny train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PENN", 
         "long": "", 
         "lat": "", 
         "sn": "PENNY", 
@@ -3432,6 +3775,7 @@
     {
         "pv": "QC", 
         "name": "Percé train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PERC", 
         "long": "-64.6461", 
         "lat": "48.3656", 
         "sn": "PERCÉ", 
@@ -3442,6 +3786,7 @@
     {
         "pv": "NB", 
         "name": "Petit Rocher train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PROC", 
         "long": "", 
         "lat": "", 
         "sn": "PETIT ROCHER", 
@@ -3452,6 +3797,7 @@
     {
         "pv": "ON", 
         "name": "Pickering station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PICK", 
         "long": "", 
         "lat": "", 
         "sn": "PICKERING", 
@@ -3462,6 +3808,7 @@
     {
         "pv": "MB", 
         "name": "Pikwitonei train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PIKW", 
         "long": "", 
         "lat": "", 
         "sn": "PIKWITONEI", 
@@ -3472,6 +3819,7 @@
     {
         "pv": "MB", 
         "name": "Pipun train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PIPN", 
         "long": "", 
         "lat": "", 
         "sn": "PIPUN", 
@@ -3482,6 +3830,7 @@
     {
         "pv": "MB", 
         "name": "Pit Siding train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PITS", 
         "long": "", 
         "lat": "", 
         "sn": "PIT SIDING", 
@@ -3492,6 +3841,7 @@
     {
         "pv": "MB", 
         "name": "Plumas train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PLUM", 
         "long": "-98.9733", 
         "lat": "50.3902", 
         "sn": "PLUMAS", 
@@ -3502,6 +3852,7 @@
     {
         "pv": "ON", 
         "name": "Pogamasing train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/POGA", 
         "long": "", 
         "lat": "", 
         "sn": "POGAMASING", 
@@ -3512,6 +3863,7 @@
     {
         "pv": "QC", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PATX", 
         "long": "", 
         "lat": "", 
         "sn": "POINTE-AUX-TREMBLES", 
@@ -3522,6 +3874,7 @@
     {
         "pv": "QC", 
         "name": "Pont Beaudet train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PBDT", 
         "long": "", 
         "lat": "", 
         "sn": "PONT BEAUDET", 
@@ -3532,6 +3885,7 @@
     {
         "pv": "MB", 
         "name": "Ponton train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PNTN", 
         "long": "", 
         "lat": "", 
         "sn": "PONTON", 
@@ -3542,6 +3896,7 @@
     {
         "pv": "ON", 
         "name": "Port Credit station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PCRE", 
         "long": "", 
         "lat": "", 
         "sn": "PORT CREDIT", 
@@ -3552,6 +3907,7 @@
     {
         "pv": "QC", 
         "name": "Port Daniel train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PDAN", 
         "long": "-64.9243", 
         "lat": "48.106", 
         "sn": "PORT DANIEL", 
@@ -3562,6 +3918,7 @@
     {
         "pv": "ON", 
         "name": "Port Hope train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PHOP", 
         "long": "", 
         "lat": "", 
         "sn": "PORT HOPE", 
@@ -3572,6 +3929,7 @@
     {
         "pv": "MB", 
         "name": "Portage la Prairie train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PLPX", 
         "long": "-98.288", 
         "lat": "49.977", 
         "sn": "PORTAGE LA PRAIRIE", 
@@ -3582,6 +3940,7 @@
     {
         "pv": "NY", 
         "name": "Poughkeepsie station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/POUG", 
         "long": "-73.9153", 
         "lat": "41.7016", 
         "sn": "POUGHKEEPSIE", 
@@ -3592,6 +3951,7 @@
     {
         "pv": "QC", 
         "name": "Press train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PRSS", 
         "long": "", 
         "lat": "", 
         "sn": "PRESS", 
@@ -3602,6 +3962,7 @@
     {
         "pv": "BC", 
         "name": "Prince George train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PGEO", 
         "long": "-122.736", 
         "lat": "53.9167", 
         "sn": "PRINCE GEORGE", 
@@ -3612,6 +3973,7 @@
     {
         "pv": "BC", 
         "name": "Prince Rupert train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PRUP", 
         "long": "-130.339", 
         "lat": "54.3009", 
         "sn": "PRINCE RUPERT", 
@@ -3622,6 +3984,7 @@
     {
         "pv": "BC", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYPR", 
         "long": "", 
         "lat": "", 
         "sn": "PRINCE RUPERT", 
@@ -3632,6 +3995,7 @@
     {
         "pv": "MB", 
         "name": "Prospector train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/PROS", 
         "long": "", 
         "lat": "", 
         "sn": "PROSPECTOR", 
@@ -3642,6 +4006,7 @@
     {
         "pv": "QC", 
         "name": "Québec city train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/QBEC", 
         "long": "-71.2133", 
         "lat": "46.8174", 
         "sn": "QUÉBEC", 
@@ -3652,6 +4017,7 @@
     {
         "pv": "ON", 
         "name": "Ramsey train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RAMS", 
         "long": "", 
         "lat": "", 
         "sn": "RAMSEY", 
@@ -3662,6 +4028,7 @@
     {
         "pv": "QC", 
         "name": "Rapide Blanc train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RAPB", 
         "long": "", 
         "lat": "", 
         "sn": "RAPIDE BLANC", 
@@ -3672,6 +4039,7 @@
     {
         "pv": "MB", 
         "name": "Rawebb train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RAWE", 
         "long": "", 
         "lat": "", 
         "sn": "RAWEBB", 
@@ -3682,6 +4050,7 @@
     {
         "pv": "AB", 
         "name": "Red Deer station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RDEE", 
         "long": "-113.814", 
         "lat": "52.2625", 
         "sn": "RED DEER", 
@@ -3692,6 +4061,7 @@
     {
         "pv": "ON", 
         "name": "Red Lake Road train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RLRX", 
         "long": "", 
         "lat": "", 
         "sn": "RED LAKE ROAD", 
@@ -3702,6 +4072,7 @@
     {
         "pv": "ON", 
         "name": "Redditt train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RDDT", 
         "long": "", 
         "lat": "", 
         "sn": "REDDITT", 
@@ -3712,6 +4083,7 @@
     {
         "pv": "SK", 
         "name": "Reserve train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RSRV", 
         "long": "", 
         "lat": "", 
         "sn": "RESERVE", 
@@ -3722,6 +4094,7 @@
     {
         "pv": "NY", 
         "name": "Rhinecliff station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RHIN", 
         "long": "-73.9513", 
         "lat": "41.9143", 
         "sn": "RHINECLIFF", 
@@ -3732,6 +4105,7 @@
     {
         "pv": "ON", 
         "name": "Rice Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RCLK", 
         "long": "", 
         "lat": "", 
         "sn": "RICE LAKE", 
@@ -3742,6 +4116,7 @@
     {
         "pv": "ON", 
         "name": "Richan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RCHN", 
         "long": "", 
         "lat": "", 
         "sn": "RICHAN", 
@@ -3752,6 +4127,7 @@
     {
         "pv": "ON", 
         "name": "Richmond Hill GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RCHL", 
         "long": "", 
         "lat": "", 
         "sn": "RICHMOND HILL", 
@@ -3762,6 +4138,7 @@
     {
         "pv": "QC", 
         "name": "Rimouski train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RMSK", 
         "long": "-68.5275", 
         "lat": "48.4464", 
         "sn": "RIMOUSKI", 
@@ -3772,6 +4149,7 @@
     {
         "pv": "MB", 
         "name": "Rivers train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RVRS", 
         "long": "", 
         "lat": "", 
         "sn": "RIVERS", 
@@ -3782,6 +4160,7 @@
     {
         "pv": "QC", 
         "name": "Rivière-à-Pierre train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RAPX", 
         "long": "-70.3907", 
         "lat": "47.4089", 
         "sn": "RIVIERE-A-PIERRE", 
@@ -3792,6 +4171,7 @@
     {
         "pv": "QC", 
         "name": "Rivière-du-Loup train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RDLX", 
         "long": "-69.5235", 
         "lat": "47.8227", 
         "sn": "RIVIÈRE-DU-LOUP", 
@@ -3802,6 +4182,7 @@
     {
         "pv": "ON", 
         "name": "Roberts train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RBRT", 
         "long": "", 
         "lat": "", 
         "sn": "ROBERTS", 
@@ -3812,6 +4193,7 @@
     {
         "pv": "MB", 
         "name": "Roblin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RBLN", 
         "long": "-101.355", 
         "lat": "51.2294", 
         "sn": "ROBLIN", 
@@ -3822,6 +4204,7 @@
     {
         "pv": "NY", 
         "name": "Rochester station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ROCH", 
         "long": "-77.6004", 
         "lat": "43.1673", 
         "sn": "ROCHESTER", 
@@ -3832,6 +4215,7 @@
     {
         "pv": "NB", 
         "name": "Rogersville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RGRV", 
         "long": "-65.4152", 
         "lat": "46.7172", 
         "sn": "ROGERSVILLE", 
@@ -3842,6 +4226,7 @@
     {
         "pv": "NY", 
         "name": "Rome station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ROME", 
         "long": "-75.4595", 
         "lat": "43.2139", 
         "sn": "ROME", 
@@ -3852,6 +4237,7 @@
     {
         "pv": "MB", 
         "name": "Root Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RTLK", 
         "long": "", 
         "lat": "", 
         "sn": "ROOT LAKE", 
@@ -3862,6 +4248,7 @@
     {
         "pv": "ON", 
         "name": "Rouge Hill station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ROUG", 
         "long": "", 
         "lat": "", 
         "sn": "ROUGE HILL", 
@@ -3872,6 +4259,7 @@
     {
         "pv": "QC", 
         "name": "Rousseau train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ROUS", 
         "long": "", 
         "lat": "", 
         "sn": "ROUSSEAU", 
@@ -3882,6 +4270,7 @@
     {
         "pv": "QC", 
         "name": "Roxboro-Pierrefonds, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ROXB", 
         "long": "", 
         "lat": "", 
         "sn": "ROXBORO-PIERREFONDS", 
@@ -3892,6 +4281,7 @@
     {
         "pv": "MB", 
         "name": "Ruddock train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RUDD", 
         "long": "", 
         "lat": "", 
         "sn": "RUDDOCK", 
@@ -3902,6 +4292,7 @@
     {
         "pv": "ON", 
         "name": "Ruel train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RUEL", 
         "long": "", 
         "lat": "", 
         "sn": "RUEL", 
@@ -3912,6 +4303,7 @@
     {
         "pv": "ON", 
         "name": "Rutherford GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RUTH", 
         "long": "", 
         "lat": "", 
         "sn": "RURTHERFORD", 
@@ -3922,6 +4314,7 @@
     {
         "pv": "NB", 
         "name": "Sackville train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SACK", 
         "long": "-64.3664", 
         "lat": "45.8965", 
         "sn": "SACKVILLE", 
@@ -3932,6 +4325,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Bruno station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STBR", 
         "long": "", 
         "lat": "", 
         "sn": "SAINT-BRUNO", 
@@ -3942,6 +4336,7 @@
     {
         "pv": "QC", 
         "name": "Sainte-Doroth", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STDT", 
         "long": "", 
         "lat": "", 
         "sn": "SAINTE-DOROTHÉE", 
@@ -3952,6 +4347,7 @@
     {
         "pv": "QC", 
         "name": "Sainte-Foy train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SFOY", 
         "long": "-71.2989", 
         "lat": "46.755", 
         "sn": "SAINTE-FOY", 
@@ -3962,6 +4358,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Hubert station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STHB", 
         "long": "", 
         "lat": "", 
         "sn": "SAINT-HUBERT", 
@@ -3972,6 +4369,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Hyacinthe train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SHYA", 
         "long": "-72.9488", 
         "lat": "45.6274", 
         "sn": "SAINT-HYACINTHE", 
@@ -3982,6 +4380,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Lambert train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SLAM", 
         "long": "-73.5068", 
         "lat": "45.4995", 
         "sn": "SAINT-LAMBERT", 
@@ -3992,6 +4391,7 @@
     {
         "pv": "QC", 
         "name": "Sanford train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SANF", 
         "long": "", 
         "lat": "", 
         "sn": "SANFORD", 
@@ -4002,6 +4402,7 @@
     {
         "pv": "QC", 
         "name": "Sanmaur train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SANM", 
         "long": "", 
         "lat": "", 
         "sn": "SANMAUR", 
@@ -4012,6 +4413,7 @@
     {
         "pv": "ON", 
         "name": "Sarnia train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SARN", 
         "long": "-82.3905", 
         "lat": "42.9578", 
         "sn": "SARNIA", 
@@ -4022,6 +4424,7 @@
     {
         "pv": "SK", 
         "name": "Saskatoon train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SASK", 
         "long": "-106.742", 
         "lat": "52.1062", 
         "sn": "SASKATOON", 
@@ -4032,6 +4435,7 @@
     {
         "pv": "ON", 
         "name": "Savant Lake train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SAVL", 
         "long": "", 
         "lat": "", 
         "sn": "SAVANT LAKE", 
@@ -4042,6 +4446,7 @@
     {
         "pv": "QC", 
         "name": "Sayabec train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SAYA", 
         "long": "-67.7145", 
         "lat": "48.5648", 
         "sn": "SAYABEC", 
@@ -4052,6 +4457,7 @@
     {
         "pv": "ON", 
         "name": "Scarborough station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SCAR", 
         "long": "", 
         "lat": "", 
         "sn": "SCARBOROUGH", 
@@ -4062,6 +4468,7 @@
     {
         "pv": "NY", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SCHE", 
         "long": "", 
         "lat": "", 
         "sn": "SCHENECTADY", 
@@ -4072,6 +4479,7 @@
     {
         "pv": "QC", 
         "name": "Senneterre train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SENN", 
         "long": "-77.3698", 
         "lat": "48.4033", 
         "sn": "SENNETERRE", 
@@ -4082,6 +4490,7 @@
     {
         "pv": "QC", 
         "name": "Shawinigan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SHWN", 
         "long": "-72.7439", 
         "lat": "46.5541", 
         "sn": "SHAWINIGAN", 
@@ -4092,6 +4501,7 @@
     {
         "pv": "ON", 
         "name": "Sheahan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SHEA", 
         "long": "", 
         "lat": "", 
         "sn": "SHEAHAN", 
@@ -4102,6 +4512,7 @@
     {
         "pv": "MB", 
         "name": "Sherridon train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SHRD", 
         "long": "", 
         "lat": "", 
         "sn": "SHERRIDON", 
@@ -4112,6 +4523,7 @@
     {
         "pv": "QC", 
         "name": "Signai train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SIGN", 
         "long": "", 
         "lat": "", 
         "sn": "SIGNAI", 
@@ -4122,6 +4534,7 @@
     {
         "pv": "MB", 
         "name": "Silcox train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SILC", 
         "long": "", 
         "lat": "", 
         "sn": "SILCOX", 
@@ -4132,6 +4545,7 @@
     {
         "pv": "MB", 
         "name": "Simonhouse train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SIMO", 
         "long": "", 
         "lat": "", 
         "sn": "SIMONHOUSE", 
@@ -4142,6 +4556,7 @@
     {
         "pv": "BC", 
         "name": "Sinclair Mills train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SINM", 
         "long": "", 
         "lat": "", 
         "sn": "SINCLAIR MILLS", 
@@ -4152,6 +4567,7 @@
     {
         "pv": "ON", 
         "name": "Sioux Lookout train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SLKT", 
         "long": "-91.9141", 
         "lat": "50.095", 
         "sn": "SIOUX LOOKOUT", 
@@ -4162,6 +4578,7 @@
     {
         "pv": "MB", 
         "name": "Sipiwesk train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SIPI", 
         "long": "", 
         "lat": "", 
         "sn": "SIPIWESK", 
@@ -4172,6 +4589,7 @@
     {
         "pv": "QC", 
         "name": "Sisco Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SSCC", 
         "long": "", 
         "lat": "", 
         "sn": "SISCO CLUB", 
@@ -4182,6 +4600,7 @@
     {
         "pv": "BC", 
         "name": "Smithers train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SMTR", 
         "long": "", 
         "lat": "", 
         "sn": "SMITHERS", 
@@ -4192,6 +4611,7 @@
     {
         "pv": "BC", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYYD", 
         "long": "", 
         "lat": "", 
         "sn": "SMITHERS", 
@@ -4202,6 +4622,7 @@
     {
         "pv": "ON", 
         "name": "Smiths Falls train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SMTF", 
         "long": "-76.023", 
         "lat": "44.9113", 
         "sn": "SMITHS FALLS", 
@@ -4212,6 +4633,7 @@
     {
         "pv": "NS", 
         "name": "Springhill Jct. train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SPRJ", 
         "long": "-64.0345", 
         "lat": "45.6646", 
         "sn": "SPRINGHILL JCT", 
@@ -4222,6 +4644,7 @@
     {
         "pv": "ON", 
         "name": "St.Catharines GO Bus Stop station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SCAG", 
         "long": "", 
         "lat": "", 
         "sn": "ST. CATHARINES FAIRVIEW MALL", 
@@ -4232,6 +4655,7 @@
     {
         "pv": "ON", 
         "name": "St. Catharines train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SCAT", 
         "long": "-79.2548", 
         "lat": "43.1476", 
         "sn": "ST. CATHARINES", 
@@ -4242,6 +4666,7 @@
     {
         "pv": "ON", 
         "name": "St. Marys train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SMYS", 
         "long": "-81.0034", 
         "lat": "43.3632", 
         "sn": "ST.MARYS", 
@@ -4252,6 +4677,7 @@
     {
         "pv": "QC", 
         "name": "Stadacona train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STAD", 
         "long": "", 
         "lat": "", 
         "sn": "STADACONA", 
@@ -4262,6 +4688,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Basile-le-Grand, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SBLG", 
         "long": "", 
         "lat": "", 
         "sn": "ST-BASILE-LE-GRAND", 
@@ -4272,6 +4699,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Hilaire de Portneuf train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SHPN", 
         "long": "", 
         "lat": "", 
         "sn": "ST-HILAIRE DE PORTNEUF", 
@@ -4282,6 +4710,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Justin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SJUS", 
         "long": "", 
         "lat": "", 
         "sn": "ST-JUSTIN", 
@@ -4292,6 +4721,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Maurice Rivière Boom train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SMRB", 
         "long": "", 
         "lat": "", 
         "sn": "ST-MAURICE RIVIERE BOOM", 
@@ -4302,6 +4732,7 @@
     {
         "pv": "ON", 
         "name": "Stoney Creek GO Bus Stop station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STOC", 
         "long": "", 
         "lat": "", 
         "sn": "STONEY CREEK", 
@@ -4312,6 +4743,7 @@
     {
         "pv": "ON", 
         "name": "Stouffville GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STFV", 
         "long": "", 
         "lat": "", 
         "sn": "STOUFFVILLE", 
@@ -4322,6 +4754,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Paulin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SPAU", 
         "long": "-73.3004", 
         "lat": "46.154", 
         "sn": "ST-PAULIN", 
@@ -4332,6 +4765,7 @@
     {
         "pv": "QC", 
         "name": "Strachan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STRN", 
         "long": "", 
         "lat": "", 
         "sn": "STRACHAN", 
@@ -4342,6 +4776,7 @@
     {
         "pv": "ON", 
         "name": "Stralak train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STRL", 
         "long": "", 
         "lat": "", 
         "sn": "STRALAK", 
@@ -4352,6 +4787,7 @@
     {
         "pv": "ON", 
         "name": "Stratford train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STRF", 
         "long": "-80.9767", 
         "lat": "43.3648", 
         "sn": "STRATFORD", 
@@ -4362,6 +4798,7 @@
     {
         "pv": "ON", 
         "name": "Strathroy train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STRR", 
         "long": "", 
         "lat": "", 
         "sn": "STRATHROY", 
@@ -4372,6 +4809,7 @@
     {
         "pv": "ON", 
         "name": "Streetsville GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STVL", 
         "long": "", 
         "lat": "", 
         "sn": "STREETSVILLE", 
@@ -4382,6 +4820,7 @@
     {
         "pv": "QC", 
         "name": "Saint-Tite train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STIT", 
         "long": "-72.5048", 
         "lat": "46.7444", 
         "sn": "ST-TITE", 
@@ -4392,6 +4831,7 @@
     {
         "pv": "SK", 
         "name": "Sturgis train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STGS", 
         "long": "", 
         "lat": "", 
         "sn": "STURGIS", 
@@ -4402,6 +4842,7 @@
     {
         "pv": "ON", 
         "name": "Sudbury Jct train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SUDJ", 
         "long": "-80.9666", 
         "lat": "46.5203", 
         "sn": "SUDBURY JCT", 
@@ -4412,6 +4853,7 @@
     {
         "pv": "ON", 
         "name": "Sudbury train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SUDB", 
         "long": "-80.9933", 
         "lat": "46.4883", 
         "sn": "SUDBURY", 
@@ -4422,6 +4864,7 @@
     {
         "pv": "ON", 
         "name": "Sultan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SULT", 
         "long": "", 
         "lat": "", 
         "sn": "SULTAN", 
@@ -4432,6 +4875,7 @@
     {
         "pv": "QC", 
         "name": "Summit Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SMMC", 
         "long": "", 
         "lat": "", 
         "sn": "SUMMIT CLUB", 
@@ -4442,6 +4886,7 @@
     {
         "pv": "QC", 
         "name": "Summit train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SMQU", 
         "long": "", 
         "lat": "", 
         "sn": "SUMMIT", 
@@ -4452,6 +4897,7 @@
     {
         "pv": "QC", 
         "name": "Sunnybrooke, gare AMT station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SNYB", 
         "long": "", 
         "lat": "", 
         "sn": "SUNNYBROOKE", 
@@ -4462,6 +4908,7 @@
     {
         "pv": "NY", 
         "name": "Syracuse station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/SYRA", 
         "long": "-76.1492", 
         "lat": "43.0747", 
         "sn": "SYRACUSE", 
@@ -4472,6 +4919,7 @@
     {
         "pv": "BC", 
         "name": "Telkwa train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TELK", 
         "long": "", 
         "lat": "", 
         "sn": "TELKWA", 
@@ -4482,6 +4930,7 @@
     {
         "pv": "BC", 
         "name": "Terrace train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TRRC", 
         "long": "-128.586", 
         "lat": "54.5258", 
         "sn": "TERRACE", 
@@ -4492,6 +4941,7 @@
     {
         "pv": "BC", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYXT", 
         "long": "", 
         "lat": "", 
         "sn": "TERRACE-KITIMAT", 
@@ -4502,6 +4952,7 @@
     {
         "pv": "MB", 
         "name": "The Pas train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TPAS", 
         "long": "-101.336", 
         "lat": "53.8517", 
         "sn": "THE PAS", 
@@ -4512,6 +4963,7 @@
     {
         "pv": "MB", 
         "name": "Thibaudeau train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/THIB", 
         "long": "", 
         "lat": "", 
         "sn": "THIBAUDEAU", 
@@ -4522,6 +4974,7 @@
     {
         "pv": "MB", 
         "name": "Thicket Portage train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/THKP", 
         "long": "", 
         "lat": "", 
         "sn": "THICKET PORTAGE", 
@@ -4532,6 +4985,7 @@
     {
         "pv": "MB", 
         "name": "Thompson train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/THOM", 
         "long": "-97.8538", 
         "lat": "55.7355", 
         "sn": "THOMPSON", 
@@ -4542,6 +4996,7 @@
     {
         "pv": "MB", 
         "name": "Tidal train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TIDL", 
         "long": "", 
         "lat": "", 
         "sn": "TIDAL", 
@@ -4552,6 +5007,7 @@
     {
         "pv": "QC", 
         "name": "Timbrell train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TIMB", 
         "long": "", 
         "lat": "", 
         "sn": "TIMBRELL", 
@@ -4562,6 +5018,7 @@
     {
         "pv": "SK", 
         "name": "Togo train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TOGO", 
         "long": "", 
         "lat": "", 
         "sn": "TOGO", 
@@ -4572,6 +5029,7 @@
     {
         "pv": "ON", 
         "name": "Billy Bishop Toronto City Airport (Shuttle)", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYTZ", 
         "long": "", 
         "lat": "", 
         "sn": "TORONTO BILLY BISHOP", 
@@ -4582,6 +5040,7 @@
     {
         "pv": "ON", 
         "name": "Toronto Pearson International Airport station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYYZ", 
         "long": "-79.6238", 
         "lat": "43.6904", 
         "sn": "TORONTO PEARSON AIRPORT", 
@@ -4592,6 +5051,7 @@
     {
         "pv": "ON", 
         "name": "Toronto train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TRTO", 
         "long": "-79.3796", 
         "lat": "43.6459", 
         "sn": "TORONTO", 
@@ -4602,6 +5062,7 @@
     {
         "pv": "MB", 
         "name": "Tremaudan train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TREM", 
         "long": "", 
         "lat": "", 
         "sn": "TREMAUDAN", 
@@ -4612,6 +5073,7 @@
     {
         "pv": "ON", 
         "name": "Trenton Junction train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TRNJ", 
         "long": "-77.5818", 
         "lat": "44.1003", 
         "sn": "TRENTON JUNCTION", 
@@ -4622,6 +5084,7 @@
     {
         "pv": "QC", 
         "name": "Triton Club train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TRTC", 
         "long": "", 
         "lat": "", 
         "sn": "TRITON CLUB", 
@@ -4632,6 +5095,7 @@
     {
         "pv": "QC", 
         "name": "Trois Pistoles train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TPIS", 
         "long": "-69.1218", 
         "lat": "48.1326", 
         "sn": "TROIS PISTOLES", 
@@ -4642,6 +5106,7 @@
     {
         "pv": "NS", 
         "name": "Truro train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TRUR", 
         "long": "-63.2788", 
         "lat": "45.3623", 
         "sn": "TRURO", 
@@ -4652,6 +5117,7 @@
     {
         "pv": "MB", 
         "name": "Turnbull train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TURN", 
         "long": "", 
         "lat": "", 
         "sn": "TURNBULL", 
@@ -4662,6 +5128,7 @@
     {
         "pv": "ON", 
         "name": "Unionville GO Station station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/UNVL", 
         "long": "", 
         "lat": "", 
         "sn": "UNIONVILLE", 
@@ -4672,6 +5139,7 @@
     {
         "pv": "SK", 
         "name": "Unity train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/UNIT", 
         "long": "", 
         "lat": "", 
         "sn": "UNITY", 
@@ -4682,6 +5150,7 @@
     {
         "pv": "BC", 
         "name": "Upper Frazer train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/UFRZ", 
         "long": "-122.121", 
         "lat": "54.075", 
         "sn": "UPPER FRAZER", 
@@ -4692,6 +5161,7 @@
     {
         "pv": "BC", 
         "name": "Usk train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/USKX", 
         "long": "", 
         "lat": "", 
         "sn": "USK", 
@@ -4702,6 +5172,7 @@
     {
         "pv": "NY", 
         "name": "Utica station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/UTIC", 
         "long": "-75.2351", 
         "lat": "43.0846", 
         "sn": "UTICA", 
@@ -4712,6 +5183,7 @@
     {
         "pv": "BC", 
         "name": "Valemount train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VLMT", 
         "long": "-119.264", 
         "lat": "52.8312", 
         "sn": "VALEMOUNT", 
@@ -4722,6 +5194,7 @@
     {
         "pv": "QC", 
         "name": "Van Bruyssels train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VBRU", 
         "long": "", 
         "lat": "", 
         "sn": "VAN BRUYSSELS", 
@@ -4732,6 +5205,7 @@
     {
         "pv": "BC", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYVR", 
         "long": "", 
         "lat": "", 
         "sn": "VANCOUVER AIRPORT", 
@@ -4742,6 +5216,7 @@
     {
         "pv": "BC", 
         "name": "Vancouver train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VCVR", 
         "long": "-123.099", 
         "lat": "49.2744", 
         "sn": "VANCOUVER", 
@@ -4752,6 +5227,7 @@
     {
         "pv": "BC", 
         "name": "Vanderhoof train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VDRH", 
         "long": "", 
         "lat": "", 
         "sn": "VANDERHOOF", 
@@ -4762,6 +5238,7 @@
     {
         "pv": "QC", 
         "name": "Vandry train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VDRY", 
         "long": "", 
         "lat": "", 
         "sn": "VANDRY", 
@@ -4772,6 +5249,7 @@
     {
         "pv": "SK", 
         "name": "Veregin train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VERE", 
         "long": "", 
         "lat": "", 
         "sn": "VEREGIN", 
@@ -4782,6 +5260,7 @@
     {
         "pv": "BC", 
         "name": "Victoria station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VICB", 
         "long": "-123.366", 
         "lat": "48.4211", 
         "sn": "VICTORIA", 
@@ -4792,6 +5271,7 @@
     {
         "pv": "AB", 
         "name": "Viking train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/VKNG", 
         "long": "", 
         "lat": "", 
         "sn": "VIKING", 
@@ -4802,6 +5282,7 @@
     {
         "pv": "MB", 
         "name": "Wabowden train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WBDN", 
         "long": "", 
         "lat": "", 
         "sn": "WABOWDEN", 
@@ -4812,6 +5293,7 @@
     {
         "pv": "AB", 
         "name": "Wainwright train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WAIN", 
         "long": "", 
         "lat": "", 
         "sn": "WAINWRIGHT", 
@@ -4822,6 +5304,7 @@
     {
         "pv": "MB", 
         "name": "Wanless train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WANL", 
         "long": "", 
         "lat": "", 
         "sn": "WANLESS", 
@@ -4832,6 +5315,7 @@
     {
         "pv": "ON", 
         "name": "Washago train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WSHG", 
         "long": "-79.3102", 
         "lat": "44.7383", 
         "sn": "WASHAGO", 
@@ -4842,6 +5326,7 @@
     {
         "pv": "SK", 
         "name": "Watrous train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WATR", 
         "long": "", 
         "lat": "", 
         "sn": "WATROUS", 
@@ -4852,6 +5337,7 @@
     {
         "pv": "MB", 
         "name": "Weir River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WEIR", 
         "long": "", 
         "lat": "", 
         "sn": "WEIR RIVER", 
@@ -4862,6 +5348,7 @@
     {
         "pv": "MB", 
         "name": "Wekusko train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WEKU", 
         "long": "", 
         "lat": "", 
         "sn": "WEKUSKO", 
@@ -4872,6 +5359,7 @@
     {
         "pv": "ON", 
         "name": "Weston station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WEST", 
         "long": "", 
         "lat": "", 
         "sn": "WESTON", 
@@ -4882,6 +5370,7 @@
     {
         "pv": "ON", 
         "name": "Westree train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WSTR", 
         "long": "", 
         "lat": "", 
         "sn": "WESTREE", 
@@ -4892,6 +5381,7 @@
     {
         "pv": "QC", 
         "name": "Weymont train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WYMT", 
         "long": "", 
         "lat": "", 
         "sn": "WEYMONT", 
@@ -4902,6 +5392,7 @@
     {
         "pv": "ON", 
         "name": "Whitby station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WHIT", 
         "long": "", 
         "lat": "", 
         "sn": "WHITBY", 
@@ -4912,6 +5403,7 @@
     {
         "pv": "ON", 
         "name": "White River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WHTR", 
         "long": "-85.1746", 
         "lat": "48.3361", 
         "sn": "WHITE RIVER", 
@@ -4922,6 +5414,7 @@
     {
         "pv": "YT", 
         "name": "", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/XYXY", 
         "long": "", 
         "lat": "", 
         "sn": "WHITEHORSE", 
@@ -4932,6 +5425,7 @@
     {
         "pv": "QC", 
         "name": "Wigwam (Club) train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WGWC", 
         "long": "", 
         "lat": "", 
         "sn": "WIGWAM (CLUB)", 
@@ -4942,6 +5436,7 @@
     {
         "pv": "MB", 
         "name": "Wilde train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WILD", 
         "long": "", 
         "lat": "", 
         "sn": "WILDE", 
@@ -4952,6 +5447,7 @@
     {
         "pv": "BC", 
         "name": "Willow River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WILR", 
         "long": "", 
         "lat": "", 
         "sn": "WILLOW RIVER", 
@@ -4962,6 +5458,7 @@
     {
         "pv": "QC", 
         "name": "Windigo train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WNDG", 
         "long": "", 
         "lat": "", 
         "sn": "WINDIGO", 
@@ -4972,6 +5469,7 @@
     {
         "pv": "ON", 
         "name": "Windsor train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WDON", 
         "long": "-83.0094", 
         "lat": "42.3256", 
         "sn": "WINDSOR", 
@@ -4982,6 +5480,7 @@
     {
         "pv": "MB", 
         "name": "Winnipeg train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WNPG", 
         "long": "-97.1258", 
         "lat": "49.8791", 
         "sn": "WINNIPEG", 
@@ -4992,6 +5491,7 @@
     {
         "pv": "MB", 
         "name": "Winnitoba train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WNTB", 
         "long": "", 
         "lat": "", 
         "sn": "WINNITOBA", 
@@ -5002,6 +5502,7 @@
     {
         "pv": "MB", 
         "name": "Wivenhoe train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WVHO", 
         "long": "", 
         "lat": "", 
         "sn": "WIVENHOE", 
@@ -5012,6 +5513,7 @@
     {
         "pv": "ON", 
         "name": "Woman River train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WOMR", 
         "long": "", 
         "lat": "", 
         "sn": "WOMAN RIVER", 
@@ -5022,6 +5524,7 @@
     {
         "pv": "ON", 
         "name": "Woodstock train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WDST", 
         "long": "-80.7517", 
         "lat": "43.1262", 
         "sn": "WOODSTOCK", 
@@ -5032,6 +5535,7 @@
     {
         "pv": "ON", 
         "name": "Wyoming train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/WYOM", 
         "long": "-82.165", 
         "lat": "42.9362", 
         "sn": "WYOMING", 
@@ -5042,6 +5546,7 @@
     {
         "pv": "NY", 
         "name": "Yonkers station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/YONK", 
         "long": "-73.8801", 
         "lat": "40.9429", 
         "sn": "YONKERS", 
@@ -5052,6 +5557,7 @@
     {
         "pv": "ON", 
         "name": "York University station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/YRKU", 
         "long": "", 
         "lat": "", 
         "sn": "YORK UNIVERSITY", 
