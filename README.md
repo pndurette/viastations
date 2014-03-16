@@ -1,4 +1,4 @@
-# Rail Canada stations data
+# VIA Rail Canada stations data
 [VIA Rail](http://viarail.ca) uses its own 4-letter codes for stations, but isn't publishing their data (yet). This aims to provide the missing data for VIA's stations.
 
 ## Data files
