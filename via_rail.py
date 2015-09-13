@@ -30,7 +30,8 @@ class Station:
         try:
             adresss_string_list = []
             address_strings = soup.find(id="adress").stripped_strings
-            for s in address_strings: adresss_string_list.append(s)
+            # Clean: ignore ',' elements. Left/right strip ',' and then ' ' from others.
+            adresss_string_list = [s.strip(',').strip() for s in address_strings if s != ","]
             return ", ".join(adresss_string_list)
         except Exception:
             return ""
@@ -52,7 +53,7 @@ class Station:
     def fetch_page(self, url):
         """Fetch the page into a Soup"""
         r = requests.get(url)
-        soup = BeautifulSoup(r.text)
+        soup = BeautifulSoup(r.text, 'html.parser')
         return soup
 
     def get_dict(self):
