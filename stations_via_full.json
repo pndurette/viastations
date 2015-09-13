@@ -23,7 +23,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Agincourt GO Station station train", 
+        "name": "Agincourt (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/AGCT", 
         "long": "", 
         "lat": "", 
@@ -44,8 +44,19 @@
         "sc": "AHUN"
     }, 
     {
+        "pv": "QC", 
+        "name": "Ahuntsic (AMT) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ASIC", 
+        "long": "", 
+        "lat": "", 
+        "sn": "AHUNTSIC", 
+        "dEn": "AHUNTSIC", 
+        "address": "9615, boulevard de l'Acadie, Ahuntsic-Cartierville, QC, Canada", 
+        "sc": "ASIC"
+    }, 
+    {
         "pv": "ON", 
-        "name": "Ajax station train", 
+        "name": "Ajax GO Transit station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/AJAX", 
         "long": "", 
         "lat": "", 
@@ -154,6 +165,17 @@
         "sc": "AMST"
     }, 
     {
+        "pv": "QC", 
+        "name": "Anjou (AMT) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/ANJO", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ANJOU", 
+        "dEn": "ANJOU", 
+        "address": "7260, 8e Rue, Anjou, QC, Canada", 
+        "sc": "ANJO"
+    }, 
+    {
         "pv": "ON", 
         "name": "Appleby station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/APPL", 
@@ -232,7 +254,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Aurora GO Station station train", 
+        "name": "Aurora (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/AROR", 
         "long": "", 
         "lat": "", 
@@ -264,17 +286,6 @@
         "sc": "BACK"
     }, 
     {
-        "pv": "AB", 
-        "name": "", 
-        "url": "http://www.viarail.ca/en/embedded/station/detail/BANF", 
-        "long": "", 
-        "lat": "", 
-        "sn": "BANFF", 
-        "dEn": "BANFF", 
-        "address": "", 
-        "sc": "BANF"
-    }, 
-    {
         "pv": "QC", 
         "name": "Barachois train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BARA", 
@@ -287,7 +298,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Barrie South GO Station station train", 
+        "name": "Barrie South (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BARS", 
         "long": "", 
         "lat": "", 
@@ -419,7 +430,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Bois-Franc, gare AMT station train", 
+        "name": "Bois-Franc (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BSFR", 
         "long": "", 
         "lat": "", 
@@ -496,7 +507,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Bradford GO Station station train", 
+        "name": "Bradford (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/BRFD", 
         "long": "", 
         "lat": "", 
@@ -738,7 +749,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Canora, Gare AMT station train", 
+        "name": "Canora (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CANR", 
         "long": "", 
         "lat": "", 
@@ -870,13 +881,13 @@
     }, 
     {
         "pv": "ON", 
-        "name": "", 
+        "name": "Centennial (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CENT", 
         "long": "", 
         "lat": "", 
         "sn": "CENTENNIAL", 
         "dEn": "CENTENNIAL", 
-        "address": "", 
+        "address": "320 Bullock Drive, Markham, ON, Canada", 
         "sc": "CENT"
     }, 
     {
@@ -949,11 +960,11 @@
         "pv": "NB", 
         "name": "Charlo train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CHLO", 
-        "long": "", 
-        "lat": "", 
+        "long": "-66.3056", 
+        "lat": "47.994", 
         "sn": "CHARLO", 
         "dEn": "CHARLO", 
-        "address": "Charlo, NB, Canada", 
+        "address": "685, Chaleur St., Charlo, NB, Canada", 
         "sc": "CHLO"
     }, 
     {
@@ -1059,8 +1070,8 @@
         "pv": "QC", 
         "name": "Clova train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CLOV", 
-        "long": "-75.2611", 
-        "lat": "48.5066", 
+        "long": "-75.3596", 
+        "lat": "48.1096", 
         "sn": "CLOVA", 
         "dEn": "CLOVA", 
         "address": "5 Rue Latagne, Clova, QC, G0X 3M0, Canada", 
@@ -1167,7 +1178,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Cooksville GO Station station train", 
+        "name": "Cooksville (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/CKVL", 
         "long": "", 
         "lat": "", 
@@ -1343,7 +1354,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Deux-Montagnes, gare AMT station train", 
+        "name": "Deux-Montagnes (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DXMT", 
         "long": "", 
         "lat": "", 
@@ -1387,7 +1398,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Dixie GO Station station train", 
+        "name": "Dixie (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DIXE", 
         "long": "", 
         "lat": "", 
@@ -1422,8 +1433,8 @@
         "pv": "QC", 
         "name": "Dorval train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DORV", 
-        "long": "-73.7388", 
-        "lat": "45.4473", 
+        "long": "-73.7414", 
+        "lat": "45.4488", 
         "sn": "DORVAL", 
         "dEn": "DORVAL", 
         "address": "755 Montréal-Toronto Blvd, Dorval, QC, H9S 1A1, Canada", 
@@ -1442,7 +1453,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Du Ruisseau, gare AMT station train", 
+        "name": "Du Ruisseau (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/DURS", 
         "long": "", 
         "lat": "", 
@@ -1508,7 +1519,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "East Gwillimbury GO Station station train", 
+        "name": "East Gwillimbury (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/ESGW", 
         "long": "", 
         "lat": "", 
@@ -1607,7 +1618,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Erindale GO Station station train", 
+        "name": "Erindale (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/ERIN", 
         "long": "", 
         "lat": "", 
@@ -1642,8 +1653,8 @@
         "pv": "AB", 
         "name": "Evansburg train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/EVAN", 
-        "long": "", 
-        "lat": "", 
+        "long": "-115.009", 
+        "lat": "53.5945", 
         "sn": "EVANSBURG", 
         "dEn": "EVANSBURG", 
         "address": "Evansburg, AB, Canada", 
@@ -1668,7 +1679,7 @@
         "lat": "45.3001", 
         "sn": "FALLOWFIELD", 
         "dEn": "FALLOWFIELD", 
-        "address": "3347 Fallowfield road, Barrhaven, ON, K2J 5K9, Canada", 
+        "address": "3347 Fallowfield Road, Barrhaven, ON, K2J 5K9, Canada", 
         "sc": "FALL"
     }, 
     {
@@ -1829,11 +1840,11 @@
         "pv": "ON", 
         "name": "Gananoque train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/GANA", 
-        "long": "", 
-        "lat": "", 
+        "long": "-76.1536", 
+        "lat": "44.3689", 
         "sn": "GANANOQUE", 
         "dEn": "GANANOQUE", 
-        "address": "North Station Rd., Gananoque, ON, Canada", 
+        "address": "North Station Rd., Gananoque, ON, K7G 2V3, Canada", 
         "sc": "GANA"
     }, 
     {
@@ -1981,7 +1992,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Grand-Moulin, gare AMT station train", 
+        "name": "Grand-Moulin (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/GDML", 
         "long": "", 
         "lat": "", 
@@ -2014,7 +2025,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Grimsby GO Bus Stop station train", 
+        "name": "Grimsby (GO Bus stop) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/GRIG", 
         "long": "", 
         "lat": "", 
@@ -2267,7 +2278,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "", 
+        "name": "Île-Bigras (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/ISLE", 
         "long": "", 
         "lat": "", 
@@ -2328,7 +2339,7 @@
         "lat": "47.9171", 
         "sn": "JACQUET RIVER", 
         "dEn": "JACQUET RIVER", 
-        "address": "Jacquet River, NB, E8G 2K6, Canada", 
+        "address": "51, Dr. Ellis Lane, Jacquet River, NB, E8G 2K6, Canada", 
         "sc": "JACR"
     }, 
     {
@@ -2421,7 +2432,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Kennedy GO Station station train", 
+        "name": "Kennedy (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/KNDY", 
         "long": "", 
         "lat": "", 
@@ -2443,7 +2454,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "King City GO Station station train", 
+        "name": "King City (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/KING", 
         "long": "", 
         "lat": "", 
@@ -2476,7 +2487,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Kipling Go Station station train", 
+        "name": "Kipling (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/KPLG", 
         "long": "", 
         "lat": "", 
@@ -2662,17 +2673,6 @@
         "sc": "LAFO"
     }, 
     {
-        "pv": "AB", 
-        "name": "", 
-        "url": "http://www.viarail.ca/en/embedded/station/detail/LLOU", 
-        "long": "", 
-        "lat": "", 
-        "sn": "LAKE LOUISE", 
-        "dEn": "LAKE LOUISE", 
-        "address": "", 
-        "sc": "LLOU"
-    }, 
-    {
         "pv": "MB", 
         "name": "Lamprey train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/LAMP", 
@@ -2696,7 +2696,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Langstaff GO Station station train", 
+        "name": "Langstaff (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/LANG", 
         "long": "", 
         "lat": "", 
@@ -2773,7 +2773,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Lincolnville GO Station station train", 
+        "name": "Lincolnville (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/LNVL", 
         "long": "", 
         "lat": "", 
@@ -2784,7 +2784,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Lisgar GO Station station train", 
+        "name": "Lisgar (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/LSGR", 
         "long": "", 
         "lat": "", 
@@ -2938,7 +2938,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Maple GO Station station train", 
+        "name": "Maple (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MPLE", 
         "long": "", 
         "lat": "", 
@@ -2949,7 +2949,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Markham GO Station station train", 
+        "name": "Markham (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MHAM", 
         "long": "", 
         "lat": "", 
@@ -2957,6 +2957,17 @@
         "dEn": "MARKHAM", 
         "address": "214 Main Street Markham N., Markham, ON, Canada", 
         "sc": "MHAM"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Mascouche (AMT) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/MASC", 
+        "long": "", 
+        "lat": "", 
+        "sn": "MASCOUCHE", 
+        "dEn": "MASCOUCHE", 
+        "address": "1450, avenue de la Gare, Mascouche, QC, Canada", 
+        "sc": "MASC"
     }, 
     {
         "pv": "QC", 
@@ -3037,7 +3048,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "McMasterville, gare AMT station train", 
+        "name": "McMasterville (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MCMA", 
         "long": "", 
         "lat": "", 
@@ -3059,7 +3070,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Meadowvale GO Station station train", 
+        "name": "Meadowvale (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MDVL", 
         "long": "", 
         "lat": "", 
@@ -3083,8 +3094,8 @@
         "pv": "SK", 
         "name": "Melville train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MELV", 
-        "long": "-102.872", 
-        "lat": "51.1382", 
+        "long": "-102.807", 
+        "lat": "50.9266", 
         "sn": "MELVILLE", 
         "dEn": "MELVILLE", 
         "address": "Main St & 1st Ave, Melville, SK, S0A 2P0, Canada", 
@@ -3114,7 +3125,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Milliken GO Station station train", 
+        "name": "Milliken (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MLKN", 
         "long": "", 
         "lat": "", 
@@ -3125,7 +3136,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Milton GO Station station train", 
+        "name": "Milton (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MLTN", 
         "long": "", 
         "lat": "", 
@@ -3246,7 +3257,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Montpellier, gare AMT station train", 
+        "name": "Montpellier (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MTPL", 
         "long": "", 
         "lat": "", 
@@ -3257,13 +3268,13 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Montréal Trudeau International Airport (Shuttle)", 
+        "name": "Montréal Aéroport International Trudeau station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/XYUL", 
         "long": "-73.5769", 
         "lat": "45.4496", 
         "sn": "MONTRÉAL TRUDEAU AIRPORT", 
         "dEn": "MONTRÉAL TRUDEAU AIRPORT", 
-        "address": "975 North Roméo-Vachon, Dorval, Québec, H4H 1H1, Canada", 
+        "address": "975 North Roméo-Vachon, Dorval, QC, H4H 1H1, Canada", 
         "sc": "XYUL"
     }, 
     {
@@ -3279,7 +3290,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Mont-Royal, gare AMT station train", 
+        "name": "Mont-Royal (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MTRY", 
         "long": "", 
         "lat": "", 
@@ -3290,7 +3301,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Mont-Saint-Hilaire, gare AMT station train", 
+        "name": "Mont-Saint-Hilaire (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MTSH", 
         "long": "", 
         "lat": "", 
@@ -3301,7 +3312,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Mount Joy GO Station station train", 
+        "name": "Mount Joy (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/MTJY", 
         "long": "", 
         "lat": "", 
@@ -3358,8 +3369,8 @@
         "pv": "ON", 
         "name": "Napanee train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/NAPN", 
-        "long": "-76.9581", 
-        "lat": "44.2522", 
+        "long": "-76.9545", 
+        "lat": "44.253", 
         "sn": "NAPANEE", 
         "dEn": "NAPANEE", 
         "address": "301 John St., Napanee, ON, K7R 3L3, Canada", 
@@ -3422,7 +3433,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Newmarket GO Station station train", 
+        "name": "Newmarket (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/NMKT", 
         "long": "", 
         "lat": "", 
@@ -3433,7 +3444,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Niagara Falls GO Bus Stop station train", 
+        "name": "Niagara Falls (GO Bus stop) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/NIAF", 
         "long": "", 
         "lat": "", 
@@ -3444,7 +3455,7 @@
     }, 
     {
         "pv": "NY", 
-        "name": "Niagara Falls station train", 
+        "name": "Niagara Falls station (Amtrak)", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/NFNY", 
         "long": "-79.0293", 
         "lat": "43.1163", 
@@ -3576,7 +3587,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Old Cummer GO Station station train", 
+        "name": "Old Cummer (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/OLDC", 
         "long": "", 
         "lat": "", 
@@ -3787,11 +3798,11 @@
         "pv": "NB", 
         "name": "Petit Rocher train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/PROC", 
-        "long": "", 
-        "lat": "", 
+        "long": "-65.7319", 
+        "lat": "47.7819", 
         "sn": "PETIT ROCHER", 
         "dEn": "PETIT ROCHER", 
-        "address": "Petit Rocher, NB, Canada", 
+        "address": "Laplante street, Petit Rocher, NB, Canada", 
         "sc": "PROC"
     }, 
     {
@@ -3862,13 +3873,13 @@
     }, 
     {
         "pv": "QC", 
-        "name": "", 
+        "name": "Pointe-aux-Trembles (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/PATX", 
         "long": "", 
         "lat": "", 
         "sn": "POINTE-AUX-TREMBLES", 
         "dEn": "POINTE-AUX-TREMBLES", 
-        "address": "", 
+        "address": "14501, rue Sherbrooke Est, Montréal, QC", 
         "sc": "PATX"
     }, 
     {
@@ -3974,11 +3985,11 @@
         "pv": "BC", 
         "name": "Prince Rupert train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/PRUP", 
-        "long": "-130.339", 
-        "lat": "54.3009", 
+        "long": "-130.342", 
+        "lat": "54.2977", 
         "sn": "PRINCE RUPERT", 
         "dEn": "PRINCE RUPERT", 
-        "address": "2000 Park Ave., Prince Rupert, BC, V8J 4P7, Canada", 
+        "address": "2000 Park Ave. (P.O. Box 1033), Prince Rupert, BC, V8J 4P7, Canada", 
         "sc": "PRUP"
     }, 
     {
@@ -4005,7 +4016,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Québec city train station", 
+        "name": "Québec City train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/QBEC", 
         "long": "-71.2133", 
         "lat": "46.8174", 
@@ -4081,6 +4092,17 @@
         "sc": "RDDT"
     }, 
     {
+        "pv": "QC", 
+        "name": "Repentigny (AMT) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RPEN", 
+        "long": "", 
+        "lat": "", 
+        "sn": "REPENTIGNY", 
+        "dEn": "REPENTIGNY", 
+        "address": "55, boulevard Lacombe, Repentigny, QC, Canada", 
+        "sc": "RPEN"
+    }, 
+    {
         "pv": "SK", 
         "name": "Reserve train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/RSRV", 
@@ -4106,8 +4128,8 @@
         "pv": "ON", 
         "name": "Rice Lake train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/RCLK", 
-        "long": "", 
-        "lat": "", 
+        "long": "-95.1169", 
+        "lat": "49.8903", 
         "sn": "RICE LAKE", 
         "dEn": "RICE LAKE", 
         "address": "Rice Lake, ON, Canada", 
@@ -4126,7 +4148,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Richmond Hill GO Station station train", 
+        "name": "Richmond Hill (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/RCHL", 
         "long": "", 
         "lat": "", 
@@ -4161,12 +4183,23 @@
         "pv": "QC", 
         "name": "Rivière-à-Pierre train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/RAPX", 
-        "long": "-70.3907", 
-        "lat": "47.4089", 
+        "long": "-72.1806", 
+        "lat": "46.991", 
         "sn": "RIVIERE-A-PIERRE", 
         "dEn": "RIVIERE-A-PIERRE", 
         "address": "470 rue Principale, Rivière-à-Pierre, QC, G0A 3A0, Canada", 
         "sc": "RAPX"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Rivière-des-Prairies (AMT) train station", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/RDPR", 
+        "long": "", 
+        "lat": "", 
+        "sn": "RIVIÈRE-DES-PRAIRIES", 
+        "dEn": "RIVIÈRE-DES-PRAIRIES", 
+        "address": "10801, boulevard Maurice-Duplessis, Montréal, QC, Canada", 
+        "sc": "RDPR"
     }, 
     {
         "pv": "QC", 
@@ -4269,7 +4302,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Roxboro-Pierrefonds, gare AMT station train", 
+        "name": "Roxboro-Pierrefonds (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/ROXB", 
         "long": "", 
         "lat": "", 
@@ -4302,7 +4335,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Rutherford GO Station station train", 
+        "name": "Rutherford (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/RUTH", 
         "long": "", 
         "lat": "", 
@@ -4335,7 +4368,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Sainte-Doroth", 
+        "name": "Sainte-Dorothée (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/STDT", 
         "long": "", 
         "lat": "", 
@@ -4467,13 +4500,13 @@
     }, 
     {
         "pv": "NY", 
-        "name": "", 
+        "name": "Schenectady station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SCHE", 
-        "long": "", 
-        "lat": "", 
+        "long": "-73.9432", 
+        "lat": "42.8144", 
         "sn": "SCHENECTADY", 
         "dEn": "SCHENECTADY", 
-        "address": "", 
+        "address": "332 Erie Blvd., Schenectady, NY, 12305, US", 
         "sc": "SCHE"
     }, 
     {
@@ -4643,7 +4676,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "St.Catharines GO Bus Stop station train", 
+        "name": "St.Catharines (GO Bus stop) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SCAG", 
         "long": "", 
         "lat": "", 
@@ -4687,7 +4720,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Saint-Basile-le-Grand, gare AMT station train", 
+        "name": "Saint-Basile-le-Grand (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SBLG", 
         "long": "", 
         "lat": "", 
@@ -4720,6 +4753,17 @@
     }, 
     {
         "pv": "QC", 
+        "name": "Saint-Léonard - Montréal-Nord (AMT) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STLE", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ST-LÉONARD-MONTRÉAL-NORD", 
+        "dEn": "ST-LÉONARD-MONTRÉAL-NORD", 
+        "address": "10710, boulevard Lacordaire, Montréal-Nord, QC, Canada", 
+        "sc": "STLE"
+    }, 
+    {
+        "pv": "QC", 
         "name": "Saint-Maurice Rivière Boom train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SMRB", 
         "long": "", 
@@ -4730,8 +4774,19 @@
         "sc": "SMRB"
     }, 
     {
+        "pv": "QC", 
+        "name": "Saint-Michel-Montréal-Nord (AMT) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/STMI", 
+        "long": "", 
+        "lat": "", 
+        "sn": "ST-MICHEL-MONTRÉAL-NORD", 
+        "dEn": "ST-MICHEL-MONTRÉAL-NORD", 
+        "address": "9990, boulevard Pie-IX, Montréal-Nord, QC, Canada", 
+        "sc": "STMI"
+    }, 
+    {
         "pv": "ON", 
-        "name": "Stoney Creek GO Bus Stop station train", 
+        "name": "Stoney Creek (GO Bus stop) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/STOC", 
         "long": "", 
         "lat": "", 
@@ -4742,7 +4797,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Stouffville GO Station station train", 
+        "name": "Stouffville GO Station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/STFV", 
         "long": "", 
         "lat": "", 
@@ -4799,30 +4854,30 @@
         "pv": "ON", 
         "name": "Strathroy train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/STRR", 
-        "long": "", 
-        "lat": "", 
+        "long": "-81.623", 
+        "lat": "42.9548", 
         "sn": "STRATHROY", 
         "dEn": "STRATHROY", 
-        "address": "Strathroy, ON, Canada", 
+        "address": "Strathroy, ON, N7G 1P3, Canada", 
         "sc": "STRR"
     }, 
     {
         "pv": "ON", 
-        "name": "Streetsville GO Station station train", 
+        "name": "Streetsville GO Station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/STVL", 
         "long": "", 
         "lat": "", 
         "sn": "STREETSVILLE", 
         "dEn": "STREETSVILLE", 
-        "address": "45 Thomas Street, Mississauga, ON, Canada", 
+        "address": "45 Thomas Street, Mississauga, Ontario, Canada", 
         "sc": "STVL"
     }, 
     {
         "pv": "QC", 
         "name": "Saint-Tite train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/STIT", 
-        "long": "-72.5048", 
-        "lat": "46.7444", 
+        "long": "-72.5638", 
+        "lat": "46.7236", 
         "sn": "ST-TITE", 
         "dEn": "ST-TITE", 
         "address": "310 Machildon, Saint-Tite, QC, G0X 3H0, Canada", 
@@ -4843,8 +4898,8 @@
         "pv": "ON", 
         "name": "Sudbury Jct train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SUDJ", 
-        "long": "-80.9666", 
-        "lat": "46.5203", 
+        "long": "-80.9017", 
+        "lat": "46.5242", 
         "sn": "SUDBURY JCT", 
         "dEn": "SUDBURY JCT", 
         "address": "2750 Lasalle Boul. Est, Sudbury Jct, ON, P3A 4R7, Canada", 
@@ -4896,7 +4951,7 @@
     }, 
     {
         "pv": "QC", 
-        "name": "Sunnybrooke, gare AMT station train", 
+        "name": "Sunnybrooke (AMT) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/SNYB", 
         "long": "", 
         "lat": "", 
@@ -4913,7 +4968,7 @@
         "lat": "43.0747", 
         "sn": "SYRACUSE", 
         "dEn": "SYRACUSE", 
-        "address": "1 Walsh Circle, Syracuse, NY, 13208, US", 
+        "address": "131 Alliance Bank Parkway Regional Transportation Center, Suite 2, Syracuse, NY, 13208, US", 
         "sc": "SYRA"
     }, 
     {
@@ -4948,6 +5003,17 @@
         "dEn": "TERRACE-KITIMAT", 
         "address": "", 
         "sc": "XYXT"
+    }, 
+    {
+        "pv": "QC", 
+        "name": "Terrebonne (AMT) station train", 
+        "url": "http://www.viarail.ca/en/embedded/station/detail/TERB", 
+        "long": "", 
+        "lat": "", 
+        "sn": "TERREBONNE", 
+        "dEn": "TERREBONNE", 
+        "address": "4000, Boulevard Marcel-Therrien, Terrebonne, QC, Canada", 
+        "sc": "TERB"
     }, 
     {
         "pv": "MB", 
@@ -5028,18 +5094,18 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Billy Bishop Toronto City Airport (Shuttle)", 
+        "name": "", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/XYTZ", 
         "long": "", 
         "lat": "", 
         "sn": "TORONTO BILLY BISHOP", 
         "dEn": "TORONTO BILLY BISHOP", 
-        "address": "2 Eireann Quay, Toronto, Ontario, M5V 1A1, Canada", 
+        "address": "", 
         "sc": "XYTZ"
     }, 
     {
         "pv": "ON", 
-        "name": "Toronto Pearson International Airport station train", 
+        "name": "Toronto Pearson International Airport", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/XYYZ", 
         "long": "-79.6238", 
         "lat": "43.6904", 
@@ -5050,12 +5116,12 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Toronto train station", 
+        "name": "Toronto Union Station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/TRTO", 
         "long": "-79.3796", 
         "lat": "43.6459", 
-        "sn": "TORONTO", 
-        "dEn": "TORONTO", 
+        "sn": "TORONTO UNION STATION", 
+        "dEn": "TORONTO UNION STATION", 
         "address": "Union Station, 65 Front Street West, Toronto, ON, M5J 1E6, Canada", 
         "sc": "TRTO"
     }, 
@@ -5127,7 +5193,7 @@
     }, 
     {
         "pv": "ON", 
-        "name": "Unionville GO Station station train", 
+        "name": "Unionville (GO) station train", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/UNVL", 
         "long": "", 
         "lat": "", 
@@ -5298,7 +5364,7 @@
         "lat": "", 
         "sn": "WAINWRIGHT", 
         "dEn": "WAINWRIGHT", 
-        "address": "10th Street & 1st Avenue,, Wainwright, AB, CANADA", 
+        "address": "10th Street & 1st Avenue, Wainwright, AB, CANADA", 
         "sc": "WAIN"
     }, 
     {
@@ -5481,8 +5547,8 @@
         "pv": "MB", 
         "name": "Winnipeg train station", 
         "url": "http://www.viarail.ca/en/embedded/station/detail/WNPG", 
-        "long": "-97.1258", 
-        "lat": "49.8791", 
+        "long": "-97.1342", 
+        "lat": "49.8889", 
         "sn": "WINNIPEG", 
         "dEn": "WINNIPEG", 
         "address": "123 Main Street, #146, Winnipeg, MB, R3C 1A3, Canada", 

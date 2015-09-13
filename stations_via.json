@@ -24,6 +24,12 @@
         "dEn": "AHUNTSIC"
     }, 
     {
+        "sc": "ASIC", 
+        "pv": "QC", 
+        "sn": "AHUNTSIC", 
+        "dEn": "AHUNTSIC"
+    }, 
+    {
         "sc": "AJAX", 
         "pv": "ON", 
         "sn": "AJAX", 
@@ -84,6 +90,12 @@
         "dEn": "AMSTERDAM"
     }, 
     {
+        "sc": "ANJO", 
+        "pv": "QC", 
+        "sn": "ANJOU", 
+        "dEn": "ANJOU"
+    }, 
+    {
         "sc": "APPL", 
         "pv": "ON", 
         "sn": "APPLEBY", 
@@ -142,12 +154,6 @@
         "pv": "MB", 
         "sn": "BACK", 
         "dEn": "BACK"
-    }, 
-    {
-        "sc": "BANF", 
-        "pv": "AB", 
-        "sn": "BANFF", 
-        "dEn": "BANFF"
     }, 
     {
         "sc": "BARA", 
@@ -1452,12 +1458,6 @@
         "dEn": "LAFOREST"
     }, 
     {
-        "sc": "LLOU", 
-        "pv": "AB", 
-        "sn": "LAKE LOUISE", 
-        "dEn": "LAKE LOUISE"
-    }, 
-    {
         "sc": "LAMP", 
         "pv": "MB", 
         "sn": "LAMPREY", 
@@ -1612,6 +1612,12 @@
         "pv": "ON", 
         "sn": "MARKHAM", 
         "dEn": "MARKHAM"
+    }, 
+    {
+        "sc": "MASC", 
+        "pv": "QC", 
+        "sn": "MASCOUCHE", 
+        "dEn": "MASCOUCHE"
     }, 
     {
         "sc": "MTPD", 
@@ -2226,6 +2232,12 @@
         "dEn": "REDDITT"
     }, 
     {
+        "sc": "RPEN", 
+        "pv": "QC", 
+        "sn": "REPENTIGNY", 
+        "dEn": "REPENTIGNY"
+    }, 
+    {
         "sc": "RSRV", 
         "pv": "SK", 
         "sn": "RESERVE", 
@@ -2272,6 +2284,12 @@
         "pv": "QC", 
         "sn": "RIVIERE-A-PIERRE", 
         "dEn": "RIVIERE-A-PIERRE"
+    }, 
+    {
+        "sc": "RDPR", 
+        "pv": "QC", 
+        "sn": "RIVIÈRE-DES-PRAIRIES", 
+        "dEn": "RIVIÈRE-DES-PRAIRIES"
     }, 
     {
         "sc": "RDLX", 
@@ -2574,10 +2592,22 @@
         "dEn": "ST-JUSTIN"
     }, 
     {
+        "sc": "STLE", 
+        "pv": "QC", 
+        "sn": "ST-LÉONARD-MONTRÉAL-NORD", 
+        "dEn": "ST-LÉONARD-MONTRÉAL-NORD"
+    }, 
+    {
         "sc": "SMRB", 
         "pv": "QC", 
         "sn": "ST-MAURICE RIVIERE BOOM", 
         "dEn": "ST-MAURICE RIVIERE BOOM"
+    }, 
+    {
+        "sc": "STMI", 
+        "pv": "QC", 
+        "sn": "ST-MICHEL-MONTRÉAL-NORD", 
+        "dEn": "ST-MICHEL-MONTRÉAL-NORD"
     }, 
     {
         "sc": "STOC", 
@@ -2700,6 +2730,12 @@
         "dEn": "TERRACE-KITIMAT"
     }, 
     {
+        "sc": "TERB", 
+        "pv": "QC", 
+        "sn": "TERREBONNE", 
+        "dEn": "TERREBONNE"
+    }, 
+    {
         "sc": "TPAS", 
         "pv": "MB", 
         "sn": "THE PAS", 
@@ -2756,8 +2792,8 @@
     {
         "sc": "TRTO", 
         "pv": "ON", 
-        "sn": "TORONTO", 
-        "dEn": "TORONTO"
+        "sn": "TORONTO UNION STATION", 
+        "dEn": "TORONTO UNION STATION"
     }, 
     {
         "sc": "TREM", 
