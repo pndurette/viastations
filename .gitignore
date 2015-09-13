@@ -12,6 +12,7 @@ dist
 build
 eggs
 parts
+env
 bin
 var
 sdist
