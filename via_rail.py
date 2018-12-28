@@ -16,10 +16,10 @@ class Station:
     
     def fetch_name(self, soup):
         """Full name"""
-        """<h1 class='title'></h1>"""
+        """<h1 class="heading-large-bold--drupal">name</h1>"""
 
         try:
-            return soup.find("h1", { "class": "title" }).get_text()
+            return soup.find("h1", { "class": "heading-large-bold--drupal" }).get_text()
         except Exception:
             return ""
 
@@ -39,15 +39,15 @@ class Station:
     def fetch_latlong(self, soup):
         """Get geographical coordinates"""
         """Extract from the only Google Maps link, if any"""
-        """<a [...] href="https://maps.google.com/maps?q=45.5001,-73.5662+(...)">[...]</a>"""
-        
+        """<a [...] href="https://www.google.com/maps?q=45.5001,-73.5662+(...)">[...]</a>"""
+
         try:
             # Get the coordinates, between '=' and '+'
-            googlemap_href = soup.find("a", href=re.compile("maps.google.com"))['href']
-            coordinates_string = re.search('\=(.*)\+', googlemap_href).group(1)
+            googlemap_href = soup.find("a", href=re.compile("google.com/maps"))['href']
+            coordinates_string = re.search(r'\=(.*)\+', googlemap_href).group(1)
             coordinates_list = coordinates_string.split(',')
             return (coordinates_list[0], coordinates_list[1])
-        except Exception:    
+        except Exception as e:
             return ("", "")
 
     def fetch_page(self, url):
@@ -76,7 +76,7 @@ class VIA:
         stations = []
         for l in ascii_lowercase:
             r = requests.get(self.via_stations_url + '?q=' + l)
-            print "Processing stations starting with '{0}'".format(l.upper())
+            print("Processing stations starting with '{0}'".format(l.upper()))
             
             if not full:
                 # Use as is    
@@ -87,7 +87,7 @@ class VIA:
                 for station in stations_subset:
                     details = Station(station['sc']).get_dict() # sc: station code
                     station.update(details)
-                    print "Processed '{0}'".format(station['name'].encode("utf8"))
+                    print("Processed '{}'".format(station['name']))
                     stations.append(station)
         
         self.save(stations, filename)
@@ -95,10 +95,10 @@ class VIA:
     def save(self, json_struct, filename):
         """Dumps JSON then save to file"""
 
-        dump = json.dumps(json_struct, ensure_ascii=False, indent=4).encode('utf8')        
         with open(filename, 'w') as f:
-            f.write(dump)
-        print "Fetched {0} stations to: {1}".format(len(json_struct), filename)
+            json.dump(json_struct, f)
+            #f.write(str(dump))
+        print("Fetched {0} stations to: {1}".format(len(json_struct), filename))
 
 def main():
     pass
