@@ -97,7 +97,6 @@ class VIA:
 
         with open(filename, 'w') as f:
             json.dump(json_struct, f)
-            #f.write(str(dump))
         print("Fetched {0} stations to: {1}".format(len(json_struct), filename))
 
 def main():
